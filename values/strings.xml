@@ -86,7 +86,7 @@
     <string name="pokemesh_disconnect_confirmation">Are you sure you want to disconnect this account?</string>
     <string name="pokemesh_searching_gps">Detecting location…</string>
     <string name="pokemesh_start_pokemesh">Start PokéMesh</string>
-    <string name="pokemesh_support_us_lock">Please, turn in \"Support us\" in settings to use this feature!</string>
+    <string name="pokemesh_support_us_lock">Please, turn in \"Support us\" in settings in order to use this feature!</string>
     <string name="pokemesh_map">Map</string>
     <string name="pokemesh_stock_icons_summary">Use stock icons. A censor mask will be applied due to Nintendo\'s copyrights.</string>
     <string name="pokemesh_stock_icons">Stock icons</string>
@@ -117,7 +117,11 @@
     <string name="pokemesh_overlay">Overlay</string>
     <string name="pokemesh_overlay_summary">Toggle the overlay map when PokéMesh is running in background</string>
     <string name="pokemesh_club_nickname_short">The user name is too short! Use at least 3 characters.</string>
-    <string name="pokemesh_club_nickname_alphanumeric">The choosen nick name contains invalid character.</string>
+    <string name="pokemesh_club_nickname_alphanumeric">The chosen nick name contains invalid character.</string>
     <string name="pokemesh_club_public">Public</string>
     <string name="pokemesh_club_groups">Groups</string>
+    <string name="pokemesh_overlay_position">Overlay position</string>
+    <string name="pokemesh_overlay_position_summary">Choose the position of the overlay map</string>
+    <string name="pokemesh_overlay_size">Overlay size</string>
+    <string name="pokemesh_overlay_size_summary">Choose the size of the overlay map</string>
 </resources>
