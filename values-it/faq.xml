@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Come posso scannerizzare una determinata posizione?</string>
+    <string name="pokemesh_faq_long_tap_summary">E\' possibile effettuare uno scan in una qualsiasi posizione tenendo premuto a lungo sulla mappa nella posizione desiderata. Se è già in corso una scansione, essa verrà interrotta ed inizierà immediatemente quella nuova.</string>
+    <string name="pokemesh_faq_icons_blur">Le mie icone alternative sono sfocate</string>
+    <string name="pokemesh_faq_icons_blur_summary">Per via del copyright imposto da Nintendo, le icone originali dei Pokémon avranno una sfocatura ed una leggera distorsione.</string>
+    <string name="pokemesh_faq_report">Ho dei problemi ad usare PokéMesh</string>
+    <string name="pokemesh_faq_report_summary">Siamo sempre in ascolto sui nostri profili social e nel nostro canale Discord per eventuali problemi ad utilizzare PokéMesh. Vi invitiamo a contattarci per qualsiasi problema!</string>
+</resources>

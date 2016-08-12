@@ -107,4 +107,19 @@
     <string name="pokemesh_faq">F.A.Q and How to</string>
     <string name="pokemesh_screenshot_fail">Something went wrong while taking the screenshot.</string>
     <string name="pokemesh_translations">Translations</string>
+
+    <string name="credits">Sviluppata da PokéMesh - Crediti: PoGoAPI, Unknown6 Team</string>
+    <string name="pokemesh_remotly_disabled">PokéMesh è al momento disabilitata. Seguici sui nostri canali social per maggiori informazioni ed aggiornamenti.</string>
+    <string name="pokemesh_club">PokéMesh Club</string>
+    <string name="insert_username">Sccegli un User name</string>
+    <string name="pokemesh_overlay">Overlay</string>
+    <string name="pokemesh_overlay_summary">Abilita la mappa in overlay alla chiusura di PokéMesh</string>
+    <string name="pokemesh_club_nickname_short">L\'user name è troppo corto. Perfavore, utilizza almeno 3 caratteri.</string>
+    <string name="pokemesh_club_nickname_alphanumeric">L\'user name contiene dei caratteri non validi.</string>
+    <string name="pokemesh_club_public">Pubblico</string>
+    <string name="pokemesh_club_groups">Gruppi</string>
+    <string name="pokemesh_overlay_position">Posizione overlay</string>
+    <string name="pokemesh_overlay_position_summary">Scegli la posizione della mappa in overlay</string>
+    <string name="pokemesh_overlay_size">Dimensioni overlay</string>
+    <string name="pokemesh_overlay_size_summary">Scegli le dimensioni della mappa in overlay</string>
 </resources>
