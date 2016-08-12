@@ -3,6 +3,7 @@ PokéMesh translation project.
 How to translate:
 
 - Fork the repository
+- Optionally star and watch to get notified every time we update the strings
 
 Step by step if you are going to create a new translation:
 - Create the localized directory with the localized name (I.E values-fr for French, values-it for Italian, values-es for Spanish etc.)
