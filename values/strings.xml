@@ -112,7 +112,7 @@
     <string name="pokemesh_news">News</string>
     <string name="pokemesh_faq">F.A.Q and How to</string>
     <string name="pokemesh_screenshot_fail">Something went wrong while taking the screenshot.</string>
-    <string name="pokemesh_translations">Translations</string>
+    <string name="pokemesh_translations">Translations team:</string>
 
     <string name="credits">Developed by PokéMesh - Credits: PoGoAPI, Unknown6 Team</string>
     <string name="pokemesh_remotly_disabled">PokéMesh map is currently disabled. Follow us on Facebook for more updates.</string>
