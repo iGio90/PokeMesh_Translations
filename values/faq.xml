@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">How can I scan a custom location?</string>
+    <string name="pokemesh_faq_long_tap_summary">You can scan on custom location by long tap on the map. If you start a new scan, the previous one will be interrupted if it\'s not yet completed</string>
+    <string name="pokemesh_faq_icons_blur">My alternative icons are blurred and messed up</string>
+    <string name="pokemesh_faq_icons_blur_summary">Due to Nintendo\'s copyrights, we can\'t use stock Pokémon icons on our app. The original icons with original shapes will be blurred and filtered to avoid legal issues.</string>
+    <string name="pokemesh_faq_report">I have some problem using PokéMesh</string>
+    <string name="pokemesh_faq_report_summary">We are always on top of our social pages to listen for any problems and try to solve them as fast as possible!</string>
+</resources>

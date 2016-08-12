@@ -1,0 +1,12 @@
+/.DS_STORE
+/anim
+/animator
+/drawable
+/drawable*
+/layout
+/mipmap*
+/values-w820dp
+/values-v21
+/values/dimens.xml
+/values/colors.xml
+/values/styles.xml
