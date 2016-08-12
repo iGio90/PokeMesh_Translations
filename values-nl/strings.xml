@@ -35,15 +35,15 @@
     <string name="pokemesh_mesh_disabled">Notificaties uitgeschakeld</string>
     <string name="pokemesh_mesh_enabled">Notitificaties ingeschakeld</string>
     <string name="pokemesh_mesh_finding">Geen nabije Pokémon op het moment!</string>
-    <string name="pokemesh_meshed">Een %s is in de buurt!</string>
-    <string name="pokemesh_multi_meshed" formatted="false">Er zijn %s in de buurt van %s!</string> <!-- Questionable! Not sure what the last parameter is used for! -->
+    <string name="pokemesh_meshed">Er is een %s in de buurt!</string>
+    <string name="pokemesh_multi_meshed" formatted="false">Er zijn %s %s in de buurt!</string>
     <string name="pokemesh_big_multi_meshed">Er zijn meerdere Pokémon in de buurt!</string>
 
     <string name="pokemesh_support_us">PokéMesh steunen</string>
     <string name="pokemesh_support_us_summary">Na iedere 30 scans een advertentie op volledig scherm tonen</string>
     <string name="pokemesh_about">Over</string>
-    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string> <!-- May I suggest making these two also non-translatable? Considered that you'd like to keep a single facebook/twitter page for everything! -->
-    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string> <!-- May I suggest making these two also non-translatable? Considered that you'd like to keep a single facebook/twitter page for everything! -->
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
     <string name="pokemesh_follow_us">Volg ons</string>
     <string name="pokemesh_check_update">Bijwerken</string>
     <string name="pokemesh_checking_update">Controleren op updates…</string>
@@ -60,7 +60,7 @@
     <string name="pokemesh_got_pokemesh_credentials">PokéMesh gegevens aangemaakt!</string>
     <string name="pokemesh_club_down">Pokémon GO servers zijn momenteel offline of niet bereikbaar. Probeer het later opnieuw!</string>
     <string name="pokemesh_no_internet">Communicatie met het netwerk mislukt. Probeer het later opnieuw!</string>
-    <string name="pokemesh_got_it">Got it!</string> <!-- Questionable! Not sure where this string is used in the app! -->
+    <string name="pokemesh_got_it">Got it!</string>
     <string name="pokemesh_hey">Hey!</string>
     <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon en Pokémon karakters vallen onder het handelsmerk van Nintendo. Overige handelsmerken zijn eigendom van de rechtmatige eigenaar.</string>
     <string name="pokemesh_ptc_down">Pokémon Trainers Club is momenteel offline of niet bereikbaar.\nProbeer het later opnieuw!</string>
