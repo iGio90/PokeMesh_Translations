@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">¿Cómo puedo buscar una ubicación personalizada?</string>
+    <string name="pokemesh_faq_long_tap_summary">Puedes buscar una ubicación personalizada manteniendo el toque en el mapa. Si inicias una nueva búsqueda, la anterior se interrumpirá si todavía no se ha completado.</string>
+    <string name="pokemesh_faq_icons_blur">Mis iconos alternativos son borrosos y se ven mal.</string>
+    <string name="pokemesh_faq_icons_blur_summary">Debido a los derechos de autor de Nintendo, nosotros no podemos utilizar los iconos de Pokémon en nuestra aplicación. Los iconos originales con formas originales serán borrosos y filtrados para evitar problemas legales.</string>
+    <string name="pokemesh_faq_report">Tengo algunos problemas utilizando PokéMesh.</string>
+    <string name="pokemesh_faq_report_summary">Nosotros estamos siempre pendientes de nuestras páginas sociales para escuchar los problemas y tratar de resolverlos lo más rápido posible!</string>
+</resources>
