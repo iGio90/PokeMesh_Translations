@@ -91,7 +91,7 @@
     <string name="pokemesh_stock_icons_summary">Verwende die Standard Symbole. Eine Filter-Maske wird verwendet auf Grund von Nintendo\'s Urheberrechten.</string>
     <string name="pokemesh_stock_icons">Standard Symbole</string>
     <string name="pokemesh_additional">Zusaetzlich</string>
-    <string name="pokemesh_relax_mode">Relaxter Modus<string>
+    <string name="pokemesh_relax_mode">Relaxter Modus</string>
     <string name="pokemesh_relax_mode_summary">Wenn der relaxte Modus aktiviert ist, wird jedesmal ein Hintergrunddienst aktiviert, sobald Du PokéMesh schliesst. Eine Benachrichtigungs-Symbol zeigt an, dass der Dienst im Hintergrund laeuft. Der relaxte Modus wird periodisch deinen Standort absuchen und Dir die Pokémon in der Naehe per Benachrichtigung melden!</string>
     <string name="pokemesh_vibration">Vibration</string>
     <string name="pokemesh_vibration_summary">Aktiviere die Vibration für Benachrichtigungen im relaxten Modus.</string>
