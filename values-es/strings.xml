@@ -86,7 +86,7 @@
     <string name="pokemesh_disconnect_confirmation">Estás seguro que quieres desconectar esta cuenta?</string>
     <string name="pokemesh_searching_gps">Detectando ubicación…</string>
     <string name="pokemesh_start_pokemesh">Iniciar PokéMesh</string>
-    <string name="pokemesh_support_us_lock">Por favor, vaya a \"Ayuda a PokéMesh\" en configuración para usar esta característica!</string>
+    <string name="pokemesh_support_us_lock">Por favor, vaya a \"Ayuda a PokéMesh\" en configuración con el fin de utilizar esta característica!</string>
     <string name="pokemesh_map">Mapa</string>
     <string name="pokemesh_stock_icons_summary">Usar iconos comunes. Una máscara de censura será aplicada debido a los derechos de autor de Nintendo.</string>
     <string name="pokemesh_stock_icons">Iconos comunes</string>
@@ -120,4 +120,8 @@
     <string name="pokemesh_club_nickname_alphanumeric">El nombre de usuario elegido contiene caracteres inválidos.</string>
     <string name="pokemesh_club_public">Publico</string>
     <string name="pokemesh_club_groups">Grupos</string>
+    <string name="pokemesh_overlay_position">Posición de la capa</string>
+    <string name="pokemesh_overlay_position_summary">Elija la posición de la capa del mapa.</string>
+    <string name="pokemesh_overlay_size">Tamaño de la capa</string>
+    <string name="pokemesh_overlay_size_summary">Elija el tamaño de la capa del mapa.</string>
 </resources>
