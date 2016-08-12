@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Как выбрать другое местоположение?</string>
+    <string name="pokemesh_faq_long_tap_summary">Вы можете выбрать любое местоположение долгим нажатием. Если вы начнете новое сканирование, предыдущее будет прервано даже если оно еще не завершилось</string>
+    <string name="pokemesh_faq_icons_blur">Мои альтернативные икноки размытые или испортились</string>
+    <string name="pokemesh_faq_icons_blur_summary">Мы не можеи использовать стандартные иконки из игры так как они защищены авторскими правами. Оригинальные иконки были размыты и изменены, чтобы избежать юридических проблем.</string>
+    <string name="pokemesh_faq_report">У меня возникли проблемы, используя PokéMesh</string>
+    <string name="pokemesh_faq_report_summary">Мы всегда доступны в социальных сетях для решения ваших проблем так быстро, на сколько это возможно!</string>
+</resources>
