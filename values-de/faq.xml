@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Wie kann ich einen anderen Standort scannen, als meinen aktuellen?</string>
+    <string name="pokemesh_faq_long_tap_summary">Du kannst einen anderen Standort als deinen aktuellen scannen, indem Du lange auf den Scan-Knopf drueckst. Wenn Du einen neuen Scan startest, wird der aktuelle unterbrochen, falls er noch nicht abgeschlossen wurde.</string>
+    <string name="pokemesh_faq_icons_blur">Meine alternativen Symbole sind unscharf und schlecht zu erkennen</string>
+    <string name="pokemesh_faq_icons_blur_summary">Auf Grund von Nintendo\'s Urheberrechten koennen wir die Standard Pokémon Symbole nicht in unserer App verwenden. Die originalen Symbole werden unscharf gemacht und verwischt, um rechtliche Probleme zu vermeiden.</string>
+    <string name="pokemesh_faq_report">Ich habe ein Problem mit der Verwendung von PokéMesh</string>
+    <string name="pokemesh_faq_report_summary">Wir sind immer auf unseren sozialen Netzwerkseiten aktiv um eure Probleme zu lesen und versuchen stetig, diese so schnell wie moeglich zu loesen!</string>
+</resources>
