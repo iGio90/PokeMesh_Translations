@@ -24,4 +24,16 @@
         <item>125</item>
         <item>150</item>
     </string-array>
+    <string-array translatable="false" name="overlay_positions">
+        <item>Arriba a la izquierda</item>
+        <item>Arriba a la derecha</item>
+        <item>Abajo a la izquierda</item>
+        <item>Abajo a la derecha</item>
+    </string-array>
+    <string-array translatable="false" name="overlay_size">
+        <item>Muy pequeño</item>
+        <item>Pequeño</item>
+        <item>Mediano</item>
+        <item>Grande</item>
+    </string-array>
 </resources>
