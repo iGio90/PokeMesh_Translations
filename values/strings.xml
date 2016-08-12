@@ -5,6 +5,9 @@
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
     <string name="pokemesh_title_activity_maps">Map</string>
     <string name="pokemesh_scan">Scan</string>
@@ -41,8 +44,6 @@
     <string name="pokemesh_support_us">Support PokéMesh</string>
     <string name="pokemesh_support_us_summary">Display a fullscreen ad every 30 scans</string>
     <string name="pokemesh_about">About</string>
-    <string name="pokemesh_follow_facebook">/PokeMesh</string>
-    <string name="pokemesh_follow_twitter">\@PokeMeshApp</string>
     <string name="pokemesh_follow_us">Follow us</string>
     <string name="pokemesh_check_update">Update</string>
     <string name="pokemesh_checking_update">Checking updates…</string>
