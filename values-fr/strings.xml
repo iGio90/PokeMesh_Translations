@@ -9,7 +9,7 @@
     <string name="pokemesh_search">Chercher</string>
     <string name="pokemesh_search_something">Chercher quelque chose</string>
     <string name="pokemesh_search_address">Adresse</string>
-    <string name="pokemesh_search_address_hint">Chercher une adresse</string>
+    <string name="pokemesh_search_address_hint">Chercher un emplacement</string>
     <string name="pokemesh_pokemon">Pokémon</string>
     <string name="pokemesh_search_pokemons">Chercher un Pokémon</string>
     <string name="pokemesh_stop_scan">Arrêter le scan</string>
@@ -23,7 +23,7 @@
     <string name="pokemesh_my_position">Ma position</string>
     <string name="pokemesh_no_permission">PokéMesh n\'a pas l\'autorisation d\'utilisé votre emplacement!</string>
     <string name="pokemesh_show_on_map">Afficher sur la carte</string>
-    <string name="pokemesh_show_on_map_summary">Choisir d\'afficher les Pokémon, ou pas, sur la carte</string>
+    <string name="pokemesh_show_on_map_summary">Choisir d\'afficher les Pokémon, ou pas, sur la carte.</string>
     <string name="pokemesh_mesh_pokemon">Notifications</string>
     <string name="pokemesh_mesh_pokemon_summary">Choisir d\'être notifié s\'il y a, ou pas, des Pokémon à proximité.</string>
     <string name="pokemesh_pokemesh_disabled">Vous devez activer les paramètres PokéMesh avant!</string>
@@ -35,7 +35,7 @@
     <string name="pokemesh_big_multi_meshed">Il y a des Pokémon proches de vous!</string>
 
     <string name="pokemesh_support_us">Soutenir PokéMesh</string>
-    <string name="pokemesh_support_us_summary">Afficher une annonce en plein écran toutes les 30 secondes</string>
+    <string name="pokemesh_support_us_summary">Afficher une annonce en plein écran toutes les 30 secondes.</string>
     <string name="pokemesh_about">A propos</string>
     <string name="pokemesh_follow_facebook">/PokeMesh</string>
     <string name="pokemesh_follow_twitter">\@PokeMeshApp</string>
@@ -43,15 +43,15 @@
     <string name="pokemesh_check_update">Mise à jour</string>
     <string name="pokemesh_checking_update">Recherche de mise à jour...</string>
     <string name="pokemesh_update_failed">Impossible de communiquer avec les serveurs de mise à jour. Essayez plus tard!</string>
-    <string name="pokemesh_no_update_available">Vous êtes sur la dernière version de PokéMesh</string>
+    <string name="pokemesh_no_update_available">Vous êtes sur la dernière version de PokéMesh.</string>
     <string name="pokemesh_update_available">Une nouvelle version de PokéMesh est disponible!</string>
-    <string name="pokemesh_downloading">Téléchargement de la mise à jour</string>
-    <string name="pokemesh_gps_failed">Impossible de récuperer l\'emplacement GPS</string>
-    <string name="pokemesh_init_pokemesh">Connexion à PokéMesh....</string>
+    <string name="pokemesh_downloading">Téléchargement de la mise à jour.</string>
+    <string name="pokemesh_gps_failed">Impossible de récuperer l\'emplacement GPS.</string>
+    <string name="pokemesh_init_pokemesh">Connexion à PokéMesh...</string>
     <string name="pokemesh_logging_in">Connexion au PTC</string>
-    <string name="pokemesh_connected">Connecté! Mesh… Mesh… !</string>
-    <string name="pokemesh_generating_credentials">Nouvelles informations d\'identification en cours de création</string>
-    <string name="pokemesh_pokemesh_down">PokéMesh est actuellement en cours de mise à jour. Essayez plus tard</string>
+    <string name="pokemesh_connected">Connecté! Mesh… Mesh…!</string>
+    <string name="pokemesh_generating_credentials">Nouvelles informations d\'identification en cours de création.</string>
+    <string name="pokemesh_pokemesh_down">PokéMesh est actuellement en cours de mise à jour. Essayez plus tard!</string>
     <string name="pokemesh_got_pokemesh_credentials">Informations d\'identification de PokéMesh obtenues!</string>
     <string name="pokemesh_club_down">Les serveurs de Pokémon Go sont actuellement hors service. Essayez plus tard!</string>
     <string name="pokemesh_no_internet">Impossible de communiquer avec le fournisseur de réseau. Essayez plus tard!</string>
@@ -65,7 +65,7 @@
     <string name="pokemesh_important">Important</string>
     <string name="pokemesh_login_google_summary">Pour eviter les indisponibilités des serveurs Pokémon Go, à partir de maintenant l\'application va se connecter via les serveurs de Google.\nSi votre compte Pokémon Go est connecté avec Gmail, nous vous recommandons d\'utiliser un autre compte, afin d\'éviter le ban temporaire ou permanent.\nSi vous n\'avez pas d\'autre compte Gmail, vous pouvez dès maintenant en créer un autre.\nLorsque votre compte est prêt, vous devez vous connecter à Pokémon Go avec se compte et accepter leurs conditions d\'utilisation!</string>
     <string name="pokemesh_register">S\'enregistrer sur Gmail</string>
-    <string name="pokemesh_already_have_account">J\'ai déjà un compte Gmail.</string>
+    <string name="pokemesh_already_have_account">J\'ai déjà un compte Gmail</string>
 
     <string name="pokemesh_tour_welcome">Bienvenue sur PokèMesh</string>
     <string name="pokemesh_your_location">Votre emplacement</string>
@@ -73,8 +73,8 @@
     <string name="pokemesh_long_tap">Appuyez quelques secondes!</string>
     <string name="pokemesh_long_tap_summary">Appuyez quelques secondes sur la carte pour commencer un scan sur l\'emplacement sélectioné.</string>
     <string name="pokemesh_pokemons">Pokémon</string>
-    <string name="pokemesh_catch_em_all">Attrapez les tous !</string>
-    <string name="pokemesh_ready_summary">Vous êtes prêt pour utiliser PokéMesh. Visitez les paramètres et le Pokèdex pour découvrir toutes les fonctionnalités de l\'application. Profitez de l\'application !</string>
+    <string name="pokemesh_catch_em_all">Attrapez les tous!</string>
+    <string name="pokemesh_ready_summary">Vous êtes prêt pour utiliser PokéMesh. Visitez les paramètres et le Pokèdex pour découvrir toutes les fonctionnalités de l\'application. Profitez de l\'application!</string>
     <string name="pokemesh_guide">Guide</string>
     <string name="pokemesh_quick_go">QuickGO</string>
     <string name="pokemesh_quick_go_summary">Appuyez quelques secondes sur l\'icon d\'emplacement pour lancer rapidement Pokémon Go.</string>
@@ -83,12 +83,12 @@
     <string name="pokemesh_pokestops">Pokéstops</string>
     <string name="pokemesh_pokestops_summary">Afficher les Pokéstops sur la carte.</string>
     <string name="pokemesh_disconnect">Se deconnecter du compte</string>
-    <string name="pokemesh_disconnect_confirmation">Etes vous sûr de vouloir vous déconnecter de ce compte ?</string>
+    <string name="pokemesh_disconnect_confirmation">Etes vous sûr de vouloir vous déconnecter de ce compte?</string>
     <string name="pokemesh_searching_gps">Détéction de l\'emplacement…</string>
     <string name="pokemesh_start_pokemesh">Démarrer PokéMesh</string>
-    <string name="pokemesh_support_us_lock">S\'il vous plait, veuillez cocher \"Nous supporter\" dans les paramètres pour utiliser cette fonctionnalité</string>
+    <string name="pokemesh_support_us_lock">S\'il vous plait, veuillez cocher \"Nous supporter\" dans les paramètres pour utiliser cette fonctionnalité.</string>
     <string name="pokemesh_map">Carte</string>p
-    <string name="pokemesh_stock_icons_summary">Utiliser les icones officielles. Un masque de censure sera appliqué à cause des copyrights de Nintento.</string>
+    <string name="pokemesh_stock_icons_summary">Utiliser les icones officielles. Un masque de censure sera appliqué à cause des copyrights de Nintendo.</string>
     <string name="pokemesh_stock_icons">Icones officielles</string>
     <string name="pokemesh_additional">Suppléments</string>
     <string name="pokemesh_relax_mode">Mode relax</string>
@@ -97,7 +97,7 @@
     <string name="pokemesh_vibration_summary">Activiter les vibrations pour les notifications du mode relax.</string>
     <string name="pokemesh_relax_delay">Délai</string>
     <string name="pokemesh_relax_delay_summary">Le délai entre chaque scans. Un délai plus court impactera l\'utilisation de votre batterie et les performances.</string>
-    <string name="pokemesh_advanced">Avancée</string>
+    <string name="pokemesh_advanced">Avancé</string>
     <string name="pokemesh_scan_area">Portée du scan</string>
     <string name="pokemesh_advanced_summary">Attention: Changer ses valeurs affectera le temps entre chaque scans.</string>
     <string name="pokemesh_scan_area_summary">Sélectionnez le rayon de la zone de scan en augmentant ou diminuant les pas depuis votre emplacement actuel.</string>
@@ -106,7 +106,7 @@
     <string name="pokemesh_scan_steps_marker">Marqueurs de pas</string>
     <string name="pokemesh_scan_steps_marker_summary">Affiche un marquer pour chaque pas sur la carte.</string>
     <string name="pokemesh_news">Nouvelles</string>
-    <string name="pokemesh_faq">F.A.Q et Comment ?</string>
+    <string name="pokemesh_faq">F.A.Q et Comment?</string>
     <string name="pokemesh_screenshot_fail">Quelques choses ne va pas pendant la prise de la capture d\'écran.</string>
     <string name="pokemesh_translations">Traduction</string>
 
@@ -120,4 +120,25 @@
     <string name="pokemesh_club_nickname_alphanumeric">Le nom d\'utilisateur choisi contiens des caractères invalides.</string>
     <string name="pokemesh_club_public">Public</string>
     <string name="pokemesh_club_groups">Groupes</string>
+    <string name="pokemesh_overlay_position">Position de l'overlay</string>
+    <string name="pokemesh_overlay_position_summary">Choisir la position de l'overlay</string>
+    <string name="pokemesh_overlay_size">Taille de l'overlay</string>
+    <string name="pokemesh_overlay_size_summary">Choisir la taille de l'overlay</string>
+    <string name="accounts">Compte</string>
+    <string name="accounts_summary">La système de multi-compte est une fonctinnalité additionnelle pour amélioré la vitesse du scan. Ils sont différents du compte utilisé pour se connecter et seront utilisé uniquement pendant le processus de scan.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Selectionnez un type de compte</string>
+    <string name="create_account">Créer un nouveau compte</string>
+    <string name="existing_account">Ajouter un compte existant</string>
+    <string name="account_identifier">Nom du compte</string>
+    <string name="account_identifier_summary">Dans un premier temps pour protéger vos données, nous ne garderons pas vos identifiants Google. Insérez un identifieur unique pour reconnaître le compte que vous allez ajouter.\n\nNOTE: Nous ne pouvons vous empecher d'ajouter plusieurs fois le même compte. Ajouter le même compte empêche le scan de fonctionner.! </string>
+    <string name="account_identifier_short">L'identifieur pour ce compte est trop court! Utilisez au moins 3 caractères.</string>
+    <string name="account_identifier_invalid">L'identifieur choisi contient des caractères invalides.</string>
+    <string name="remove_account">Voulez vous supprimer le compte sélectionné?</string>
+    <string name="username">Nom d'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="username_empty">Insérez un nom d'utilisateur valide!</string>
+    <string name="password_empty">Insérez un mot de passe valide!</string>
+    <string name="pokemesh_login_error_multiacct">Connexion échoué avec le compte: %s.Le compte peut être désactivé ou les serveurs de PokémonGo sont actuellement hors service.</string>
 </resources>
