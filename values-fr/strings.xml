@@ -1,6 +1,13 @@
 <resources>
     <string translatable="false" name="app_name">PokéMesh</string>
     <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
+    <string name="german_translations_credits" translatable="false">yv35p00l</string>
+    <string name="french_translations_credits" translatable="false">Avenbeard</string>
+    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
     <string name="pokemesh_title_activity_maps">Carte</string>
     <string name="pokemesh_scan">Scan</string>
@@ -37,8 +44,6 @@
     <string name="pokemesh_support_us">Soutenir PokéMesh</string>
     <string name="pokemesh_support_us_summary">Afficher une annonce en plein écran toutes les 30 secondes.</string>
     <string name="pokemesh_about">A propos</string>
-    <string name="pokemesh_follow_facebook">/PokeMesh</string>
-    <string name="pokemesh_follow_twitter">\@PokeMeshApp</string>
     <string name="pokemesh_follow_us">Nous suivre</string>
     <string name="pokemesh_check_update">Mise à jour</string>
     <string name="pokemesh_checking_update">Recherche de mise à jour...</string>
@@ -105,7 +110,7 @@
     <string name="pokemesh_scan_distance_summary">Selectionner la distance en mètre entre chaque pas.</string>
     <string name="pokemesh_scan_steps_marker">Marqueurs de pas</string>
     <string name="pokemesh_scan_steps_marker_summary">Affiche un marquer pour chaque pas sur la carte.</string>
-    <string name="pokemesh_news">Nouvelles</string>
+    <string name="pokemesh_news">Quoi de neuf?</string>
     <string name="pokemesh_faq">F.A.Q et Comment?</string>
     <string name="pokemesh_screenshot_fail">Quelques choses ne va pas pendant la prise de la capture d\'écran.</string>
     <string name="pokemesh_translations">Traduction</string>
