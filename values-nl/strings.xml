@@ -15,7 +15,7 @@
     <string name="pokemesh_settings">Instellingen</string>
     <string name="pokemesh_search">Zoeken</string>
     <string name="pokemesh_search_something">Iets zoeken…</string>
-    <string name="pokemesh_search_address">Adres</string>
+    <string name="pokemesh_search_address">Adres zoeken</string>
     <string name="pokemesh_search_address_hint">Een adres zoeken</string>
     <string name="pokemesh_pokemon">Pokémon</string>
     <string name="pokemesh_search_pokemons">Zoek een Pokémon</string>
@@ -43,7 +43,7 @@
 
     <string name="pokemesh_support_us">PokéMesh steunen</string>
     <string name="pokemesh_support_us_summary">Na iedere 30 scans een advertentie op volledig scherm tonen</string>
-    <string name="pokemesh_about">Over</string>
+    <string name="pokemesh_about">Over PokéMesh</string>
     <string name="pokemesh_follow_us">Volg ons</string>
     <string name="pokemesh_check_update">Bijwerken</string>
     <string name="pokemesh_checking_update">Controleren op updates…</string>
@@ -60,7 +60,7 @@
     <string name="pokemesh_got_pokemesh_credentials">PokéMesh gegevens aangemaakt!</string>
     <string name="pokemesh_club_down">Pokémon GO servers zijn momenteel offline of niet bereikbaar. Probeer het later opnieuw!</string>
     <string name="pokemesh_no_internet">Communicatie met het netwerk mislukt. Probeer het later opnieuw!</string>
-    <string name="pokemesh_got_it">Got it!</string>
+    <string name="pokemesh_got_it">Begrepen!</string>
     <string name="pokemesh_hey">Hey!</string>
     <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon en Pokémon karakters vallen onder het handelsmerk van Nintendo. Overige handelsmerken zijn eigendom van de rechtmatige eigenaar.</string>
     <string name="pokemesh_ptc_down">Pokémon Trainers Club is momenteel offline of niet bereikbaar.\nProbeer het later opnieuw!</string>
@@ -97,7 +97,7 @@
     <string name="pokemesh_stock_icons">Standaard iconen</string>
     <string name="pokemesh_additional">Extra\'s</string>
     <string name="pokemesh_relax_mode">Relax-stand</string>
-    <string name="pokemesh_relax_mode_summary">Zodra de Relax-stand is ingeschakeld zak Pokémesh in de achtergrond verder zoeken naar Pokémon. Een notificatie zal aangeven dat PokéMesh actief is. De Relax-stand zal periodiek je positie bijwerken en je op de hoogte stellen van nabije Pokémon!</string>
+    <string name="pokemesh_relax_mode_summary">Zodra de Relax-stand is ingeschakeld zal Pokémesh in de achtergrond verder zoeken naar Pokémon. Een notificatie zal aangeven dat PokéMesh actief is. De Relax-stand zal periodiek je positie bijwerken en je op de hoogte stellen van nabije Pokémon!</string>
     <string name="pokemesh_vibration">Vibreren</string>
     <string name="pokemesh_vibration_summary">Gebruikt de vibratie van de telefoon tijdens een Relax-stand notificatie.</string>
     <string name="pokemesh_relax_delay">Vertraging</string>
