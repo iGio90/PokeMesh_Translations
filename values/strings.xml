@@ -129,4 +129,20 @@
     <string name="pokemesh_overlay_position_summary">Choose the position of the overlay map</string>
     <string name="pokemesh_overlay_size">Overlay size</string>
     <string name="pokemesh_overlay_size_summary">Choose the size of the overlay map</string>
+    <string name="accounts">Accounts</string>
+    <string name="accounts_summary">The multi account system is an additional feature to increase the speed of the scan. They are different from the account used for login and they will only be used during the scan process.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Select an account type</string>
+    <string name="create_account">Create a new account</string>
+    <string name="existing_account">Add an existing account</string>
+    <string name="account_identifier">Account name</string>
+    <string name="account_identifier_summary">In order to protect your data, we will not save your Google credentials. Insert an unique identifier to recognize the account you are going to add.\n\nNOTE: we can\'t prevent you from adding the same account multiple times. Adding the same accounts multiple times will break the scan functionality!</string>
+    <string name="account_identifier_short">The identifier for this account is too short! Use at least 3 characters.</string>
+    <string name="account_identifier_invalid">The chosen account identifier contains invalid character.</string>
+    <string name="remove_account">Do you want to remove the selected account?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_empty">Insert a valid username!</string>
+    <string name="password_empty">Insert a valid password!</string>
 </resources>
