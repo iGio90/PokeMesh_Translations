@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Como posso escanear um local personalizado?</string>
+    <string name="pokemesh_faq_long_tap_summary">Você pode escanear um local personalizado segurando o toque no mapa. Se você iniciar um novo scan, o anterior será interrompido caso não tenha ainda sido completado.</string>
+    <string name="pokemesh_faq_icons_blur">Meus ícones alternativos estão borrados e bagunçados</string>
+    <string name="pokemesh_faq_icons_blur_summary">Devido aos direitos autorais da Nintendo, não podemos usar ícones padrão de Pokémon no nosso app. Os ícones originais com a forma original serão borrados e filtrados para evitar problemas legais.</string>
+    <string name="pokemesh_faq_report">Tenho alguns problemas usando PokéMesh</string>
+    <string name="pokemesh_faq_report_summary">Estamos sempre disponíveis nas redes sociais para escutar quaisquer problemas e tentar resolvê-los o mais rápido possível!</string>
+</resources>
