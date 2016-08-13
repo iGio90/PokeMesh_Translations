@@ -11,7 +11,7 @@
     <string name="pokemesh_search_pokemons">Cerca un Pokémon</string>
     <string name="pokemesh_stop_scan">Interrompi scansione</string>
     <string name="pokemesh_finding_pokemons">Cercando Pokémon nelle vicinanze…</string>
-    <string name="pokemesh_login_error">Login fallito! I server di Pokémon GO sono irraggiungibili, ritenta piú tardi.</string>
+    <string name="pokemesh_login_error">Login fallito! ritenta piú tardi.</string>
     <string name="pokemesh_pokemesh_summary">Sistema di scansione automatica. Abilitando la funzionalitá PokéMesh, riceverai una notifica non appena verranno rilevati Pokémon nelle vicinanze.</string>
     <string name="pokemesh_last_seen">Ultimo avvistamento: %s</string>
     <string name="pokemesh_never">Mai</string>

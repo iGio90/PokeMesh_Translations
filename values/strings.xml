@@ -53,7 +53,7 @@
     <string name="pokemesh_downloading">Downloading update…</string>
     <string name="pokemesh_gps_failed">Unable to retrieve GPS location</string>
     <string name="pokemesh_init_pokemesh">Connecting to PokéMesh....</string>
-    <string name="pokemesh_logging_in">Logging in to PTC</string>
+    <string name="pokemesh_logging_in">Logging in…</string>
     <string name="pokemesh_connected">Connected! Mesh… Mesh… !</string>
     <string name="pokemesh_generating_credentials">Generating new credentials</string>
     <string name="pokemesh_pokemesh_down">PokéMesh is currently under update. Try back later</string>
@@ -145,4 +145,5 @@
     <string name="password">Password</string>
     <string name="username_empty">Insert a valid username!</string>
     <string name="password_empty">Insert a valid password!</string>
+    <string name="pokemesh_login_error_multiacct">Login failed with the account: %s. The account could be disabled or PokémonGO servers are currently down.</string>
 </resources>
