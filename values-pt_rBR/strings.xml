@@ -1,0 +1,133 @@
+<resources>
+    <string translatable="false" name="app_name">PokéMesh</string>
+    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
+    <string name="german_translations_credits" translatable="false">yv35p00l</string>
+    <string name="french_translations_credits" translatable="false">Avenbeard</string>
+    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
+
+    <string name="pokemesh_title_activity_maps">Mapa</string>
+    <string name="pokemesh_scan">Scan</string>
+    <string name="pokemesh_login">Login</string>
+    <string name="pokemesh_settings">Configurações</string>
+    <string name="pokemesh_search">Procurar</string>
+    <string name="pokemesh_search_something">Procurar algo…</string>
+    <string name="pokemesh_search_address">Endereço</string>
+    <string name="pokemesh_search_address_hint">Procurar um endereço</string>
+    <string name="pokemesh_pokemon">Pokémon</string>
+    <string name="pokemesh_search_pokemons">Procurar um Pokémon</string>
+    <string name="pokemesh_stop_scan">Parar scan</string>
+    <string name="pokemesh_finding_pokemons">Encontrando Pokémon próximos…</string>
+    <string name="pokemesh_login_error">Login falhou! Isso pode acontecer caso os servidores de Pokémon Go estejam offline!</string>
+    <string name="pokemesh_pokemesh_summary">Localizador automático de Pokémon próximos. Habilitando Pokémesh você será notificado caso um Pokémon esteja perto de sua localização atual.</string>
+    <string name="pokemesh_last_seen">Visto por último: %s</string>
+    <string name="pokemesh_never">Nunca</string>
+    <string name="pokemesh_on_map">No mapa!</string>
+    <string name="pokemesh_gps_disabled">GPS está desabilitado.</string>
+    <string name="pokemesh_my_position">Minha posição</string>
+    <string name="pokemesh_no_permission">PokéMesh não tem permissão de usar sua localização!</string>
+    <string name="pokemesh_show_on_map">Mostrar no mapa</string>
+    <string name="pokemesh_show_on_map_summary">Mostrar ou não Pokémon no Mapa</string>
+    <string name="pokemesh_mesh_pokemon">Notificações</string>
+    <string name="pokemesh_mesh_pokemon_summary">Ser notificado quando houverem Pokémon por perto</string>
+    <string name="pokemesh_pokemesh_disabled">Você precisa habilitar as configurações de Pokémesh antes de continuar!</string>
+    <string name="pokemesh_mesh_disabled">Notificações desabilitadas</string>
+    <string name="pokemesh_mesh_enabled">Notificações habilitadas</string>
+    <string name="pokemesh_mesh_finding">Nenhum Pokémon por perto no momento!</string>
+    <string name="pokemesh_meshed">Há um %s por perto!</string>
+    <string name="pokemesh_multi_meshed" formatted="false">Há %s próximo de %s!</string>
+    <string name="pokemesh_big_multi_meshed">Existem alguns Pokémon em sua volta!</string>
+
+    <string name="pokemesh_support_us">Auxiliar PokéMesh</string>
+    <string name="pokemesh_support_us_summary">Mostrar um anúncio em tela cheia a cada 30 scans</string>
+    <string name="pokemesh_about">Sobre</string>
+    <string name="pokemesh_follow_us">Siga-nos</string>
+    <string name="pokemesh_check_update">Atualizações</string>
+    <string name="pokemesh_checking_update">Procurando atualizações…</string>
+    <string name="pokemesh_update_failed">A comunicação com os servidores falhou. Tente novamente mais tarde!</string>
+    <string name="pokemesh_no_update_available">Você está utilizando versão atual de PokéMesh</string>
+    <string name="pokemesh_update_available">Nova versão de PokéMesh disponível!</string>
+    <string name="pokemesh_downloading">Baixando atualização…</string>
+    <string name="pokemesh_gps_failed">Não é possível recuperar localização GPS</string>
+    <string name="pokemesh_init_pokemesh">Conectando a PokéMesh....</string>
+    <string name="pokemesh_logging_in">Logar no PTC</string>
+    <string name="pokemesh_connected">Conectado! Mesh… Mesh… !</string>
+    <string name="pokemesh_generating_credentials">Gerando novas credenciais</string>
+    <string name="pokemesh_pokemesh_down">PokéMesh está sendo atualizado. Tente mais tarde</string>
+    <string name="pokemesh_got_pokemesh_credentials">Credenciais de PokéMesh obtidas!</string>
+    <string name="pokemesh_club_down">Servidores de Pokémon GO estão offline. Tente mais tarde</string>
+    <string name="pokemesh_no_internet">Não foi possível conectar ao provedor de internet. Tente mais tarde!</string>
+    <string name="pokemesh_got_it">Entendi!</string>
+    <string name="pokemesh_hey">Ei!</string>
+    <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon e nomes Pokémon são marcas registradas da Nintendo. Outras marcas são propriedade de seus respectivos donos.</string>
+    <string name="pokemesh_ptc_down">Pokémon Trainers Club está offline.\nTente novamente mais tarde!</string>
+    <string name="pokemesh_login_failed">Login falhou…</string>
+    <string name="pokemesh_login_ptc_disabled">Login ao PTC está desabilitado!</string>
+    <string name="pokemesh_login_google">Login com Google</string>
+    <string name="pokemesh_important">Importante</string>
+    <string name="pokemesh_login_google_summary">Para evitar tempo de inatividade, a partir de agora o app irá conectar através dos servidores Google.\nCaso sua conta de Pokémon GO está conectada pelo Gmail, recomendamos usar uma conta alternativa, para evitar ban temporário ou permanente.\nCaso não tenha uma conta alternativa do Gmail, você pode registrar uma agora.\n\nUma vez que a conta estiver registrada e ativa, é necessário logar em Pokémon go e aceitar os Termos de Uso!</string>
+    <string name="pokemesh_register">Registrar no Gmail</string>
+    <string name="pokemesh_already_have_account">Já tenho uma conta alternativa do Gmail</string>
+
+    <string name="pokemesh_tour_welcome">Bem vindo a PokèMesh</string>
+    <string name="pokemesh_your_location">Sua localização</string>
+    <string name="pokemesh_your_location_summary">Toque este botão para apontar o marcador para sua posição e começar a localizar Pokèmon</string>
+    <string name="pokemesh_long_tap">Toque longo!</string>
+    <string name="pokemesh_long_tap_summary">Toque e segure no mapa para iniciar um scan na posição do toque!</string>
+    <string name="pokemesh_pokemons">Pokémon</string>
+    <string name="pokemesh_catch_em_all">Temos que pegar!</string>
+    <string name="pokemesh_ready_summary">Você está pronto para usar PokéMesh. Acessa as configurações e a Pokédex para descobrir todas as funções do app. Aproveite a caçada!</string>
+    <string name="pokemesh_guide">Guia</string>
+    <string name="pokemesh_quick_go">QuickGO</string>
+    <string name="pokemesh_quick_go_summary">Toque e segure no ícone de localização para iniciar Pokémon GO rapidamente</string>
+    <string name="pokemesh_gyms">Ginásios</string>
+    <string name="pokemesh_gyms_summary">Mostrar ginásios no mapa</string>
+    <string name="pokemesh_pokestops">Pokéstops</string>
+    <string name="pokemesh_pokestops_summary">Mostrar Pokéstops no mapa</string>
+    <string name="pokemesh_disconnect">Desconectar conta</string>
+    <string name="pokemesh_disconnect_confirmation">Tem certeza que quer desconectar esta conta?</string>
+    <string name="pokemesh_searching_gps">Detectando localização…</string>
+    <string name="pokemesh_start_pokemesh">Iniciar PokéMesh</string>
+    <string name="pokemesh_support_us_lock">Por favor, ligue \"Auxiliar Pokémesh\" nas configurações para usar essa função!</string>
+    <string name="pokemesh_map">Mapa</string>
+    <string name="pokemesh_stock_icons_summary">Usar ícones padrão. Uma censura será aplicada devido aos direitos autorais da Nintendo.</string>
+    <string name="pokemesh_stock_icons">Ícones padrão</string>
+    <string name="pokemesh_additional">Adicional</string>
+    <string name="pokemesh_relax_mode">Modo relax</string>
+    <string name="pokemesh_relax_mode_summary">Quando o modo relax está ligado, toda hora que fechares PokéMesh um componente será rodado no fundo. Uma notificação irá indicar que está atualmente rodando. Modo relax mode irá escanear sua localização periodicamente e te notificar quando houver Pokémon por perto!</string>
+    <string name="pokemesh_vibration">Vibração</string>
+    <string name="pokemesh_vibration_summary">Habilitar vibração para notificações no modo relax.</string>
+    <string name="pokemesh_relax_delay">Atraso</string>
+    <string name="pokemesh_relax_delay_summary">O tempo de atraso entre um scan e o próximo. Scans frequentes podem aumentar o consumo de bateria e dados.</string>
+    <string name="pokemesh_advanced">Avançado</string>
+    <string name="pokemesh_scan_area">Alcance de scan</string>
+    <string name="pokemesh_advanced_summary">Atenção: alterar esses valores irá afetar o tempo que cada scan demora a ser completado.</string>
+    <string name="pokemesh_scan_area_summary">Selecionar o raio da área de scan aumentando ou diminuindo os passos a partir da localização selecionada/atual.</string>
+    <string name="pokemesh_scan_distance">Distância dos passos</string>
+    <string name="pokemesh_scan_distance_summary">Selecionar a distância em metros entre os passos.</string>
+    <string name="pokemesh_scan_steps_marker">Marcar passos</string>
+    <string name="pokemesh_scan_steps_marker_summary">Mostrar um marcador para cada passo de escan no mapa em tempo real.</string>
+    <string name="pokemesh_news">Novidades</string>
+    <string name="pokemesh_faq">F.A.Q e Tutorial</string>
+    <string name="pokemesh_screenshot_fail">Ocorreu algo errado ao tirar a captura de tela.</string>
+    <string name="pokemesh_translations">Time de tradução:</string>
+
+    <string name="credits">Desenvolvido por PokéMesh - Créditos: PoGoAPI, Time Unknown6</string>
+    <string name="pokemesh_remotly_disabled">Mapa de PokéMesh está desabilitado. Siga-nos no Facebook para mais novidades.</string>
+    <string name="pokemesh_club">PokéMesh Club</string>
+    <string name="insert_username">Escolha um nome de usuário</string>
+    <string name="pokemesh_overlay">Sobreposição</string>
+    <string name="pokemesh_overlay_summary">Habilitar o mapa de sobreposição quando Pokémesh estiver em segundo plano</string>
+    <string name="pokemesh_club_nickname_short">Nome de usuário muito curto! Use ao menos 3 caracteres.</string>
+    <string name="pokemesh_club_nickname_alphanumeric">The chosen nick name contains invalid character.</string>
+    <string name="pokemesh_club_public">Público</string>
+    <string name="pokemesh_club_groups">Grupos</string>
+    <string name="pokemesh_overlay_position">Local de sobreposição</string>
+    <string name="pokemesh_overlay_position_summary">Escolha o local do mapa de sobreposição</string>
+    <string name="pokemesh_overlay_size">Tamanho da sobreposição</string>
+    <string name="pokemesh_overlay_size_summary">Escolha o tamanho do mapa de sobreposição</string>
+</resources>

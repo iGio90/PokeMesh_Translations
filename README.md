@@ -21,4 +21,6 @@ Additional notes:
 - Resources that include characters like %s or %d needs translations and you need to add them to your translations. (I.E there are %s around. would be translated in italian as follow (Italian): "Ci sono %s nei dintorni".)
 - Translations that includes a ', must be precedeed by a slash. (I.E I'll buy some candies should be added as this: i\'ll buy some candies. An italian example: "L'app funziona" should be add as "L\'app funziona")
 
+For additional questions and support, feel free to join our Discord: https://discord.gg/wxZG3EA
+
 Get the app: www.pokemesh.com

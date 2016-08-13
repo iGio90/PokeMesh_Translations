@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Hoe kan ik een andere locatie scannen?</string>
+    <string name="pokemesh_faq_long_tap_summary">Je kunt een andere locatie scannen door een long-tap (vinger lang op een plek houden) te doen. Zodra je een nieuwe scan uitvoert zal de vorige scan stoppen.</string>
+    <string name="pokemesh_faq_icons_blur">De Pokémon iconen zijn wazig en niet goed zichtbaar</string>
+    <string name="pokemesh_faq_icons_blur_summary">Doordat er copyright rust op de Pokémon iconen mogen wij deze niet gebruiken in onze app. Deze zullen dan wel weergegeven worden maar wazig om legale redenen.</string>
+    <string name="pokemesh_faq_report">Ik ondervind problemen bij het gebruik van PokéMesh</string>
+    <string name="pokemesh_faq_report_summary">Wij zijn altijd bereikbaar via onze Social Media pagina\'s en zullen hierop dan ook actief luisteren naar problemen om deze zo snel mogelijk op te lossen!</string>
+</resources>
