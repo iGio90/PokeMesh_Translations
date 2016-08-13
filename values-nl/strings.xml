@@ -6,6 +6,8 @@
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
     <string name="pokemesh_title_activity_maps">Kaart</string>
     <string name="pokemesh_scan">Scannen</string>
@@ -42,8 +44,6 @@
     <string name="pokemesh_support_us">PokéMesh steunen</string>
     <string name="pokemesh_support_us_summary">Na iedere 30 scans een advertentie op volledig scherm tonen</string>
     <string name="pokemesh_about">Over</string>
-    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
-    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
     <string name="pokemesh_follow_us">Volg ons</string>
     <string name="pokemesh_check_update">Bijwerken</string>
     <string name="pokemesh_checking_update">Controleren op updates…</string>
@@ -113,7 +113,7 @@
     <string name="pokemesh_news">Nieuws</string>
     <string name="pokemesh_faq">Veelgestelde vragen en How-to</string>
     <string name="pokemesh_screenshot_fail">Iets ging fout bij het maken van een schermafdruk.</string>
-    <string name="pokemesh_translations">Vertalingen</string>
+    <string name="pokemesh_translations">Vertalingen door:</string>
 
     <string name="credits">Ontwikkeld door PokéMesh - Met dank aan: PoGoAPI, Unknown6 Team</string>
     <string name="pokemesh_remotly_disabled">PokéMesh is momenteel uitgeschakeld. Volg ons op Facebook voor meer informatie.</string>
@@ -129,4 +129,20 @@
     <string name="pokemesh_overlay_position_summary">Kies de locatie waar de Overlay wordt weergegeven</string>
     <string name="pokemesh_overlay_size">Overlay grootte</string>
     <string name="pokemesh_overlay_size_summary">Kies de grootte van de Overlay</string>
+    <string name="accounts_summary">The multi account system is an additional feature to increase the speed of the scan. They are different from the account used for login and they will only be used during the scan process.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Selecteer een accounttype</string>
+    <string name="create_account">Maak een nieuw account</string>
+    <string name="existing_account">Gebruik een bestaand account toe</string>
+    <string name="account_identifier">Accountnaam</string>
+    <string name="account_identifier_summary">Uit privacyoverwegingen slaan we je Google gegevens niet op. Geef een unieke naam op zodat je het account kunt herkennen.\n\nLet op: We kunnen helaas niet voorkomen dat je hetzelfde account meermaals toevoegt. Indien je dit doet zal de scan-functionaliteit niet meer werken!</string>
+    <string name="account_identifier_short">De naam voor dit account is te kort! Dient minimaal 3 karakters te bevatten.</string>
+    <string name="account_identifier_invalid">De gekozen accountnaam bevat ongeldige tekens.</string>
+    <string name="remove_account">Weet je zeker dat je het geselecteerde account wilt verwijderen?</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="username_empty">Voer een geldige gebruikersnaam in!</string>
+    <string name="password_empty">Voer een geldig wachtwoord in!</string>
+    <string name="pokemesh_login_error_multiacct">Inloggen met account \'%s\' is mislukt. Het account is mogelijk geblokkeerd of de Pokémon GO servers zijn momenteel offline of niet bereikbaar.</string>
 </resources>
