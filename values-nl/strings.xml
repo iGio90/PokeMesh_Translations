@@ -1,4 +1,4 @@
-﻿<resources>
+<resources>
     <string translatable="false" name="app_name">PokéMesh</string>
     <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
@@ -22,17 +22,17 @@
     <string name="pokemesh_stop_scan">Scan stoppen</string>
     <string name="pokemesh_finding_pokemons">Nabije Pokémon zoeken…</string>
     <string name="pokemesh_login_error">Aanmelden mislukt! Mogelijk zijn de Pokémon GO servers offline of niet bereikbaar!</string>
-    <string name="pokemesh_pokemesh_summary">Automatische nabije Pokémon detector. Door Pokémesh te gebruiken krijg je notificaties als een Pokémon bij je in de buurt is.</string>
+    <string name="pokemesh_pokemesh_summary">Automatische nabije Pokémon detector. Door PokéMesh te gebruiken krijg je notificaties als een Pokémon bij je in de buurt is.</string>
     <string name="pokemesh_last_seen">Laatst gezien: %s</string>
     <string name="pokemesh_never">Nooit</string>
     <string name="pokemesh_on_map">Op de kaart!</string>
     <string name="pokemesh_gps_disabled">GPS is niet beschikbaar.</string>
     <string name="pokemesh_my_position">Mijn positie</string>
-    <string name="pokemesh_no_permission">PokéMesh heeft geen toegang tot je positie!</string>
+    <string name="pokemesh_no_permission">PokéMesh heeft geen toegang tot je GPS positie!</string>
     <string name="pokemesh_show_on_map">Op kaart weergeven</string>
     <string name="pokemesh_show_on_map_summary">Geef deze Pokémon wel of niet weer op de kaart</string>
     <string name="pokemesh_mesh_pokemon">Notificaties</string>
-    <string name="pokemesh_mesh_pokemon_summary">Geef een notificatie als deze Pokémon in de buurt is</string>
+    <string name="pokemesh_mesh_pokemon_summary">Geef een notificatie weer als deze Pokémon in de buurt is</string>
     <string name="pokemesh_pokemesh_disabled">Je dient PokéMesh instellingen in te schakelen voordat je verder kan!</string>
     <string name="pokemesh_mesh_disabled">Notificaties uitgeschakeld</string>
     <string name="pokemesh_mesh_enabled">Notificaties ingeschakeld</string>
@@ -51,7 +51,7 @@
     <string name="pokemesh_no_update_available">Je hebt reeds de meest recente versie van PokéMesh</string>
     <string name="pokemesh_update_available">Nieuwe versie van PokéMesh beschikbaar!</string>
     <string name="pokemesh_downloading">Update downloaden…</string>
-    <string name="pokemesh_gps_failed">GPS locatie ophalen mislukt</string>
+    <string name="pokemesh_gps_failed">GPS positie ophalen mislukt</string>
     <string name="pokemesh_init_pokemesh">Verbinden met PokéMesh....</string>
     <string name="pokemesh_logging_in">Aanmelden bij PTC</string>
     <string name="pokemesh_connected">Verbonden! Mesh… Mesh… !</string>
@@ -129,7 +129,7 @@
     <string name="pokemesh_overlay_position_summary">Kies de locatie waar de Overlay wordt weergegeven</string>
     <string name="pokemesh_overlay_size">Overlay grootte</string>
     <string name="pokemesh_overlay_size_summary">Kies de grootte van de Overlay</string>
-    <string name="accounts_summary">Het multi account systeem is een extra toepassing om de snelheid van de scan te verhogen. De accounts zijn verschillend van het account waarmee je op PokéMesh inlogd en worden enkel gebruikt bij het scannen.</string>
+    <string name="accounts_summary">Het multi-account systeem is een extra functie om de snelheid van een scan te verhogen. Deze accounts zijn afwijkend van het account waarmee je op PokéMesh inlogt en worden enkel gebruikt bij het scannen.</string>
     <string name="google">Google</string>
     <string name="ptc">PTC</string>
     <string name="select_account_type">Selecteer een accounttype</string>
