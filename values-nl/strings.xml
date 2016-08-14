@@ -1,11 +1,13 @@
-<resources>
+﻿<resources>
     <string translatable="false" name="app_name">PokéMesh</string>
     <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
-    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla, TheNumber4</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
     <string name="pokemesh_title_activity_maps">Kaart</string>
     <string name="pokemesh_scan">Scannen</string>
@@ -13,7 +15,7 @@
     <string name="pokemesh_settings">Instellingen</string>
     <string name="pokemesh_search">Zoeken</string>
     <string name="pokemesh_search_something">Iets zoeken…</string>
-    <string name="pokemesh_search_address">Adres</string>
+    <string name="pokemesh_search_address">Adres zoeken</string>
     <string name="pokemesh_search_address_hint">Een adres zoeken</string>
     <string name="pokemesh_pokemon">Pokémon</string>
     <string name="pokemesh_search_pokemons">Zoek een Pokémon</string>
@@ -31,9 +33,9 @@
     <string name="pokemesh_show_on_map_summary">Geef deze Pokémon wel of niet weer op de kaart</string>
     <string name="pokemesh_mesh_pokemon">Notificaties</string>
     <string name="pokemesh_mesh_pokemon_summary">Geef een notificatie als deze Pokémon in de buurt is</string>
-    <string name="pokemesh_pokemesh_disabled">You need to enable PokéMesh settings before proceed!</string>
+    <string name="pokemesh_pokemesh_disabled">Je dient PokéMesh instellingen in te schakelen voordat je verder kan!</string>
     <string name="pokemesh_mesh_disabled">Notificaties uitgeschakeld</string>
-    <string name="pokemesh_mesh_enabled">Notitificaties ingeschakeld</string>
+    <string name="pokemesh_mesh_enabled">Notificaties ingeschakeld</string>
     <string name="pokemesh_mesh_finding">Geen nabije Pokémon op het moment!</string>
     <string name="pokemesh_meshed">Er is een %s in de buurt!</string>
     <string name="pokemesh_multi_meshed" formatted="false">Er zijn %s %s in de buurt!</string>
@@ -41,9 +43,7 @@
 
     <string name="pokemesh_support_us">PokéMesh steunen</string>
     <string name="pokemesh_support_us_summary">Na iedere 30 scans een advertentie op volledig scherm tonen</string>
-    <string name="pokemesh_about">Over</string>
-    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
-    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
+    <string name="pokemesh_about">Over PokéMesh</string>
     <string name="pokemesh_follow_us">Volg ons</string>
     <string name="pokemesh_check_update">Bijwerken</string>
     <string name="pokemesh_checking_update">Controleren op updates…</string>
@@ -60,7 +60,7 @@
     <string name="pokemesh_got_pokemesh_credentials">PokéMesh gegevens aangemaakt!</string>
     <string name="pokemesh_club_down">Pokémon GO servers zijn momenteel offline of niet bereikbaar. Probeer het later opnieuw!</string>
     <string name="pokemesh_no_internet">Communicatie met het netwerk mislukt. Probeer het later opnieuw!</string>
-    <string name="pokemesh_got_it">Got it!</string>
+    <string name="pokemesh_got_it">Begrepen!</string>
     <string name="pokemesh_hey">Hey!</string>
     <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon en Pokémon karakters vallen onder het handelsmerk van Nintendo. Overige handelsmerken zijn eigendom van de rechtmatige eigenaar.</string>
     <string name="pokemesh_ptc_down">Pokémon Trainers Club is momenteel offline of niet bereikbaar.\nProbeer het later opnieuw!</string>
@@ -97,7 +97,7 @@
     <string name="pokemesh_stock_icons">Standaard iconen</string>
     <string name="pokemesh_additional">Extra\'s</string>
     <string name="pokemesh_relax_mode">Relax-stand</string>
-    <string name="pokemesh_relax_mode_summary">Zodra de Relax-stand is ingeschakeld zak Pokémesh in de achtergrond verder zoeken naar Pokémon. Een notificatie zal aangeven dat PokéMesh actief is. De Relax-stand zal periodiek je positie bijwerken en je op de hoogte stellen van nabije Pokémon!</string>
+    <string name="pokemesh_relax_mode_summary">Zodra de Relax-stand is ingeschakeld zal PokéMesh in de achtergrond verder zoeken naar Pokémon. Een notificatie zal aangeven dat PokéMesh actief is. De Relax-stand zal periodiek je positie bijwerken en je op de hoogte stellen van nabije Pokémon!</string>
     <string name="pokemesh_vibration">Vibreren</string>
     <string name="pokemesh_vibration_summary">Gebruikt de vibratie van de telefoon tijdens een Relax-stand notificatie.</string>
     <string name="pokemesh_relax_delay">Vertraging</string>
@@ -113,7 +113,7 @@
     <string name="pokemesh_news">Nieuws</string>
     <string name="pokemesh_faq">Veelgestelde vragen en How-to</string>
     <string name="pokemesh_screenshot_fail">Iets ging fout bij het maken van een schermafdruk.</string>
-    <string name="pokemesh_translations">Vertalingen</string>
+    <string name="pokemesh_translations">Vertalingen door:</string>
 
     <string name="credits">Ontwikkeld door PokéMesh - Met dank aan: PoGoAPI, Unknown6 Team</string>
     <string name="pokemesh_remotly_disabled">PokéMesh is momenteel uitgeschakeld. Volg ons op Facebook voor meer informatie.</string>
@@ -129,4 +129,20 @@
     <string name="pokemesh_overlay_position_summary">Kies de locatie waar de Overlay wordt weergegeven</string>
     <string name="pokemesh_overlay_size">Overlay grootte</string>
     <string name="pokemesh_overlay_size_summary">Kies de grootte van de Overlay</string>
+    <string name="accounts_summary">Het multi-account systeem is een extra functie om de snelheid van een scan te verhogen. Deze accounts zijn afwijkend van het account waarmee je op PokéMesh inlogt en worden enkel gebruikt bij het scannen.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Selecteer een accounttype</string>
+    <string name="create_account">Maak een nieuw account</string>
+    <string name="existing_account">Gebruik een bestaand account</string>
+    <string name="account_identifier">Accountnaam</string>
+    <string name="account_identifier_summary">Uit privacyoverwegingen slaan we je Google gegevens niet op. Geef een unieke naam op zodat je het account kunt herkennen.\n\nLet op: We kunnen helaas niet voorkomen dat je hetzelfde account meermaals toevoegt. Indien je dit doet zal de scan-functionaliteit niet meer werken!</string>
+    <string name="account_identifier_short">De naam voor dit account is te kort! Dient minimaal 3 karakters te bevatten.</string>
+    <string name="account_identifier_invalid">De gekozen accountnaam bevat ongeldige tekens.</string>
+    <string name="remove_account">Weet je zeker dat je het geselecteerde account wilt verwijderen?</string>
+    <string name="username">Gebruikersnaam</string>
+    <string name="password">Wachtwoord</string>
+    <string name="username_empty">Voer een geldige gebruikersnaam in!</string>
+    <string name="password_empty">Voer een geldig wachtwoord in!</string>
+    <string name="pokemesh_login_error_multiacct">Inloggen met account \'%s\' is mislukt. Het account is mogelijk geblokkeerd of de Pokémon GO servers zijn momenteel offline of niet bereikbaar.</string>
 </resources>
