@@ -54,7 +54,7 @@
     <string name="pokemesh_downloading">Baixando atualização…</string>
     <string name="pokemesh_gps_failed">Não é possível recuperar localização GPS</string>
     <string name="pokemesh_init_pokemesh">Conectando a PokéMesh....</string>
-    <string name="pokemesh_logging_in">Logar no PTC</string>
+    <string name="pokemesh_logging_in">Logando...</string>
     <string name="pokemesh_connected">Conectado! Mesh… Mesh… !</string>
     <string name="pokemesh_generating_credentials">Gerando novas credenciais</string>
     <string name="pokemesh_pokemesh_down">PokéMesh está sendo atualizado. Tente mais tarde</string>
@@ -69,7 +69,7 @@
     <string name="pokemesh_login_ptc_disabled">Login ao PTC está desabilitado!</string>
     <string name="pokemesh_login_google">Login com Google</string>
     <string name="pokemesh_important">Importante</string>
-    <string name="pokemesh_login_google_summary">Para evitar tempo de inatividade, a partir de agora o app irá conectar através dos servidores Google.\nCaso sua conta de Pokémon GO está conectada pelo Gmail, recomendamos usar uma conta alternativa, para evitar ban temporário ou permanente.\nCaso não tenha uma conta alternativa do Gmail, você pode registrar uma agora.\n\nUma vez que a conta estiver registrada e ativa, é necessário logar em Pokémon go e aceitar os Termos de Uso!</string>
+    <string name="pokemesh_login_google_summary">Para evitar tempo de inatividade, a partir de agora o app irá conectar através dos servidores Google.\nCaso sua conta de Pokémon GO esteja conectada pelo Gmail, recomendamos usar uma conta alternativa, para evitar ban temporário ou permanente.\nCaso não tenha uma conta alternativa do Gmail, você pode registrar uma agora.\n\nUma vez que a conta estiver registrada e ativa, é necessário logar em Pokémon go e aceitar os Termos de Uso!</string>
     <string name="pokemesh_register">Registrar no Gmail</string>
     <string name="pokemesh_already_have_account">Já tenho uma conta alternativa do Gmail</string>
 
@@ -98,7 +98,7 @@
     <string name="pokemesh_stock_icons">Ícones padrão</string>
     <string name="pokemesh_additional">Adicional</string>
     <string name="pokemesh_relax_mode">Modo relax</string>
-    <string name="pokemesh_relax_mode_summary">Quando o modo relax está ligado, toda hora que fechares PokéMesh um componente será rodado no fundo. Uma notificação irá indicar que está atualmente rodando. Modo relax mode irá escanear sua localização periodicamente e te notificar quando houver Pokémon por perto!</string>
+    <string name="pokemesh_relax_mode_summary">Quando o modo relax está ligado, toda hora que fechares PokéMesh um componente será rodado no fundo. Uma notificação irá indicar que está atualmente rodando. Modo relax irá escanear sua localização periodicamente e te notificar quando houver Pokémon por perto!</string>
     <string name="pokemesh_vibration">Vibração</string>
     <string name="pokemesh_vibration_summary">Habilitar vibração para notificações no modo relax.</string>
     <string name="pokemesh_relax_delay">Atraso</string>
@@ -130,4 +130,20 @@
     <string name="pokemesh_overlay_position_summary">Escolha o local do mapa de sobreposição</string>
     <string name="pokemesh_overlay_size">Tamanho da sobreposição</string>
     <string name="pokemesh_overlay_size_summary">Escolha o tamanho do mapa de sobreposição</string>
+    <string name="accounts">Contas</string>
+    <string name="accounts_summary">O sistema de múltiplas contas é um recurso adicional para aumentar a velocidade de scan. Estas são diferentes da utilizada para login e serão usadas apenas durante o processo de scan.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Selecionar tipo de conta</string>
+    <string name="create_account">Criar uma nova conta</string>
+    <string name="existing_account">Adicionar uma conta existente</string>
+    <string name="account_identifier">Nome da conta</string>
+    <string name="account_identifier_summary">A fim de proteger seus dados, não vamos salvar suas credenciais do Google. Insira um identificador único para reconhecer a conta que você irá adicionar.\n\nNOTA: não podemos previnir você de adicionar a mesma conta várias vezes. Adicionar contas repetidas irá corromper a função de scan!</string>
+    <string name="account_identifier_short">O identificador para esta conta é muito curto! Use pelo menos 3 caracteres.</string>
+    <string name="account_identifier_invalid">O identificador da conta escolhido possui caracteres inválidos.</string>
+    <string name="remove_account">Deseja remover a conta selecionada?</string>
+    <string name="username">Nome de usuário</string>
+    <string name="password">Senha</string>
+    <string name="username_empty">Insira um nome de usuário válido!</string>
+    <string name="password_empty">Insira uma senha válida!</string>
 </resources>
