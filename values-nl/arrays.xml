@@ -25,15 +25,15 @@
         <item>150</item>
     </string-array>
     <string-array translatable="false" name="overlay_positions">
-        <item>Top left</item>
-        <item>Top right</item>
-        <item>Bottom left</item>
-        <item>Bottom right</item>
+        <item>Links bovenaan</item>
+        <item>Rechts bovenaan</item>
+        <item>Links onderaan</item>
+        <item>Rechts onderaan</item>
     </string-array>
     <string-array translatable="false" name="overlay_size">
-        <item>Extra small</item>
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
+        <item>Extra klein</item>
+        <item>Klein</item>
+        <item>Gemiddeld</item>
+        <item>Groot</item>
     </string-array>
 </resources>
