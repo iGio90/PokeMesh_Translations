@@ -2,8 +2,8 @@
 <resources>
     <string name="pokemesh_faq_long_tap">Comment puis-je scanner un emplacement personnalisé ?</string>
     <string name="pokemesh_faq_long_tap_summary">Vous pouvez scanner un emplacement personnalisé en restant appuyé quelques secondes sur la carte. Si vous commencez un nouveau scan, le précedent sera interrompu s\'il n\'a pas été complété.</string>
-    <string name="pokemesh_faq_icons_blur">Les icones des pokémon sont floues et ressemble à rien.</string>
-    <string name="pokemesh_faq_icons_blur_summary">A cause des copyrights appartenant à Nintendo, nous ne pouvons utiliser les vraies icones de Pokémon dans notre application. Les icones originales seront floues et filtrés pour éviter quelconques problèmes juridique.</string>
-    <string name="pokemesh_faq_report">J\'ai quelques problèmes dans l\'utilisation de PokéMesh.</string>
+    <string name="pokemesh_faq_icons_blur">Les icones des pokémon sont floues et ne ressemblent à rien.</string>
+    <string name="pokemesh_faq_icons_blur_summary">A cause des copyrights appartenant à Nintendo, nous ne pouvons pas utiliser les vraies icones de Pokémon dans notre application. Les icones originales seront floutées et filtrées pour éviter tout problème juridique.</string>
+    <string name="pokemesh_faq_report">J\'ai des difficultés dans l\'utilisation de PokéMesh.</string>
     <string name="pokemesh_faq_report_summary">Nous sommes toujours à l\'affût sur nos réseaux sociaux pour vous écouter et réagir à d\'éventuels problèmes et ainsi les résoudre dans les plus brefs délais.</string>
 </resources>
