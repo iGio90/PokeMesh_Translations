@@ -122,4 +122,28 @@
     <string name="pokemesh_overlay_position_summary">Scegli la posizione della mappa in overlay</string>
     <string name="pokemesh_overlay_size">Dimensioni overlay</string>
     <string name="pokemesh_overlay_size_summary">Scegli le dimensioni della mappa in overlay</string>
+
+    <string name="accounts">Accounts</string>
+    <string name="accounts_summary">Il sistema di multi accounting è un metodo aggiuntivo per velocizzare la velocita di scansione. Questi account sono differenti da quello usato in fase di login e verrano usati unicamente durante il processo di scansione.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Seleziona il tipo di account</string>
+    <string name="create_account">Crea un nuovo account</string>
+    <string name="existing_account">Aggiungi un account esistente</string>
+    <string name="account_identifier">Nome dell\'account</string>
+    <string name="account_identifier_summary">Per proteggere la tua privacy, non salveremo i dati da te inseriti. Inserisci un nome per identificare questo account.\n\Attenzione: Non possiamo impedirti di aggiungere lo stesso account più di una volta. Aggiungere lo stesso account più di una volta potrebbe causare malfunzionamenti durante la scansione!</string>
+    <string name="account_identifier_short">Il nome per questo account è troppo corto! Usa almeno 3 caratteri.</string>
+    <string name="account_identifier_invalid">Il nome per questo account contiene caratteri non validi!.</string>
+    <string name="remove_account">Vuoi rimuovere l\'account selezionato?</string>
+    <string name="username">Nome utente</string>
+    <string name="password">Password</string>
+    <string name="username_empty">Inserisci un nome utente valido!</string>
+    <string name="password_empty">Inserisci una password!</string>
+    <string name="pokemesh_login_error_multiacct">Login fallito con l\'account: %s.</string>
+    <string name="take_me_there">Portami li!</string>
+    <string name="pokemon_share_title">Ho appena trovato un %s con PokéMesh!</string>
+    <string name="pokemon_share_content" formatted="false">Hey! c\'è un %s qui: %s</string>
+    <string name="google_map_not_installed">Google Map non è installato in questo telefono!</string>
+    <string name="gone">Sparito!</string>
+    <string name="whatsapp_not_installed">WhatsApp non è installato in questo telefono!</string>
 </resources>
