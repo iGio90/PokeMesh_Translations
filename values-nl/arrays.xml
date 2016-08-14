@@ -25,17 +25,10 @@
         <item>150</item>
     </string-array>
     <string-array translatable="false" name="overlay_positions">
-<<<<<<< HEAD
-        <item>Linksboven</item>
-        <item>Rechtsboven</item>
-        <item>Linksonder</item>
-        <item>Rechtsonder</item>
-=======
         <item>Links bovenaan</item>
         <item>Rechts bovenaan</item>
         <item>Links onderaan</item>
         <item>Rechts onderaan</item>
->>>>>>> 1a2c4ccd577a2444396a7ee28bd13e8425d7e988
     </string-array>
     <string-array translatable="false" name="overlay_size">
         <item>Extra klein</item>
