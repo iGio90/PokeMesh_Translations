@@ -1,11 +1,11 @@
-<resources>
+﻿<resources>
     <string translatable="false" name="app_name">PokéMesh</string>
     <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
-    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla, TheNumber4</string>
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
     <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
@@ -33,9 +33,9 @@
     <string name="pokemesh_show_on_map_summary">Geef deze Pokémon wel of niet weer op de kaart</string>
     <string name="pokemesh_mesh_pokemon">Notificaties</string>
     <string name="pokemesh_mesh_pokemon_summary">Geef een notificatie als deze Pokémon in de buurt is</string>
-    <string name="pokemesh_pokemesh_disabled">You need to enable PokéMesh settings before proceed!</string>
+    <string name="pokemesh_pokemesh_disabled">Je dient PokéMesh instellingen in te schakelen voordat je verder kan!</string>
     <string name="pokemesh_mesh_disabled">Notificaties uitgeschakeld</string>
-    <string name="pokemesh_mesh_enabled">Notitificaties ingeschakeld</string>
+    <string name="pokemesh_mesh_enabled">Notificaties ingeschakeld</string>
     <string name="pokemesh_mesh_finding">Geen nabije Pokémon op het moment!</string>
     <string name="pokemesh_meshed">Er is een %s in de buurt!</string>
     <string name="pokemesh_multi_meshed" formatted="false">Er zijn %s %s in de buurt!</string>
@@ -97,7 +97,7 @@
     <string name="pokemesh_stock_icons">Standaard iconen</string>
     <string name="pokemesh_additional">Extra\'s</string>
     <string name="pokemesh_relax_mode">Relax-stand</string>
-    <string name="pokemesh_relax_mode_summary">Zodra de Relax-stand is ingeschakeld zal Pokémesh in de achtergrond verder zoeken naar Pokémon. Een notificatie zal aangeven dat PokéMesh actief is. De Relax-stand zal periodiek je positie bijwerken en je op de hoogte stellen van nabije Pokémon!</string>
+    <string name="pokemesh_relax_mode_summary">Zodra de Relax-stand is ingeschakeld zal PokéMesh in de achtergrond verder zoeken naar Pokémon. Een notificatie zal aangeven dat PokéMesh actief is. De Relax-stand zal periodiek je positie bijwerken en je op de hoogte stellen van nabije Pokémon!</string>
     <string name="pokemesh_vibration">Vibreren</string>
     <string name="pokemesh_vibration_summary">Gebruikt de vibratie van de telefoon tijdens een Relax-stand notificatie.</string>
     <string name="pokemesh_relax_delay">Vertraging</string>
@@ -129,12 +129,12 @@
     <string name="pokemesh_overlay_position_summary">Kies de locatie waar de Overlay wordt weergegeven</string>
     <string name="pokemesh_overlay_size">Overlay grootte</string>
     <string name="pokemesh_overlay_size_summary">Kies de grootte van de Overlay</string>
-    <string name="accounts_summary">The multi account system is an additional feature to increase the speed of the scan. They are different from the account used for login and they will only be used during the scan process.</string>
+    <string name="accounts_summary">Het multi-account systeem is een extra functie om de snelheid van een scan te verhogen. Deze accounts zijn afwijkend van het account waarmee je op PokéMesh inlogt en worden enkel gebruikt bij het scannen.</string>
     <string name="google">Google</string>
     <string name="ptc">PTC</string>
     <string name="select_account_type">Selecteer een accounttype</string>
     <string name="create_account">Maak een nieuw account</string>
-    <string name="existing_account">Gebruik een bestaand account toe</string>
+    <string name="existing_account">Gebruik een bestaand account</string>
     <string name="account_identifier">Accountnaam</string>
     <string name="account_identifier_summary">Uit privacyoverwegingen slaan we je Google gegevens niet op. Geef een unieke naam op zodat je het account kunt herkennen.\n\nLet op: We kunnen helaas niet voorkomen dat je hetzelfde account meermaals toevoegt. Indien je dit doet zal de scan-functionaliteit niet meer werken!</string>
     <string name="account_identifier_short">De naam voor dit account is te kort! Dient minimaal 3 karakters te bevatten.</string>
