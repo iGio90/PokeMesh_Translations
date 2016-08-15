@@ -67,17 +67,17 @@
     <string name="pokemesh_register">Зарегистрироваться в Gmail</string>
     <string name="pokemesh_already_have_account">У меня уже есть Gmail аккаунт</string>
 
-    <string name="pokemesh_tour_welcome">добро пожаловать в PokèMesh</string>
+    <string name="pokemesh_tour_welcome">Добро пожаловать в PokèMesh</string>
     <string name="pokemesh_your_location">Ваше местоположение</string>
     <string name="pokemesh_your_location_summary">Нажмите на эту кнопки для поиска Покемонов рядом с Вами</string>
-    <string name="pokemesh_long_tap">Длинное нажатие!</string>
-    <string name="pokemesh_long_tap_summary">Длинное нажатие позволит Вам начать сканирование в том месте, где Вы нажали!</string>
+    <string name="pokemesh_long_tap">Долгое нажатие!</string>
+    <string name="pokemesh_long_tap_summary">Долгое нажатие позволит Вам начать сканирование в том месте, где Вы нажали!</string>
     <string name="pokemesh_pokemons">Pokémon</string>
     <string name="pokemesh_catch_em_all">Поймать их всех!</string>
     <string name="pokemesh_ready_summary">В PokéMesh. Посетите настройки и Pokèdex чтобы узнать о всех возможностях приложения. Приятной охоты!</string>
     <string name="pokemesh_guide">Руководство</string>
     <string name="pokemesh_quick_go">Быстрый старт</string>
-    <string name="pokemesh_quick_go_summary">Длинное нажатие на кнопку местоположения запустит Pokémon GO</string>
+    <string name="pokemesh_quick_go_summary">Долгое нажатие на кнопку местоположения запустит Pokémon GO</string>
     <string name="pokemesh_gyms">Gyms</string>
     <string name="pokemesh_gyms_summary">Показывать gyms на карте</string>
     <string name="pokemesh_pokestops">Pokéstops</string>
@@ -98,7 +98,7 @@
     <string name="pokemesh_relax_delay">Задержка</string>
     <string name="pokemesh_relax_delay_summary">Время задержки между двумя сканированиями. Большее количество сканирований увеличит нагрузку на аккумулятор и повысит трафик.</string>
     <string name="pokemesh_advanced">Дополнительно</string>
-    <string name="pokemesh_scan_area">Scan range</string>
+    <string name="pokemesh_scan_area">Дальность сканирования</string>
     <string name="pokemesh_advanced_summary">Внимание: настройка этих значений будет влиять на время сканирования.</string>
     <string name="pokemesh_scan_area_summary">Выберете радиус сканирования путем увеличивания или уменьшения количества шагов о.</string>
     <string name="pokemesh_scan_distance">Длина шага</string>
