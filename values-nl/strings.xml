@@ -10,6 +10,7 @@
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla, TheNumber4</string>
     <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
 
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
     <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
@@ -157,4 +158,7 @@
     <string name="google_map_not_installed">Google Maps is niet geïnstalleerd op deze telefoon!</string>
     <string name="gone">Is weg!</string>
     <string name="whatsapp_not_installed">WhatsApp is niet geïnstalleerd op deze telefoon!</string>
+    <string name="pokemesh_relax_sound">Geluiden</string>
+    <string name="pokemesh_relax_sound_summary">Speel een geluid af bij een Relax-mode notificatie.</string>
+    <string name="pokemesh_club_short">Club</string>
 </resources>
