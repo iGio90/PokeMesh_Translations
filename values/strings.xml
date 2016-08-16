@@ -3,13 +3,13 @@
 
     <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
     <string name="facebook_app_id" translatable="false">1679594909028603</string>
-
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla</string>
     <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
 
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
     <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
@@ -157,4 +157,7 @@
     <string name="google_map_not_installed">Google Map is not installed on this Phone!</string>
     <string name="gone">Gone!</string>
     <string name="whatsapp_not_installed">WhatsApp is not installed on this phone!</string>
+    <string name="pokemesh_relax_sound">Sound</string>
+    <string name="pokemesh_relax_sound_summary">Enable sound for relax mode notifications.</string>
+    <string name="pokemesh_club_short">Club</string>
 </resources>
