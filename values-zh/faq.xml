@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">該如何掃描特定位置?</string>
+    <string name="pokemesh_faq_long_tap_summary">在地圖上長按就可設定此處為新的位置. 在新位置開始掃描後，之前未完成的掃描將會被中斷</string>
+    <string name="pokemesh_faq_icons_blur">替代的圖示將會被霧化處理</string>
+    <string name="pokemesh_faq_icons_blur_summary">由於任天堂擁有這些圖示的版權，不能在本App中使用. 為了避免侵權，原本的圖示將會被模糊化.</string>
+    <string name="pokemesh_faq_report">我在使用PokéMesh時遇到問題</string>
+    <string name="pokemesh_faq_report_summary">我們會持續在我們的官網上聆聽問題並嘗試能盡速解決!</string>
+</resources>
