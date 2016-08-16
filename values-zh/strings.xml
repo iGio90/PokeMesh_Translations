@@ -1,0 +1,150 @@
+<resources>
+    <string translatable="false" name="app_name">PokéMesh繁中版</string>
+    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
+    <string name="german_translations_credits" translatable="false">yv35p00l</string>
+    <string name="french_translations_credits" translatable="false">Avenbeard</string>
+    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
+
+    <string name="pokemesh_title_activity_maps">地圖</string>
+    <string name="pokemesh_scan">掃描</string>
+    <string name="pokemesh_login">登入</string>
+    <string name="pokemesh_settings">設定</string>
+    <string name="pokemesh_search">搜尋</string>
+    <string name="pokemesh_search_something">搜尋什麼…</string>
+    <string name="pokemesh_search_address">地址</string>
+    <string name="pokemesh_search_address_hint">地址搜尋</string>
+    <string name="pokemesh_pokemon">Pokémon篩選設定</string>
+    <string name="pokemesh_search_pokemons">尋找特定Pokémon</string>
+    <string name="pokemesh_stop_scan">停止掃描</string>
+    <string name="pokemesh_finding_pokemons">尋找在nearby的Pokémon…</string>
+    <string name="pokemesh_login_error">登入失敗! 可能是目前 Pokémon GO 伺服器出現問題!</string>
+    <string name="pokemesh_pokemesh_summary">自動掃描在nearby的寶可夢. 開啟PokéMesh後，如果有寶可夢出現在你的周遭，將會發出通知.</string>
+    <string name="pokemesh_last_seen">最後一次看見: %s</string>
+    <string name="pokemesh_never">從未見過</string>
+    <string name="pokemesh_on_map">在地圖上!</string>
+    <string name="pokemesh_gps_disabled">GPS目前是關閉的.</string>
+    <string name="pokemesh_my_position">我的位置</string>
+    <string name="pokemesh_no_permission">PokéMesh 沒有權限讀取你的GPS定位資訊!</string>
+    <string name="pokemesh_show_on_map">顯示在地圖上</string>
+    <string name="pokemesh_show_on_map_summary">是否在地圖上顯示這隻Pokémon</string>
+    <string name="pokemesh_mesh_pokemon">通知欄</string>
+    <string name="pokemesh_mesh_pokemon_summary">當這隻Pokémon出現在nearby裡，是否要發出通知</string>
+    <string name="pokemesh_pokemesh_disabled">繼續動作前，你需要先開啟PokéMesh設定!</string>
+    <string name="pokemesh_mesh_disabled">通知欄已停用</string>
+    <string name="pokemesh_mesh_enabled">通知欄已啟用</string>
+    <string name="pokemesh_mesh_finding">目前nearby中沒有Pokémon!</string>
+    <string name="pokemesh_meshed">nearby裡出現了 %s!</string>
+    <string name="pokemesh_multi_meshed" formatted="false">有 %s nearby %s!</string>
+    <string name="pokemesh_big_multi_meshed">你的身邊出現了一些Pokémon!</string>
+
+    <string name="pokemesh_support_us">贊助PokéMesh</string>
+    <string name="pokemesh_support_us_summary">每30次掃描後，會出現一次全屏廣告</string>
+    <string name="pokemesh_about">關於我</string>
+    <string name="pokemesh_follow_us">關注我們</string>
+    <string name="pokemesh_check_update">更新程式</string>
+    <string name="pokemesh_checking_update">檢查是否有更新程式…</string>
+    <string name="pokemesh_update_failed">連接伺服器失敗. 請稍後再試!</string>
+    <string name="pokemesh_no_update_available">你用的PokéMesh已是最新版</string>
+    <string name="pokemesh_update_available">已有新版PokéMesh可以下載!</string>
+    <string name="pokemesh_downloading">下載更新版本中…</string>
+    <string name="pokemesh_gps_failed">無法接收 GPS 定位資訊</string>
+    <string name="pokemesh_init_pokemesh">與PokéMesh連線中....</string>
+    <string name="pokemesh_logging_in">登入中…</string>
+    <string name="pokemesh_connected">已連線! Mesh… Mesh… !</string>
+    <string name="pokemesh_generating_credentials">產生新憑證</string>
+    <string name="pokemesh_pokemesh_down">PokéMesh正在更新中. 請稍後再試</string>
+    <string name="pokemesh_got_pokemesh_credentials">取得PokéMesh憑證!</string>
+    <string name="pokemesh_club_down">Pokémon GO伺服器目前沒回應. 請稍後再試</string>
+    <string name="pokemesh_no_internet">網路連線失敗. 請稍後再試!</string>
+    <string name="pokemesh_got_it">成功!</string>
+    <string name="pokemesh_hey">嘿!</string>
+    <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon and Pokémon character names are trademarks of Nintendo. Other trademarks are the property of their respective owners.</string>
+    <string name="pokemesh_ptc_down">Pokémon Trainers Club伺服器目前沒回應.\n請稍後再試!</string>
+    <string name="pokemesh_login_failed">登入失敗…</string>
+    <string name="pokemesh_login_ptc_disabled">登入至PTC已關閉!</string>
+    <string name="pokemesh_login_google">以Google帳號登入</string>
+    <string name="pokemesh_important">重要事項</string>
+    <string name="pokemesh_login_google_summary">本程式會使用你提供的Google帳號來連線至Google伺服器.\n建議你不要使用登入遊戲的Google帳號來使用本程式，以避免這個帳號將來可能被封鎖.\n也可以另外創立一個新帳號來使用本程式.</string>
+    <string name="pokemesh_register">註冊新Google帳號</string>
+    <string name="pokemesh_already_have_account">我有其他的Google帳號</string>
+
+    <string name="pokemesh_tour_welcome">歡迎使用PokèMesh</string>
+    <string name="pokemesh_your_location">你的位置</string>
+    <string name="pokemesh_your_location_summary">點選你的位置，開始掃描附近的Pokèmon</string>
+    <string name="pokemesh_long_tap">長按!</string>
+    <string name="pokemesh_long_tap_summary">在地圖上長按，開始掃描這裡的Pokèmon!</string>
+    <string name="pokemesh_pokemons">Pokémon</string>
+    <string name="pokemesh_catch_em_all">全部抓起來</string>
+    <string name="pokemesh_ready_summary">可以開始使用PokéMesh了. 點選設定或Pokèdex還有更多功能. Enjoy the hunt!</string>
+    <string name="pokemesh_guide">導覽</string>
+    <string name="pokemesh_quick_go">快速啟動</string>
+    <string name="pokemesh_quick_go_summary">長按定位點以快速啟動Pokémon GO</string>
+    <string name="pokemesh_gyms">道館</string>
+    <string name="pokemesh_gyms_summary">在地圖上顯示道館</string>
+    <string name="pokemesh_pokestops">補給站</string>
+    <string name="pokemesh_pokestops_summary">在地圖上顯示補給站</string>
+    <string name="pokemesh_disconnect">登出Google帳戶</string>
+    <string name="pokemesh_disconnect_confirmation">你確定要登出Google帳戶嗎?</string>
+    <string name="pokemesh_searching_gps">定位中…</string>
+    <string name="pokemesh_start_pokemesh">PokéMesh開啟</string>
+    <string name="pokemesh_support_us_lock">請打開底部的 \"贊助我們\" 選項，以開啟此功能!</string>
+    <string name="pokemesh_map">地圖</string>
+    <string name="pokemesh_stock_icons_summary">使用替代圖示. 由於任天堂版權因素，顯示的圖示將會霧化處理.</string>
+    <string name="pokemesh_stock_icons">替代圖示</string>
+    <string name="pokemesh_additional">額外選項</string>
+    <string name="pokemesh_relax_mode">休息模式</string>
+    <string name="pokemesh_relax_mode_summary">當休息模式開啟時, PokéMesh會在背景持續運作. 並在通知欄出現提示. 每隔一段時間會自動掃描附近的Pokémon!</string>
+    <string name="pokemesh_vibration">震動</string>
+    <string name="pokemesh_vibration_summary">在休息模式下開啟震動通知.</string>
+    <string name="pokemesh_relax_delay">掃描間隔</string>
+    <string name="pokemesh_relax_delay_summary">多久掃瞄一次. 次數越頻繁，耗電量與資料傳輸量也會越大喔.</string>
+    <string name="pokemesh_advanced">進階選項</string>
+    <string name="pokemesh_scan_area">掃瞄範圍</string>
+    <string name="pokemesh_advanced_summary">注意: 修改這個值會影響每次完成掃描所需的時間.</string>
+    <string name="pokemesh_scan_area_summary">選擇目前所在地或指定地點的掃描半徑.</string>
+    <string name="pokemesh_scan_distance">掃描點密度</string>
+    <string name="pokemesh_scan_distance_summary">設定掃描點之間的距離間隔.</string>
+    <string name="pokemesh_scan_steps_marker">掃描點顯示</string>
+    <string name="pokemesh_scan_steps_marker_summary">在地圖上顯示已完成的掃描點.</string>
+    <string name="pokemesh_news">最新資訊</string>
+    <string name="pokemesh_faq">問答與說明</string>
+    <string name="pokemesh_screenshot_fail">截圖失敗.</string>
+    <string name="pokemesh_translations">翻譯團隊:</string>
+
+    <string name="credits">PokéMesh開發人員: PoGoAPI, Unknown6 Team</string>
+    <string name="pokemesh_remotly_disabled">PokéMesh map目前已關閉. 關注我們的Facebook.</string>
+    <string name="pokemesh_club">PokéMesh Club</string>
+    <string name="insert_username">輸入使用者名稱</string>
+    <string name="pokemesh_overlay">重疊地圖模式</string>
+    <string name="pokemesh_overlay_summary">當PokéMesh在背景運作時是否開啟重疊模式</string>
+    <string name="pokemesh_club_nickname_short">使用者名稱太短啦! 至少要3個字元喔.</string>
+    <string name="pokemesh_club_nickname_alphanumeric">選擇的暱稱包含了不合法的字元.</string>
+    <string name="pokemesh_club_public">公開</string>
+    <string name="pokemesh_club_groups">團隊</string>
+    <string name="pokemesh_overlay_position">重疊地圖位置</string>
+    <string name="pokemesh_overlay_position_summary">選擇重疊地圖顯示的位置</string>
+    <string name="pokemesh_overlay_size">重疊地圖大小</string>
+    <string name="pokemesh_overlay_size_summary">選擇重疊地圖顯示的大小</string>
+    <string name="accounts">帳號</string>
+    <string name="accounts_summary">多重帳號登入可以加快掃描速度. 不是使用登入時的帳號，而且只有在掃描時使用.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">選擇帳號類型</string>
+    <string name="create_account">建立新Google帳號</string>
+    <string name="existing_account">加入已建立的Google帳號</string>
+    <string name="account_identifier">帳號名稱</string>
+    <string name="account_identifier_summary">為了保護你的資料, 我們不會儲存你的Google憑證. 為你要加入的每個Google帳號加上不同的名稱.\n\nNOTE: 多次加入相同的Google帳號會影響掃描的準確度喔!</string>
+    <string name="account_identifier_short">帳號名稱太短啦! 至少要3個字元喔.</string>
+    <string name="account_identifier_invalid">選擇的帳號名稱包含了不合法的字元.</string>
+    <string name="remove_account">確定要移除選擇的Google帳號嗎?</string>
+    <string name="username">登入名稱</string>
+    <string name="password">登入密碼</string>
+    <string name="username_empty">登入名稱是空白的喔!</string>
+    <string name="password_empty">登入密碼是空白的喔!</string>
+    <string name="pokemesh_login_error_multiacct">登入失敗 %s. 該帳號可能已被封鎖或者PokémonGO伺服器目前運作異常.</string>
+</resources>
