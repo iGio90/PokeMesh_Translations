@@ -160,4 +160,18 @@
     <string name="pokemesh_relax_sound">Sound</string>
     <string name="pokemesh_relax_sound_summary">Enable sound for relax mode notifications.</string>
     <string name="pokemesh_club_short">Club</string>
+    <string name="pokemesh_club_write">Write something…</string>
+    <string name="pokemesh_club_chat_down">PokéMesh chat servers are currently down. Try later</string>
+    <string name="join_room_title">Create or join an existing room.</string>
+    <string name="join_room_hint">Room name…</string>
+    <string name="leave_room_confirmation">Are you sure you want to leave this room?</string>
+    <string name="on_enter_room">entered the room.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
+    <string name="on_leave_room">has left the room.</string>
+    <string name="just_now">Just now</string>
+    <string name="a_minute_ago">A minute ago</string>
+    <string name="minutes_ago">minutes ago</string>
+    <string name="an_hour_ago">An hour ago</string>
+    <string name="hours_ago">hours ago</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="days_ago">days ago</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
 </resources>
