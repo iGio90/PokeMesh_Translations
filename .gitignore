@@ -6,6 +6,7 @@
 /layout
 /mipmap*
 /raw*
+/raw/*
 /values-w820dp
 /values-v21
 /values/dimens.xml
