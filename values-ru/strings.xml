@@ -1,6 +1,14 @@
 <resources>
     <string translatable="false" name="app_name">PokéMesh</string>
     <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
+    <string name="german_translations_credits" translatable="false">yv35p00l</string>
+    <string name="french_translations_credits" translatable="false">Avenbeard</string>
+    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
     <string name="pokemesh_title_activity_maps">Карта</string>
     <string name="pokemesh_scan">Сканировать</string>
