@@ -3,13 +3,13 @@
 
     <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
     <string name="facebook_app_id" translatable="false">1679594909028603</string>
-
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla, TheNumber4</string>
     <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
 
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
     <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
@@ -157,4 +157,22 @@
     <string name="google_map_not_installed">Google Maps is niet geïnstalleerd op deze telefoon!</string>
     <string name="gone">Is weg!</string>
     <string name="whatsapp_not_installed">WhatsApp is niet geïnstalleerd op deze telefoon!</string>
+    <string name="pokemesh_relax_sound">Geluiden</string>
+    <string name="pokemesh_relax_sound_summary">Speel een geluid af bij een Relax-mode notificatie.</string>
+    <string name="pokemesh_club_short">Club</string>
+    <string name="pokemesh_club_write">Schrijf iets…</string>
+    <string name="pokemesh_club_chat_down">De PokéMesh chat servers zijn momenteel offline of niet bereikbaar. Probeer het later opnieuw</string>
+    <string name="join_room_title">Creëer of gebruik een bestaand kanaal.</string>
+    <string name="join_room_hint">Kanaal naam…</string>
+    <string name="leave_room_confirmation">Weet je zeker dat je dit kanaal wilt verlaten?</string>
+    <string name="on_enter_room">is in het kanaal toegetreden.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
+    <string name="on_leave_room">heeft het kanaal verlaten.</string>
+    <string name="just_now">Nu</string>
+    <string name="a_minute_ago">Een minuut geleden</string>
+    <string name="minutes_ago">minuten geleden</string>
+    <string name="an_hour_ago">Een uur geleden</string>
+    <string name="hours_ago">uur geleden</string>
+    <string name="yesterday">Gisteren</string>
+    <string name="days_ago">dagen geleden</string>
+    <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
 </resources>
