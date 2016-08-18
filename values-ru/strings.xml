@@ -45,8 +45,6 @@
     <string name="pokemesh_support_us">Поддержать PokéMesh</string>
     <string name="pokemesh_support_us_summary">Показывать рекламу каждые 30 сканирований</string>
     <string name="pokemesh_about">О нас</string>
-    <string name="pokemesh_follow_facebook">/PokeMesh</string>
-    <string name="pokemesh_follow_twitter">\@PokeMeshApp</string>
     <string name="pokemesh_follow_us">Подписывайтесь</string>
     <string name="pokemesh_check_update">Обновить</string>
     <string name="pokemesh_checking_update">Проверка обновлений…</string>

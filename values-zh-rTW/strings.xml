@@ -57,7 +57,7 @@
     <string name="pokemesh_logging_in">登入中…</string>
     <string name="pokemesh_connected">已連線! Mesh… Mesh… !</string>
     <string name="pokemesh_generating_credentials">產生新憑證</string>
-    <string name="pokemesh_pokemesh_down">PokéMesh正在更新中. 請稍後再試/string>
+    <string name="pokemesh_pokemesh_down">PokéMesh正在更新中. 請稍後再試</string>
     <string name="pokemesh_got_pokemesh_credentials">取得PokéMesh憑證!</string>
     <string name="pokemesh_club_down">Pokémon GO伺服器目前沒回應. 請稍後再試</string>
     <string name="pokemesh_no_internet">網路連線失敗. 請稍後再試!</string>
