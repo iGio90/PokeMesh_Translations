@@ -1,12 +1,16 @@
 <resources>
-    <string translatable="false" name="app_name">PokéMesh繁中版</string>
-    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="app_name" translatable="false">PokéMesh</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="facebook_app_id" translatable="false">1679594909028603</string>
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
     <string name="traditional_chinese_translations_credits" translatable="false">alandai28</string>
+
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
     <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
@@ -57,14 +61,14 @@
     <string name="pokemesh_logging_in">登入中…</string>
     <string name="pokemesh_connected">已連線! Mesh… Mesh… !</string>
     <string name="pokemesh_generating_credentials">產生新憑證</string>
-    <string name="pokemesh_pokemesh_down">PokéMesh正在更新中. 請稍後再試/string>
+    <string name="pokemesh_pokemesh_down">PokéMesh正在更新中. 請稍後再試</string>
     <string name="pokemesh_got_pokemesh_credentials">取得PokéMesh憑證!</string>
     <string name="pokemesh_club_down">Pokémon GO伺服器目前沒回應. 請稍後再試</string>
     <string name="pokemesh_no_internet">網路連線失敗. 請稍後再試!</string>
     <string name="pokemesh_got_it">成功!</string>
     <string name="pokemesh_hey">嘿!</string>
     <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon and Pokémon character names are trademarks of Nintendo. Other trademarks are the property of their respective owners.</string>
-    <string name="pokemesh_ptc_down">Pokémon Trainers Club伺服器目前沒回應.\n請稍後再試!</string>
+    <string name="pokemesh_ptc_down">Pokémon Trainers Club伺服器目前沒有回應.\n請稍後再試!</string>
     <string name="pokemesh_login_failed">登入失敗…</string>
     <string name="pokemesh_login_ptc_disabled">登入至PTC已關閉!</string>
     <string name="pokemesh_login_google">以Google帳號登入</string>
@@ -147,4 +151,28 @@
     <string name="username_empty">登入名稱是空白的喔!</string>
     <string name="password_empty">登入密碼是空白的喔!</string>
     <string name="pokemesh_login_error_multiacct">登入失敗 %s. 該帳號可能已被封鎖或者Pokémon GO伺服器目前運作異常.</string>
+    <string name="take_me_there">帶我到這裡!</string>
+    <string name="pokemon_share_title">我剛用PokéMesh找到一隻 %s !</string>
+    <string name="pokemon_share_content" formatted="false">欸欸! 這裡有一隻 %s : %s</string>
+    <string name="google_map_not_installed">這支手機上沒有安裝Google Map耶!</string>
+    <string name="gone">消失了!</string>
+    <string name="whatsapp_not_installed">這支手機上沒有安裝WhatsApp耶!</string>
+    <string name="pokemesh_relax_sound">音效</string>
+    <string name="pokemesh_relax_sound_summary">在休息模式時開啟通知音效.</string>
+    <string name="pokemesh_club_short">社團</string>
+    <string name="pokemesh_club_write">寫些什麼…</string>
+    <string name="pokemesh_club_chat_down">PokéMesh 聊天伺服器目前沒有回應. 請稍後再試</string>
+    <string name="join_room_title">建立或加入聊天室.</string>
+    <string name="join_room_hint">聊天室名稱…</string>
+    <string name="leave_room_confirmation">你確定要離開這間聊天室嗎?</string>
+    <string name="on_enter_room">已進入聊天室.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
+    <string name="on_leave_room">已離開聊天室.</string>
+    <string name="just_now">剛才</string>
+    <string name="a_minute_ago">一分鐘前</string>
+    <string name="minutes_ago">幾分鐘前</string>
+    <string name="an_hour_ago">一小時前</string>
+    <string name="hours_ago">幾小時前</string>
+    <string name="yesterday">昨天</string>
+    <string name="days_ago">幾天前\</string>
+    <string name="no_message">還沒有留言. 加入聊天室說些什麼吧!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
 </resources>
