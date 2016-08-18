@@ -173,5 +173,6 @@
     <string name="an_hour_ago">Een uur geleden</string>
     <string name="hours_ago">uur geleden</string>
     <string name="yesterday">Gisteren</string>
-    <string name="days_ago">dagen geleden</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
+    <string name="days_ago">dagen geleden</string>
+    <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
 </resources>
