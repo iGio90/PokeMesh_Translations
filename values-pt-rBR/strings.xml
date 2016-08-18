@@ -1,12 +1,16 @@
 <resources>
-    <string translatable="false" name="app_name">PokéMesh</string>
-    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="app_name" translatable="false">PokéMesh</string>
+    
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="facebook_app_id" translatable="false">1679594909028603</string>
     <string name="spanish_translations_credits" translatable="false">masterojitos</string>
     <string name="german_translations_credits" translatable="false">yv35p00l</string>
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla</string>
-    <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale e abskelvin</string>
+    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
+    
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
     <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
 
@@ -146,4 +150,29 @@
     <string name="password">Senha</string>
     <string name="username_empty">Insira um nome de usuário válido!</string>
     <string name="password_empty">Insira uma senha válida!</string>
+    <string name="pokemesh_login_error_multiacct">O login falhou na conta: %s. A conta pode estar desativada ou os servidores de PokémonGO estão offline.</string>
+    <string name="take_me_there">Leve-me lá!</string>
+    <string name="pokemon_share_title">Eu encontrei um %s com PokéMesh!</string>
+    <string name="pokemon_share_content" formatted="false">Ei! Existe um %s aqui: %s</string>
+    <string name="google_map_not_installed">Google Map não está instalado neste telefone!</string>
+    <string name="gone">Foi!</string>
+    <string name="whatsapp_not_installed">WhatsApp não está instalado neste telefone!</string>
+    <string name="pokemesh_relax_sound">Som</string>
+    <string name="pokemesh_relax_sound_summary">Habilitar som para as notificações do modo relax.</string>
+    <string name="pokemesh_club_short">Club</string>
+    <string name="pokemesh_club_write">Escreva algo…</string>
+    <string name="pokemesh_club_chat_down">Os servidores do chat de PokéMesh se encontram offline. Tente novamente mais tarde.</string>
+    <string name="join_room_title">Criar ou entrar em uma sala existente.</string>
+    <string name="join_room_hint">Nome da sala…</string>
+    <string name="leave_room_confirmation">Tem certeza que deseja sair desta sala?</string>
+    <string name="on_enter_room">entrou na sala.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
+    <string name="on_leave_room">saiu da sala.</string>
+    <string name="just_now">Agora mesmo</string>
+    <string name="a_minute_ago">Um minuto atrás</string>
+    <string name="minutes_ago">minutos atrás</string>
+    <string name="an_hour_ago">Uma hora atrás</string>
+    <string name="hours_ago">horas atrás</string>
+    <string name="yesterday">Ontem</string>
+    <string name="days_ago">dias atrás</string>
+    <string name="no_message">Nenhuma mensagem ainda. Entre na sala e escreva algo!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
 </resources>
