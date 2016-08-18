@@ -118,6 +118,6 @@
     <string name="pokemesh_overlay_summary">Переключение наложения на карту, когда PokéMesh запущена в фоновом режиме</string>
     <string name="pokemesh_club_nickname_short">Имя пользователя слишком короткое! Используйте не менее 3 символов.</string>
     <string name="pokemesh_club_nickname_alphanumeric">Данное имя содержит недопустимые символы.</string>
-    <string name="pokemesh_club_public">Public</string>
+    <string name="pokemesh_club_public">Общественнсоть</string>
     <string name="pokemesh_club_groups">Группы</string>
 </resources>
