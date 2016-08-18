@@ -29,7 +29,7 @@
         <item>Superior esquerdo</item>
         <item>Superior direito</item>
         <item>Inferior esquerdo</item>
-        <item>Infeior direito</item>
+        <item>Inferior direito</item>
     </string-array>
     <string-array translatable="false" name="overlay_size">
         <item>Minúsculo</item>
