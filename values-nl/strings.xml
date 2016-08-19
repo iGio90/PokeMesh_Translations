@@ -128,7 +128,7 @@
     <string name="pokemesh_overlay_summary">Schakel de Overlay-functie in waarmee PokéMesh over een andere applicatie geopend kan worden</string>
     <string name="pokemesh_club_nickname_short">De gekozen gebruikersnaam is te kort! Dient minimaal 3 karakters te bevatten.</string>
     <string name="pokemesh_club_nickname_alphanumeric">De gekozen gebruikersnaam bevat ongeldige tekens.</string>
-    <string name="pokemesh_club_public">Publiek</string>
+    <string name="pokemesh_club_public">Openbaar</string>
     <string name="pokemesh_club_groups">Groepen</string>
     <string name="pokemesh_overlay_position">Overlay locatie</string>
     <string name="pokemesh_overlay_position_summary">Kies de locatie waar de Overlay wordt weergegeven</string>
