@@ -175,4 +175,6 @@
     <string name="yesterday">Ontem</string>
     <string name="days_ago">dias atrás</string>
     <string name="no_message">Nenhuma mensagem ainda. Entre na sala e escreva algo!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
+    <string name="master_account">Conta Principal</string>
+    <string name="account_could_be_banned">Esta conta pode banida ou desativada. Por favor, tente logar com o jogo oficial!</string>
 </resources>
