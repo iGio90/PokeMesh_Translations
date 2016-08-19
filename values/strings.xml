@@ -174,5 +174,7 @@
     <string name="hours_ago">hours ago</string>
     <string name="yesterday">Yesterday</string>
     <string name="days_ago">days ago</string>
-    <string name="no_message">No messagge yet. Join the room and write something!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
+    <string name="no_message">No messagge yet. Join the room and write something!</string>
+    <string name="master_account">Master account</string>
+    <string name="account_could_be_banned">This account could be banned or disabled. Please try login with the official game!</string>
 </resources>
