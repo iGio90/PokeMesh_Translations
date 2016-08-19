@@ -128,7 +128,7 @@
     <string name="pokemesh_overlay_summary">Schakel de Overlay-functie in waarmee PokéMesh over een andere applicatie geopend kan worden</string>
     <string name="pokemesh_club_nickname_short">De gekozen gebruikersnaam is te kort! Dient minimaal 3 karakters te bevatten.</string>
     <string name="pokemesh_club_nickname_alphanumeric">De gekozen gebruikersnaam bevat ongeldige tekens.</string>
-    <string name="pokemesh_club_public">Publiek</string>
+    <string name="pokemesh_club_public">Openbaar</string>
     <string name="pokemesh_club_groups">Groepen</string>
     <string name="pokemesh_overlay_position">Overlay locatie</string>
     <string name="pokemesh_overlay_position_summary">Kies de locatie waar de Overlay wordt weergegeven</string>
@@ -174,5 +174,7 @@
     <string name="hours_ago">uur geleden</string>
     <string name="yesterday">Gisteren</string>
     <string name="days_ago">dagen geleden</string>
-    <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
+    <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string>
+    <string name="master_account">Hoofdaccount</string>
+    <string name="account_could_be_banned">Dit account is mogelijk geblokkeerd of uitgeschakeld. Probeer aan te melden bij de Pokémon GO app!</string>
 </resources>
