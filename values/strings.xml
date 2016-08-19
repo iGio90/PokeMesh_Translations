@@ -177,4 +177,6 @@
     <string name="no_message">No messagge yet. Join the room and write something!</string>
     <string name="master_account">Master account</string>
     <string name="account_could_be_banned">This account could be banned or disabled. Please try login with the official game!</string>
+    <string name="pokemesh_original_names">Original names</string>
+    <string name="pokemesh_original_names_summary">Use the original (english) Pokémon names</string>
 </resources>
