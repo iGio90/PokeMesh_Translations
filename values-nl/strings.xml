@@ -177,4 +177,6 @@
     <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string>
     <string name="master_account">Hoofdaccount</string>
     <string name="account_could_be_banned">Dit account is mogelijk geblokkeerd of uitgeschakeld. Probeer aan te melden bij de Pokémon GO app!</string>
+    <string name="pokemesh_original_names">Pokémon namen</string>
+    <string name="pokemesh_original_names_summary">Gebruik de standaard (Engelse) Pokémon namen</string>
 </resources>
