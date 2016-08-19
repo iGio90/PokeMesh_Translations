@@ -114,7 +114,7 @@
     <string name="pokemesh_scan_distance">Distância dos passos</string>
     <string name="pokemesh_scan_distance_summary">Selecionar a distância em metros entre os passos.</string>
     <string name="pokemesh_scan_steps_marker">Marcar passos</string>
-    <string name="pokemesh_scan_steps_marker_summary">Mostrar um marcador para cada passo de escan no mapa em tempo real.</string>
+    <string name="pokemesh_scan_steps_marker_summary">Mostrar um marcador para cada passo de scan no mapa em tempo real.</string>
     <string name="pokemesh_news">Novidades</string>
     <string name="pokemesh_faq">F.A.Q e Tutorial</string>
     <string name="pokemesh_screenshot_fail">Ocorreu algo errado ao tirar a captura de tela.</string>
@@ -177,4 +177,6 @@
     <string name="no_message">Nenhuma mensagem ainda. Entre na sala e escreva algo!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
     <string name="master_account">Conta Principal</string>
     <string name="account_could_be_banned">Esta conta pode banida ou desativada. Por favor, tente logar com o jogo oficial!</string>
+    <string name="pokemesh_original_names">Nomes originais</string>
+    <string name="pokemesh_original_names_summary">Use os nomes originais dos Pokémon (em inglês)</string>
 </resources>
