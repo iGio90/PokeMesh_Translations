@@ -174,5 +174,7 @@
     <string name="hours_ago">uur geleden</string>
     <string name="yesterday">Gisteren</string>
     <string name="days_ago">dagen geleden</string>
-    <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
+    <string name="no_message">Nog geen berichten. Bezoek dit kanaal en schrijf iets!</string>
+    <string name="master_account">Hoofdaccount</string>
+    <string name="account_could_be_banned">Dit account is mogelijk geblokkeerd of uitgeschakeld. Probeer aan te melden bij de Pokémon GO app!</string>
 </resources>
