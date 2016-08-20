@@ -175,4 +175,8 @@
     <string name="yesterday">昨天</string>
     <string name="days_ago">幾天前\</string>
     <string name="no_message">還沒有留言. 加入聊天室說些什麼吧!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
+    <string name="master_account">Master account</string>
+    <string name="account_could_be_banned">這個Google帳號可能已被官方封鎖. 請試著用他登入遊戲看看!</string>
+    <string name="pokemesh_original_names">Pokémon英文名稱</string>
+    <string name="pokemesh_original_names_summary">使用英文的Pokémon名稱</string>
 </resources>
