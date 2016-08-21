@@ -179,4 +179,15 @@
     <string name="account_could_be_banned">Dit account is mogelijk geblokkeerd of uitgeschakeld. Probeer aan te melden bij de Pokémon GO app!</string>
     <string name="pokemesh_original_names">Pokémon namen</string>
     <string name="pokemesh_original_names_summary">Gebruik de standaard (Engelse) Pokémon namen</string>
+    <string name="hide_current">Verberg deze %s</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="hide_all">Verberg alle %s</string>
+    <string name="rarity_filters">Zeldzaamheidsfilters</string>
+    <string name="rarity_disclaimer">Ik zal de ontwikkelaars niet verantwoordelijk stellen indien ik geen Pokémon op de kaart zie!</string>
+    <string name="rarity_filters_summary">Selecteer de minimale zeldzaamheid van Pokémon die op de kaart worden weergegeven.</string>
+    <string name="bookmarks">Opgeslagen locaties</string>
+    <string name="history">Geschiedenis</string>
+    <string name="add_bookmark">Locatie opslaan</string>
+    <string name="delete">Verwijderen</string>
+    <string name="ilovepokemesh">Ik &lt;3 PokéMesh</string>
+    <string name="ilovepokemesh_summary">Geef een niet storende banner weer op de kaart.</string>
 </resources>

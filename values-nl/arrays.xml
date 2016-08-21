@@ -37,4 +37,14 @@
         <item>Gemiddeld</item>
         <item>Groot</item>
     </string-array>
+    <string-array name="rarity_filters">
+        <item>Zeer gewoon</item>
+        <item>Gewoon</item>
+        <item>Ongewoon</item>
+        <item>Zeldzaam</item>
+        <item>Zeer zeldzaam</item>
+        <item>Speciaal</item>
+        <item>Episch</item>
+        <item>Legendarisch</item>
+    </string-array>
 </resources>
