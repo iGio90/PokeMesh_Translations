@@ -8,7 +8,7 @@
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla</string>
-    <string name="portuguese_translations_credits" translatable="false">gabrielfvale e abskelvin</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale, abskelvin</string>
     <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
     
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
@@ -179,4 +179,7 @@
     <string name="account_could_be_banned">Esta conta pode banida ou desativada. Por favor, tente logar com o jogo oficial!</string>
     <string name="pokemesh_original_names">Nomes originais</string>
     <string name="pokemesh_original_names_summary">Use os nomes originais dos Pokémon (em inglês)</string>
+    <string name="hide_current">Esconder este %s</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="hide_all">Esconder todos %s</string>
+    <string name="rarity_filters">Filtros de Raridade</string> <!-- %s will be replaced by the localized pokémon name -->
 </resources>
