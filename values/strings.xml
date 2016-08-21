@@ -188,4 +188,6 @@
     <string name="history">History</string>
     <string name="add_bookmark">Add bookmark</string>
     <string name="delete">Delete</string>
+    <string name="ilovepokemesh">I love PokéMesh</string>
+    <string name="ilovepokemesh_summary">Display a non-intrusive small banner on the main map.</string>
 </resources>
