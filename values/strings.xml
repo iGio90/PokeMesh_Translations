@@ -181,5 +181,11 @@
     <string name="pokemesh_original_names_summary">Use the original (english) Pokémon names</string>
     <string name="hide_current">Hide this %s</string> <!-- %s will be replaced by the localized pokémon name -->
     <string name="hide_all">Hide all %s</string>
-    <string name="rarity_filters">Rarity filters</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="rarity_filters">Rarity filters</string>
+    <string name="rarity_disclaimer">I will not blame the developers if I see the map without a single Pokémon!</string>
+    <string name="rarity_filters_summary">Select the minimum Pokémon rarity that will be shown on map.</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="history">History</string>
+    <string name="add_bookmark">Add bookmark</string>
+    <string name="delete">Delete</string>
 </resources>
