@@ -183,7 +183,7 @@
     <string name="hide_all">Verberg alle %s</string>
     <string name="rarity_filters">Zeldzaamheidsfilters</string>
     <string name="rarity_disclaimer">Ik zal de ontwikkelaars niet verantwoordelijk stellen indien ik geen Pokémon op de kaart zie!</string>
-    <string name="rarity_filters_summary">Selecteer de minimale zeldzaamheid van Pokémon die op de kaart wordt weergegeven.</string>
+    <string name="rarity_filters_summary">Selecteer de minimale zeldzaamheid van Pokémon die op de kaart worden weergegeven.</string>
     <string name="bookmarks">Opgeslagen locaties</string>
     <string name="history">Geschiedenis</string>
     <string name="add_bookmark">Locatie opslaan</string>
