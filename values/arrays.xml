@@ -37,4 +37,14 @@
         <item>Medium</item>
         <item>Large</item>
     </string-array>
+    <string-array name="rarity_filters">
+        <item>Very common</item>
+        <item>Common</item>
+        <item>Uncommon</item>
+        <item>Rare</item>
+        <item>Very rare</item>
+        <item>Special</item>
+        <item>Epic</item>
+        <item>Legendary</item>
+    </string-array>
 </resources>
