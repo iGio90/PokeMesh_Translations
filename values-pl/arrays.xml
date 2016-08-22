@@ -29,7 +29,7 @@
         <item>Górny lewy</item>
         <item>Górny prawy</item>
         <item>Dolny lewy</item>
-        <item>DOlny prawy</item>
+        <item>Dolny prawy</item>
     </string-array>
     <string-array translatable="false" name="overlay_size">
         <item>Bardzo mały</item>
