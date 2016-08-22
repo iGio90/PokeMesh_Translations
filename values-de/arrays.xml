@@ -25,4 +25,26 @@
         <item>125</item>
         <item>150</item>
     </string-array>
-</resources>
+    <string-array translatable="false" name="overlay_positions">
+        <item>Top left</item>
+        <item>Top right</item>
+        <item>Bottom left</item>
+        <item>Bottom right</item>
+    </string-array>
+    <string-array translatable="false" name="overlay_size">
+        <item>Sehr klein</item>
+        <item>Klein</item>
+        <item>Mittel</item>
+        <item>Groß</item>
+    </string-array>
+    <string-array name="rarity_filters">
+        <item>Sehr gewoehnlich</item>
+        <item>Gewoehnlich</item>
+        <item>Ungewoehnlich</item>
+        <item>Selten</item>
+        <item>Sehr selten</item>
+        <item>Besonders</item>
+        <item>Episch</item>
+        <item>Legendaer</item>
+    </string-array>
+    </resources>
