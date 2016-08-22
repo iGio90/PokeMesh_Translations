@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name" translatable="false">PokéMesh</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="facebook_app_id" translatable="false">1679594909028603</string>
+
+    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
+    <string name="german_translations_credits" translatable="false">yv35p00l</string>
+    <string name="french_translations_credits" translatable="false">Avenbeard</string>
+    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
+
+    <string name="pokemesh_title_activity_maps">الخريطة</string>
+    <string name="pokemesh_scan">فحص</string>
+    <string name="pokemesh_login">تسجيل دخول</string>
+    <string name="pokemesh_settings">الإعدادات</string>
+    <string name="pokemesh_search">بحث</string>
+    <string name="pokemesh_search_something">البحث عن ..</string>
+    <string name="pokemesh_search_address">العنوان</string>
+    <string name="pokemesh_search_address_hint">ابحث عن عنوان</string>
+    <string name="pokemesh_pokemon">بوكيمون</string>
+    <string name="pokemesh_search_pokemons">ابحث عن بوكيمون</string>
+    <string name="pokemesh_stop_scan">أيقاف البحث</string>
+    <string name="pokemesh_finding_pokemons">جاري ايجاد بوكيمون بالقرب ..</string>
+    <string name="pokemesh_login_error">فشل تسجيل الدخول! ربما بسبب أن سيرفرات بوكيمون لا تعمل حاليا.</string>
+    <string name="pokemesh_pokemesh_summary">محدد مواقع بوكيمون المجاورة التلقائي . من خلال تمكين بوكيماش سوف يتم إعلامك إذا بوكيمون بالقرب من موقعك الحالي</string>
+    <string name="pokemesh_last_seen">آخر ظهور:  %s</string>
+    <string name="pokemesh_never">أبداَ</string>
+    <string name="pokemesh_on_map">على الخريطة!</string>
+    <string name="pokemesh_gps_disabled">نظام تحديد المواقع معطل حالياَ.</string>
+    <string name="pokemesh_my_position">موقعي.</string>
+    <string name="pokemesh_no_permission">ليس لدى بوكيماش صلاحية لإستخدام موقعك.</string>
+    <string name="pokemesh_show_on_map">إظهار على الخريطة!</string>
+    <string name="pokemesh_show_on_map_summary">عرض بوكيمون على الخريطة ام لا</string>
+    <string name="pokemesh_mesh_pokemon">التنبيهات</string>
+    <string name="pokemesh_mesh_pokemon_summary">التنبيه حالما يكون بوكيمون بالجوار أم لا</string>
+    <string name="pokemesh_pokemesh_disabled">تحتاج إلى تمكين إعدادات بوكيماش  قبل المضي قدما!</string>
+    <string name="pokemesh_mesh_disabled">التنبيهات معطة</string>
+    <string name="pokemesh_mesh_enabled">التنبيهات ممكنة</string>
+    <string name="pokemesh_mesh_finding">لايوجد بوكيمون بالجوار حاليا!</string>
+    <string name="pokemesh_meshed">يوجد بالجوار %s!</string>
+    <string name="pokemesh_multi_meshed" formatted="false">يوجد %s بالجوار %s!</string>
+    <string name="pokemesh_big_multi_meshed">يوجد بعض من البوكيمون بالجوار!</string>
+
+    <string name="pokemesh_support_us">إدعم بوكيماش</string>
+    <string name="pokemesh_support_us_summary">عرض إعلان شاشة كاملة بعد كل 30 فحص</string>
+    <string name="pokemesh_about">من نحن</string>
+    <string name="pokemesh_follow_us">تابعنا</string>
+    <string name="pokemesh_check_update">تحديث</string>
+    <string name="pokemesh_checking_update">جاري البحث عن تحديثات...</string>
+    <string name="pokemesh_update_failed">فشل في التواصل مع خوادم التحديث. حاول مرة أخرى في وقت لاحق!</string>
+    <string name="pokemesh_no_update_available">يوجد لديك آخر إصدار من بوكيماش!</string>
+    <string name="pokemesh_update_available">يوجد نسخة جديدة من بوكيماش!</string>
+    <string name="pokemesh_downloading">جاري تحميل التحديث..</string>
+    <string name="pokemesh_gps_failed">غير قادر على تحديد موقعك</string>
+    <string name="pokemesh_init_pokemesh">جاري الإتصال ببوكيماش..</string>
+    <string name="pokemesh_logging_in">جاري تسجيل الدخول..</string>
+    <string name="pokemesh_connected">تم الإتصال! ماش .. ماش..!</string>
+    <string name="pokemesh_generating_credentials">جاري إنشاء معلومات جديدة...</string>
+    <string name="pokemesh_pokemesh_down">بوكيماش حاليا قيد التحديث. حاول مرة أخرى لاحقاَ.</string>
+    <string name="pokemesh_got_pokemesh_credentials">تم الحصول على توثيقات بوكيماش!</string>
+    <string name="pokemesh_club_down">خوادم بوكيمون قو حاليا عطلانة. حاول لاحقا مرة أخرى</string>
+    <string name="pokemesh_no_internet">فشل في التواصل مع مزود خدمة الشبكة. حاول لاحقا!</string>
+    <string name="pokemesh_got_it">فهمتك!</string>
+    <string name="pokemesh_hey">مرحبا!</string>
+    <string name="pokemesh_copyright">© 2016 بوكيماش \وبوكيمون أسماء شخصية هي علامات تجارية لنينتندو. العلامات التجارية الأخرى هي ملك لأصحابها.</string>
+    <string name="pokemesh_ptc_down">نادي بوكيمون المدربين حاليا معطل. \ حاول مرة أخرى في وقت لاحق!</string>
+    <string name="pokemesh_login_failed">فشل تسجيل الدخول...</string>
+    <string name="pokemesh_login_ptc_disabled">تسجيل الدخول الى بي تي سي حاليا معطل!</string>
+    <string name="pokemesh_login_google">تسجيل الدخول بواسطة جوجل</string>
+    <string name="pokemesh_important">مهم</string>
+    <string name="pokemesh_login_google_summary">لتجنب التوقف، من الآن فصاعدا التطبيق سيتم الاتصال من خلال خوادم جوجل. \n إذا كان حساب بوكيمون قو الخاص بك متصلا عبر جيميل، فإننا نوصي باستخدام حساب بديل، لتجنب حظر مؤقت أو دائم.\n إذا كنت لا تملك حساب Gmail بديل، يمكنك تسجيل واحد الآن. \n حالما يكون الحساب جاهز ومسجل، الآن يجب الدخول من خلال بوكيمون قو، واقبل شروط الخدمة الخاصة بهم!</string>
+    <string name="pokemesh_register">سجل عبر جوجل</string>
+    <string name="pokemesh_already_have_account">يوجد لدي حساب جوجل من قبل</string>
+
+    <string name="pokemesh_tour_welcome">مرحبا بك الى بوكيماش</string>
+    <string name="pokemesh_your_location">موقعك الحالي</string>
+    <string name="pokemesh_your_location_summary">اضغط على هذا الزر لتوجيه المحدد على موقعك الحالي للبدء في اظهار مواقع بوكيمون المجاورة</string>
+    <string name="pokemesh_long_tap">ضغطة مطولة!</string>
+    <string name="pokemesh_long_tap_summary">اضغط ضغطة مطولة على الخريطة للبدء بفحص الأماكن المحددة!</string>
+    <string name="pokemesh_pokemons">بوكيمون</string>
+    <string name="pokemesh_catch_em_all">اقبض عليهم كلهم!</string>
+    <string name="pokemesh_ready_summary">أنت على استعداد لإستخدام بوكيماش. اذهب الى الإعدادات و بوكيدكس لاكتشاف جميع ميزات التطبيق. استمتع بالصيد!</string>
+    <string name="pokemesh_guide">دليل</string>
+    <string name="pokemesh_quick_go">كويك قو</string>
+    <string name="pokemesh_quick_go_summary">اضغط ضغطة مطولة على ايقونة الموقع لتشغيل بوكيمون قو سريعا</string>
+    <string name="pokemesh_gyms">Gyms</string>
+    <string name="pokemesh_gyms_summary">Display gyms on map</string>
+    <string name="pokemesh_pokestops">Pokéstops</string>
+    <string name="pokemesh_pokestops_summary">Display Pokéstops on map</string>
+    <string name="pokemesh_disconnect">Disconnect account</string>
+    <string name="pokemesh_disconnect_confirmation">Are you sure you want to disconnect this account?</string>
+    <string name="pokemesh_searching_gps">Detecting location…</string>
+    <string name="pokemesh_start_pokemesh">Start PokéMesh</string>
+    <string name="pokemesh_support_us_lock">Please, turn in \"Support us\" in settings in order to use this feature!</string>
+    <string name="pokemesh_map">Map</string>
+    <string name="pokemesh_stock_icons_summary">Use stock icons. A censor mask will be applied due to Nintendo\'s copyrights.</string>
+    <string name="pokemesh_stock_icons">Stock icons</string>
+    <string name="pokemesh_additional">Additional</string>
+    <string name="pokemesh_relax_mode">Relax mode</string>
+    <string name="pokemesh_relax_mode_summary">When relax mode is on, every time you close PokéMesh a background component will be started. A notification will indicate that is currently running. Relax mode will scan periodically your location and will notify you for nearby Pokémon!</string>
+    <string name="pokemesh_vibration">Vibration</string>
+    <string name="pokemesh_vibration_summary">Enable vibration for relax mode notifications.</string>
+    <string name="pokemesh_relax_delay">Delay</string>
+    <string name="pokemesh_relax_delay_summary">The delay time between one scan and the next. More frequently scans can increase battery consumption and data usage.</string>
+    <string name="pokemesh_advanced">Advanced</string>
+    <string name="pokemesh_scan_area">Scan range</string>
+    <string name="pokemesh_advanced_summary">Attention: tweaking these values will affect the time that each scan require to get completed.</string>
+    <string name="pokemesh_scan_area_summary">Select the radius of the scan area by increasing or decreasing the steps from the selected/current location.</string>
+    <string name="pokemesh_scan_distance">Step distance</string>
+    <string name="pokemesh_scan_distance_summary">Select the distance in meters between the steps.</string>
+    <string name="pokemesh_scan_steps_marker">Mark steps</string>
+    <string name="pokemesh_scan_steps_marker_summary">Display a marker for each scan step on the live map.</string>
+    <string name="pokemesh_news">News</string>
+    <string name="pokemesh_faq">F.A.Q and How to</string>
+    <string name="pokemesh_screenshot_fail">Something went wrong while taking the screenshot.</string>
+    <string name="pokemesh_translations">Translations team:</string>
+
+    <string name="credits">Developed by PokéMesh - Credits: PoGoAPI, Unknown6 Team</string>
+    <string name="pokemesh_remotly_disabled">PokéMesh map is currently disabled. Follow us on Facebook for more updates.</string>
+    <string name="pokemesh_club">PokéMesh Club</string>
+    <string name="insert_username">Choose an User name</string>
+    <string name="pokemesh_overlay">Overlay</string>
+    <string name="pokemesh_overlay_summary">Toggle the overlay map when PokéMesh is running in background</string>
+    <string name="pokemesh_club_nickname_short">The user name is too short! Use at least 3 characters.</string>
+    <string name="pokemesh_club_nickname_alphanumeric">The chosen nick name contains invalid character.</string>
+    <string name="pokemesh_club_public">Public</string>
+    <string name="pokemesh_club_groups">Groups</string>
+    <string name="pokemesh_overlay_position">Overlay position</string>
+    <string name="pokemesh_overlay_position_summary">Choose the position of the overlay map</string>
+    <string name="pokemesh_overlay_size">Overlay size</string>
+    <string name="pokemesh_overlay_size_summary">Choose the size of the overlay map</string>
+    <string name="accounts">Accounts</string>
+    <string name="accounts_summary">The multi account system is an additional feature to increase the speed of the scan. They are different from the account used for login and they will only be used during the scan process.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Select an account type</string>
+    <string name="create_account">Create a new account</string>
+    <string name="existing_account">Add an existing account</string>
+    <string name="account_identifier">Account name</string>
+    <string name="account_identifier_summary">In order to protect your data, we will not save your Google credentials. Insert an unique identifier to recognize the account you are going to add.\n\nNOTE: we can\'t prevent you from adding the same account multiple times. Adding the same accounts multiple times will break the scan functionality!</string>
+    <string name="account_identifier_short">The identifier for this account is too short! Use at least 3 characters.</string>
+    <string name="account_identifier_invalid">The chosen account identifier contains invalid character.</string>
+    <string name="remove_account">Do you want to remove the selected account?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="username_empty">Insert a valid username!</string>
+    <string name="password_empty">Insert a valid password!</string>
+    <string name="pokemesh_login_error_multiacct">Login failed with the account: %s. The account could be disabled or PokémonGO servers are currently down.</string>
+    <string name="take_me_there">Take me there!</string>
+    <string name="pokemon_share_title">I just found a %s with PokéMesh!</string>
+    <string name="pokemon_share_content" formatted="false">Hey! there is a %s here: %s</string>
+    <string name="google_map_not_installed">Google Map is not installed on this Phone!</string>
+    <string name="gone">Gone!</string>
+    <string name="whatsapp_not_installed">WhatsApp is not installed on this phone!</string>
+</resources>
