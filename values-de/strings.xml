@@ -133,13 +133,13 @@
     <string name="existing_account">Fuege einen bestehenden Account hinzu</string>
     <string name="account_identifier">Account Name</string>
     <string name="account_identifier_summary">Um ihre Daten zu schuetzen, werden wir ihre Google Daten nicht speichern. Geben sie eine einzigartige Kennung ein, um ihren Account zu erkennen, welchen sie hinzufuegen wollen.\n\nHinweis: Wir koennen sie nicht daran hindern, den gleichen Account mehrmals hinzuzufuegen. Wenn sie mehrere gleiche Accounts hinzufuegen, wird die Scanfunktion nicht mehr funktionieren!</string>
-    <string name="account_identifier_short">Die Kennung für diesen Accounts ist zu kurz. Verwenden sie mindestens 3 Zeichen.</string>
+    <string name="account_identifier_short">Die Kennung für diesen Account ist zu kurz. Verwenden sie mindestens 3 Zeichen.</string>
     <string name="account_identifier_invalid">Die ausgewaehlte Accountkennung enthaelt ungueltige Zeichen.</string>
     <string name="remove_account">Moechtest du den ausgewaehlten Account entfernen?</string>
     <string name="username">Benutzername</string>
     <string name="password">Passwort</string>
     <string name="username_empty">Gebe einen gueltigen Benutzernamen ein!</string>
-    <string name="password_empty">Gebe eine gueltiges Passwort ein!</string>
+    <string name="password_empty">Gebe ein gueltiges Passwort ein!</string>
     <string name="pokemesh_login_error_multiacct">Login mit diesem Account gescheitert: %s. Der Account koennte deaktiviert sein, oder die PokémonGO Server sind zurzeit nicht erreichbar.</string>
     <string name="take_me_there">Bring mich dorthin!</string>
     <string name="pokemon_share_title">Ich habe gerade ein %s mit PokéMesh gefunden!</string>
