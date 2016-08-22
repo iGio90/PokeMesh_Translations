@@ -140,7 +140,7 @@
     <string name="password">Passwort</string>
     <string name="username_empty">Gebe einen gueltigen Benutzernamen ein!</string>
     <string name="password_empty">Gebe ein gueltiges Passwort ein!</string>
-    <string name="pokemesh_login_error_multiacct">Login mit diesem Account gescheitert: %s. Der Account koennte deaktiviert sein, oder die PokémonGO Server sind zurzeit nicht erreichbar.</string>
+    <string name="pokemesh_login_error_multiacct">Login mit diesem Account gescheitert: %s. Der Account koennte deaktiviert sein oder die PokémonGO Server sind zurzeit nicht erreichbar.</string>
     <string name="take_me_there">Bring mich dorthin!</string>
     <string name="pokemon_share_title">Ich habe gerade ein %s mit PokéMesh gefunden!</string>
     <string name="pokemon_share_content" formatted="false">Hey! hier ist ein %s: %s</string>
