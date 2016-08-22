@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Jak mogę skanować wybraną lokalizację?</string>
+    <string name="pokemesh_faq_long_tap_summary">Możesz skanować wybraną lokalizację długim naciśnieciem na mapie wybranego miejsca. Kiedy zaczniesz nowe skanowanie, poprzednie zostaną przerwane kiedy nie zostały zakończone.</string>
+    <string name="pokemesh_faq_icons_blur">Moje alternatywne ikony są rozmazane</string>
+    <string name="pokemesh_faq_icons_blur_summary">Spowodowane jest to prawami autorskimi Nintendo, nie możemy używać oryginalnych ikonek w naszej aplikacji. Kształty ikonek zostały zachowane, lecz zamazane by uniknąć konsekwencji prawnych.</string>
+    <string name="pokemesh_faq_report">Mam pewne problemy z PokeMeshem</string>
+    <string name="pokemesh_faq_report_summary">Zawsze jesteśmy na stronach społecznych, gdzie wysłuchujemy i staramy się rozwiązać każdy problem tak szybko jak to możliwe!</string>
+</resources>
