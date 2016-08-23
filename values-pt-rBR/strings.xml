@@ -25,9 +25,9 @@
     <string name="pokemesh_pokemon">Pokémon</string>
     <string name="pokemesh_search_pokemons">Procurar um Pokémon</string>
     <string name="pokemesh_stop_scan">Parar scan</string>
-    <string name="pokemesh_finding_pokemons">Encontrando Pokémon próximos…</string>
+    <string name="pokemesh_finding_pokemons">Encontrando Pokémons próximos…</string>
     <string name="pokemesh_login_error">Login falhou! Isso pode acontecer caso os servidores de Pokémon Go estejam offline!</string>
-    <string name="pokemesh_pokemesh_summary">Localizador automático de Pokémon próximos. Habilitando Pokémesh você será notificado caso um Pokémon esteja perto de sua localização atual.</string>
+    <string name="pokemesh_pokemesh_summary">Localizador automático de Pokémons próximos. Habilitando Pokémesh você será notificado caso um Pokémon esteja perto de sua localização atual.</string>
     <string name="pokemesh_last_seen">Visto por último: %s</string>
     <string name="pokemesh_never">Nunca</string>
     <string name="pokemesh_on_map">No mapa!</string>
@@ -37,14 +37,14 @@
     <string name="pokemesh_show_on_map">Mostrar no mapa</string>
     <string name="pokemesh_show_on_map_summary">Mostrar ou não Pokémon no Mapa</string>
     <string name="pokemesh_mesh_pokemon">Notificações</string>
-    <string name="pokemesh_mesh_pokemon_summary">Ser notificado quando houverem Pokémon por perto</string>
+    <string name="pokemesh_mesh_pokemon_summary">Ser notificado quando houverem Pokémons por perto</string>
     <string name="pokemesh_pokemesh_disabled">Você precisa habilitar as configurações de Pokémesh antes de continuar!</string>
     <string name="pokemesh_mesh_disabled">Notificações desabilitadas</string>
     <string name="pokemesh_mesh_enabled">Notificações habilitadas</string>
     <string name="pokemesh_mesh_finding">Nenhum Pokémon por perto no momento!</string>
     <string name="pokemesh_meshed">Há um %s por perto!</string>
     <string name="pokemesh_multi_meshed" formatted="false">Há %s próximo de %s!</string>
-    <string name="pokemesh_big_multi_meshed">Existem alguns Pokémon em sua volta!</string>
+    <string name="pokemesh_big_multi_meshed">Existem alguns Pokémons em sua volta!</string>
 
     <string name="pokemesh_support_us">Auxiliar PokéMesh</string>
     <string name="pokemesh_support_us_summary">Mostrar um anúncio em tela cheia a cada 30 scans</string>
@@ -79,7 +79,7 @@
 
     <string name="pokemesh_tour_welcome">Bem vindo a PokèMesh</string>
     <string name="pokemesh_your_location">Sua localização</string>
-    <string name="pokemesh_your_location_summary">Toque este botão para apontar o marcador para sua posição e começar a localizar Pokèmon</string>
+    <string name="pokemesh_your_location_summary">Toque este botão para apontar o marcador para sua posição e começar a localizar Pokèmons</string>
     <string name="pokemesh_long_tap">Toque longo!</string>
     <string name="pokemesh_long_tap_summary">Toque e segure no mapa para iniciar um scan na posição do toque!</string>
     <string name="pokemesh_pokemons">Pokémon</string>
@@ -102,7 +102,7 @@
     <string name="pokemesh_stock_icons">Ícones padrão</string>
     <string name="pokemesh_additional">Adicional</string>
     <string name="pokemesh_relax_mode">Modo relax</string>
-    <string name="pokemesh_relax_mode_summary">Quando o modo relax está ligado, toda hora que fechares PokéMesh um componente será rodado no fundo. Uma notificação irá indicar que está atualmente rodando. Modo relax irá escanear sua localização periodicamente e te notificar quando houver Pokémon por perto!</string>
+    <string name="pokemesh_relax_mode_summary">Quando o modo relax está ligado, sempre que fechar o PokéMesh um componente será rodado no fundo. Uma notificação irá indicar que está atualmente rodando. Modo relax irá escanear sua localização periodicamente e te notificar quando houver Pokémons por perto!</string>
     <string name="pokemesh_vibration">Vibração</string>
     <string name="pokemesh_vibration_summary">Habilitar vibração para notificações no modo relax.</string>
     <string name="pokemesh_relax_delay">Atraso</string>
