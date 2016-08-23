@@ -37,4 +37,14 @@
         <item>中型</item>
         <item>大型</item>
     </string-array>
+    <string-array name="rarity_filters">
+        <item>稀有度 1☆</item>
+        <item>稀有度 2☆</item>
+        <item>稀有度 3☆</item>
+        <item>稀有度 4☆</item>
+        <item>稀有度 5☆</item>
+        <item>稀有度 6☆</item>
+        <item>稀有度 7☆</item>
+        <item>稀有度 8☆</item>
+    </string-array>
 </resources>
