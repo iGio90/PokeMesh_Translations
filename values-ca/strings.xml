@@ -1,0 +1,193 @@
+<resources>
+    <string name="app_name" translatable="false">PokéMesh</string>
+
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
+    <string name="facebook_app_id" translatable="false">1679594909028603</string>
+    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
+    <string name="german_translations_credits" translatable="false">yv35p00l</string>
+    <string name="french_translations_credits" translatable="false">Avenbeard</string>
+    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
+    <string name="dutch_translations_credits" translatable="false">Tashla</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale and abskelvin</string>
+    <string name="traditional_chinese_translations_credits" translatable="false">alandai28</string>
+
+    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
+    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
+
+    <string name="pokemesh_title_activity_maps">Mapa</string>
+    <string name="pokemesh_scan">Escaneja</string>
+    <string name="pokemesh_login">Entra</string>
+    <string name="pokemesh_settings">Paràmetres</string>
+    <string name="pokemesh_search">Cerca</string>
+    <string name="pokemesh_search_something">Cerca alguna cosa…</string>
+    <string name="pokemesh_search_address">Adreça</string>
+    <string name="pokemesh_search_address_hint">Cerca una adreça</string>
+    <string name="pokemesh_pokemon">Pokémon</string>
+    <string name="pokemesh_search_pokemons">Cerca un Pokémon</string>
+    <string name="pokemesh_stop_scan">Para la cerca</string>
+    <string name="pokemesh_finding_pokemons">Buscant Pokémon als voltants…</string>
+    <string name="pokemesh_login_error">La connexió ha fallat! És possible que els servidors de Pokémon Go hagin caigut!</string>
+    <string name="pokemesh_pokemesh_summary">Localitzador automàtic de Pokémon propers. Habilitant Pokémesh se\'t notificarà si un Pokémon és prop de la teva ubicació actual.</string>
+    <string name="pokemesh_last_seen">Vist per última vegada: %s</string>
+    <string name="pokemesh_never">Mai</string>
+    <string name="pokemesh_on_map">Al mapa!</string>
+    <string name="pokemesh_gps_disabled">El GPS està desactivat.</string>
+    <string name="pokemesh_my_position">La meva ubicació</string>
+    <string name="pokemesh_no_permission">PokéMesh no té permisos per a fer servir la teva ubicació!</string>
+    <string name="pokemesh_show_on_map">Mostra al mapa</string>
+    <string name="pokemesh_show_on_map_summary">Mostrar o no Pokémon al mapa</string>
+    <string name="pokemesh_mesh_pokemon">Notificacions</string>
+    <string name="pokemesh_mesh_pokemon_summary">Ser notificat o no quan hi hagi Pokémon propers.</string>
+    <string name="pokemesh_pokemesh_disabled">Has d\'activar la configuració de PokéMesh abans de continuar!</string>
+    <string name="pokemesh_mesh_disabled">Notificacions desactivades</string>
+    <string name="pokemesh_mesh_enabled">Notificacions activades</string>
+    <string name="pokemesh_mesh_finding">Ara mateix no hi ha Pokémon propers!</string>
+    <string name="pokemesh_meshed">Hi ha un %s a prop!</string>
+    <string name="pokemesh_multi_meshed" formatted="false">Hi ha %s a prop %s!</string>
+    <string name="pokemesh_big_multi_meshed">Hi ha alguns Pokémon a prop!</string>
+
+    <string name="pokemesh_support_us">Ajuda PokéMesh</string>
+    <string name="pokemesh_support_us_summary">Mostra un anunci a pantalla completa cada 30 escanejos</string>
+    <string name="pokemesh_about">Sobre</string>
+    <string name="pokemesh_follow_us">Segueix-nos</string>
+    <string name="pokemesh_check_update">Actualitza</string>
+    <string name="pokemesh_checking_update">Comprovant actualitzacions…</string>
+    <string name="pokemesh_update_failed">No s\'ha pogut comunicar amb els servidors. Prova-ho més tard!</string>
+    <string name="pokemesh_no_update_available">Ja estàs utilitzant la última versió de PokéMesh</string>
+    <string name="pokemesh_update_available">Hi ha una nova versió de PokéMesh!</string>
+    <string name="pokemesh_downloading">Descarregant actualització…</string>
+    <string name="pokemesh_gps_failed">No s\'ha pogut recuperar la ubicació GPS</string>
+    <string name="pokemesh_init_pokemesh">Connectant amb PokéMesh....</string>
+    <string name="pokemesh_logging_in">Entrant…</string>
+    <string name="pokemesh_connected">Connectat! Mesh… Mesh… !</string>
+    <string name="pokemesh_generating_credentials">Generant noves credencials</string>
+    <string name="pokemesh_pokemesh_down">Ara mateix PokéMesh s\'està actualitzant update. Prova-ho més tard</string>
+    <string name="pokemesh_got_pokemesh_credentials">Aconsegueix credencials de PokéMesh!</string>
+    <string name="pokemesh_club_down">Els servidors de Pokémon GO no funcionen correctament. Prova-ho més tard</string>
+    <string name="pokemesh_no_internet">No s\'ha pogut connectar a internet. Prova-ho més tard!</string>
+    <string name="pokemesh_got_it">Ho tinc!</string>
+    <string name="pokemesh_hey">Ep!</string>
+    <string name="pokemesh_copyright">©2016 PokéMesh\nPokémon i els noms dels personatges de Pokémon són marques registrades de Nintendo. La resta de marques registrades son propietat dels seus respectius propietaris.</string>
+    <string name="pokemesh_ptc_down">El Pokémon Trainers Club ha caigut.\nProva-ho més tard!</string>
+    <string name="pokemesh_login_failed">Ha fallat l\'inici de sessió…</string>
+    <string name="pokemesh_login_ptc_disabled">L\'inici de sessió amb PTC està actualment desactivat!</string>
+    <string name="pokemesh_login_google">Inicia la sessió amb Google</string>
+    <string name="pokemesh_important">Important</string>
+    <string name="pokemesh_login_google_summary">Per a evitar temps d\'inactivitat, a partir d\'ara l\'aplicació es conectará a través dels servidors de Google.\nSi el teu compte de Pokémon GO es connecta a través de Gmail, et recomanem fer ús d\'un compte alternatiu per a evitar que t\'expulsin temporal o permanentment.\nSi no tens un compte alternatiu de Gmail, pots registrar-ne un ara.\n\nUn cop hagis registrat el compte, hi hauràs d\'entrar utilitzant el Pokémon Go i acceptar els seus Termes i condicions d\'ús!</string>
+    <string name="pokemesh_register">Registrar-se a Gmail</string>
+    <string name="pokemesh_already_have_account">Ja tinc un compte alternatiu de Gmail</string>
+
+    <string name="pokemesh_tour_welcome">Benvingut a PokéMesh</string>
+    <string name="pokemesh_your_location">La teva ubicació</string>
+    <string name="pokemesh_your_location_summary">Prem aquest botó Tap per a apuntar el marcador a la teva ubicació i començar a buscar Pokémon</string>
+    <string name="pokemesh_long_tap">Manté premut!</string>
+    <string name="pokemesh_long_tap_summary">Manté premut sobre el mapa per a començar a escanejar la ubicació premuda!</string>
+    <string name="pokemesh_pokemons">Pokémon</string>
+    <string name="pokemesh_catch_em_all">Captura\'ls a tots</string>
+    <string name="pokemesh_ready_summary">Ja està tot llest per a fer servir PokéMesh. Visita els paràmetres i la Pokédex per a descobrir totes les característiques de l\'aplicació. Gaudeix de la cacera!</string>
+    <string name="pokemesh_guide">Guia</string>
+    <string name="pokemesh_quick_go">QuickGO</string>
+    <string name="pokemesh_quick_go_summary">Manté premut sobre la teva ubicació per a obrir ràpidament Pokémon GO</string>
+    <string name="pokemesh_gyms">Gimnasos</string>
+    <string name="pokemesh_gyms_summary">Mostra gimnasos al mapa</string>
+    <string name="pokemesh_pokestops">Poképarades</string>
+    <string name="pokemesh_pokestops_summary">Mostra Poképarades al mapa</string>
+    <string name="pokemesh_disconnect">Desconnecta el compte</string>
+    <string name="pokemesh_disconnect_confirmation">Estas segur que vols desconnectar aquest compte?</string>
+    <string name="pokemesh_searching_gps">Detectant ubicació…</string>
+    <string name="pokemesh_start_pokemesh">Inicia PokéMesh</string>
+    <string name="pokemesh_support_us_lock">Siusplau, activa la opció \"Ajuda PokéMesh\" als paràmetres per a poder fer servir aquesta característica!</string>
+    <string name="pokemesh_map">Mapa</string>
+    <string name="pokemesh_stock_icons_summary">Fer servir icones originals. S\'aplicarà una mascara de censura degut als drets d\'autor de Nintendo.</string>
+    <string name="pokemesh_stock_icons">Icones originals</string>
+    <string name="pokemesh_additional">Addicional</string>
+    <string name="pokemesh_relax_mode">Mode relax</string>
+    <string name="pokemesh_relax_mode_summary">Quan el mode relax està actiu, cada vegada que tanques PokéMesh un component en segon pla s\'engegarà. Una notificació t\'indicarà que està funcionant. El mode relax escanejarà periòdicament la teva ubicació i et notificarà de Pokémon a prop!</string>
+    <string name="pokemesh_vibration">Vibració</string>
+    <string name="pokemesh_vibration_summary">Activa vibració per a les notificacions del mode relax.</string>
+    <string name="pokemesh_relax_delay">Endarreriment</string>
+    <string name="pokemesh_relax_delay_summary">Temps de retard entre un escaneig i el següent. Si els escanejos són molt freqüents s\'incrementarà l\'ús de bateria i de dades.</string>
+    <string name="pokemesh_advanced">Avançat</string>
+    <string name="pokemesh_scan_area">Rang d\'escaneig</string>
+    <string name="pokemesh_advanced_summary">Atenció: Ajustar aquests valors afectarà el temps que tardarà cada escaneig a finalitzar.</string>
+    <string name="pokemesh_scan_area_summary">Selecciona el radi de l\'àrea d\'escaneig per a incrementar o disminuir els passos de la ubicació seleccionada/actual.</string>
+    <string name="pokemesh_scan_distance">Distància dels passos</string>
+    <string name="pokemesh_scan_distance_summary">Selecciona la distància en metres entre les passes.</string>
+    <string name="pokemesh_scan_steps_marker">Marcar passes</string>
+    <string name="pokemesh_scan_steps_marker_summary">Mostra una marcador per cada pas d\'escaneig en el mapa.</string>
+    <string name="pokemesh_news">Notícies</string>
+    <string name="pokemesh_faq">Preguntes freqüents</string>
+    <string name="pokemesh_screenshot_fail">Alguna cosa no ha anat bé mentre es feia la captura de pantalla.</string>
+    <string name="pokemesh_translations">Equip de traduccions:</string>
+
+    <string name="credits">Desenvolupat per PokéMesh - Credits: PoGoAPI, Unknown6 Team</string>
+    <string name="pokemesh_remotly_disabled">El mapa PokéMesh està actualment desactivat. Segueix-nos al Facebook per a més informació.</string>
+    <string name="pokemesh_club">Club PokéMesh</string>
+    <string name="insert_username">Tria un nom d\'usuari</string>
+    <string name="pokemesh_overlay">Capa</string>
+    <string name="pokemesh_overlay_summary">Commuta la capa del mapa quan PokéMesh funciona en segon pla</string>
+    <string name="pokemesh_club_nickname_short">El nom d\'usuari és massa curt! Fes servir almenys 3 caràcters.</string>
+    <string name="pokemesh_club_nickname_alphanumeric">El nom d\'usuari conté caràcters invàlids.</string>
+    <string name="pokemesh_club_public">Public</string>
+    <string name="pokemesh_club_groups">Grups</string>
+    <string name="pokemesh_overlay_position">Posició de la capa</string>
+    <string name="pokemesh_overlay_position_summary">Escull la posició de la capa del mapa</string>
+    <string name="pokemesh_overlay_size">Mida de la capa</string>
+    <string name="pokemesh_overlay_size_summary">Escull la mida de la capa del mapa</string>
+    <string name="accounts">Comptes</string>
+    <string name="accounts_summary">El sistema de comptes múltiples és una característica addicional per augmentar la velocitat de l\'escaneig. Són comptes diferents dels utilitzats per iniciar la sessió i que només seran utilitzats durant el procés d\'escaneig.</string>
+    <string name="google">Google</string>
+    <string name="ptc">PTC</string>
+    <string name="select_account_type">Selecciona un tipus de compte</string>
+    <string name="create_account">Crea un nou compte</string>
+    <string name="existing_account">Afegeix un compte existent</string>
+    <string name="account_identifier">Nom del compte</string>
+    <string name="account_identifier_summary">Per tal de protegir les teves dades, no guardarem les teves credencials de Google. Insereix un identificador únic per a reconèixer el compte que afegiràs.\n\nNOTA: no podem comprovar que hagis afegir el mateix compte múltiples vegades. Afegir el mateix compte més d\'una vegada trencarà la funcionalitat d\'escaneig!</string>
+    <string name="account_identifier_short">L\'identificador per a aquest compte és massa curt. Fes servir almenys 3 caràcters.</string>
+    <string name="account_identifier_invalid">L\'identificador especificat conté caràcters invàlids.</string>
+    <string name="remove_account">Segur que vols eliminar el compte seleccionat?</string>
+    <string name="username">Nom d\'usuari</string>
+    <string name="password">Contrasenya</string>
+    <string name="username_empty">Insereix un nom d\'usuari vàlid!</string>
+    <string name="password_empty">Insereix una contrasenya vàlida!</string>
+    <string name="pokemesh_login_error_multiacct">L\'inici de sessió ha fallat amb el compte: %s. El compte pot haver estat desactivat o els servidors de PokémonGO han caigut.</string>
+    <string name="take_me_there">Porta\'m fins allà!</string>
+    <string name="pokemon_share_title">Acabo de trobar un %s utilitzant PokéMesh!</string>
+    <string name="pokemon_share_content" formatted="false">Ep! Hi ha un %s aquí: %s</string>
+    <string name="google_map_not_installed">Google Maps no està instal·lat en aquest telèfon!</string>
+    <string name="gone">Ha desaparegut!</string>
+    <string name="whatsapp_not_installed">WhatsApp no està instal·lat en aquest telèfon!</string>
+    <string name="pokemesh_relax_sound">So</string>
+    <string name="pokemesh_relax_sound_summary">Activa el so per a les notificacions del mode relax.</string>
+    <string name="pokemesh_club_short">Club</string>
+    <string name="pokemesh_club_write">Escriu alguna cosa…</string>
+    <string name="pokemesh_club_chat_down">Els servidors de xat de PokéMesh han caigut. Prova-ho més tard.</string>
+    <string name="join_room_title">Crea o uneix-te a una sala existent.</string>
+    <string name="join_room_hint">Nom de la sala…</string>
+    <string name="leave_room_confirmation">Estàs segur que vols abandonar aquesta sala?</string>
+    <string name="on_enter_room">ha entrat a la sala.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
+    <string name="on_leave_room">ha sortit de la sala.</string>
+    <string name="just_now">Ara mateix</string>
+    <string name="a_minute_ago">Fa un minut</string>
+    <string name="minutes_ago">minuts enrere</string>
+    <string name="an_hour_ago">Fa una hora</string>
+    <string name="hours_ago">hores enrere</string>
+    <string name="yesterday">Ahir</string>
+    <string name="days_ago">dies enrere</string>
+    <string name="no_message">Encara no hi ha cap missatge. Uneix-te a la sala i digue\'s alguna cosa!</string>
+    <string name="master_account">Compte mestre</string>
+    <string name="account_could_be_banned">Aquest compte pot estar banejat o desactivat. Siusplau, prova d\'entrar al joc oficial i comprova si funciona!</string>
+    <string name="pokemesh_original_names">Noms originals</string>
+    <string name="pokemesh_original_names_summary">Utilitza els noms originals (en anglès) dels Pokémon</string>
+    <string name="hide_current">Amaga aquest %s</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="hide_all">Amaga tots els %s</string>
+    <string name="rarity_filters">Filtres de raresa</string>
+    <string name="rarity_disclaimer">No culparé els desenvolupadors si veig un mapa sense ni un Pokémon!</string>
+    <string name="rarity_filters_summary">Selecciona la raresa mínima de Pokémon que es mostrarà al mapa.</string>
+    <string name="bookmarks">Marcadors</string>
+    <string name="history">Historial</string>
+    <string name="add_bookmark">Afegeix un marcador</string>
+    <string name="delete">Elimina</string>
+    <string name="ilovepokemesh">M\'encanta PokéMesh</string>
+    <string name="ilovepokemesh_summary">Mostra un petit banner no intrusiu al mapa principal.</string>
+</resources>

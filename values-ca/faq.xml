@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">Com puc escanejar una ubicació personalitzada?</string>
+    <string name="pokemesh_faq_long_tap_summary">Pots escanejar una ubicació personalitzada mantenint premut el mapa sobre la ubicació. Si comences un nou esceneig, l\'anterior serà interrumput si encara no s\'ha finalitzat</string>
+    <string name="pokemesh_faq_icons_blur">Les meves icones alternatives es veuen borroses i malament.</string>
+    <string name="pokemesh_faq_icons_blur_summary">A causa dels drets d\'autor de Nintendo, no podem utilitzar icones de Pokémon en la nostra aplicació. Les icones originals es veuran borroses i es filtraran per a evitar problemes legals.</string>
+    <string name="pokemesh_faq_report">Tinc algún problema utilitzant PokéMesh.</string>
+    <string name="pokemesh_faq_report_summary">Estem sempre disponibles a les nostres xarxes socials per a escoltar si hi ha cap problema i resoldre\'ls el més ràpid possible!</string>
+</resources>
