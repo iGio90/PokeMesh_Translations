@@ -19,32 +19,32 @@
         <item>7</item>
     </string-array>
     <string-array translatable="false" name="scan_distance">
-        <item>50公尺</item>
-        <item>75公尺</item>
-        <item>100公尺</item>
-        <item>125公尺</item>
-        <item>150公尺</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
     </string-array>
     <string-array translatable="false" name="overlay_positions">
-        <item>左上角</item>
-        <item>右上角</item>
-        <item>左下角</item>
-        <item>右下角</item>
+        <item>Górny lewy</item>
+        <item>Górny prawy</item>
+        <item>Dolny lewy</item>
+        <item>Dolny prawy</item>
     </string-array>
     <string-array translatable="false" name="overlay_size">
-        <item>超小型</item>
-        <item>小型</item>
-        <item>中型</item>
-        <item>大型</item>
+        <item>Bardzo mały</item>
+        <item>Mały</item>
+        <item>Średni</item>
+        <item>Duży</item>
     </string-array>
     <string-array name="rarity_filters">
-        <item>稀有度 1☆</item>
-        <item>稀有度 2☆</item>
-        <item>稀有度 3☆</item>
-        <item>稀有度 4☆</item>
-        <item>稀有度 5☆</item>
-        <item>稀有度 6☆</item>
-        <item>稀有度 7☆</item>
-        <item>稀有度 8☆</item>
+        <item>Bardzo pospolite</item>
+        <item>Pospolite</item>
+        <item>Niepospolite</item>
+        <item>Rzadkie</item>
+        <item>Bardzo rzadkie</item>
+        <item>Specjalne</item>
+        <item>Epickie</item>
+        <item>Legendarne</item>
     </string-array>
 </resources>
