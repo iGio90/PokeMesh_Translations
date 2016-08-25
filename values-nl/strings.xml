@@ -190,4 +190,10 @@
     <string name="delete">Verwijderen</string>
     <string name="ilovepokemesh">Ik &lt;3 PokéMesh</string>
     <string name="ilovepokemesh_summary">Geef een niet storende banner weer op de kaart.</string>
+    <string name="check_status">Status controleren</string>
+    <string name="verifying_accounts">Gebruikersaccounts verifiëren</string>
+    <string name="initializing">Initialiseren</string>
+    <string name="checking_account">Controleren van account: %s</string>
+    <string name="account_not_connected">Account niet verbonden</string>
+    <string name="account_connected">Account verbonden</string>
 </resources>
