@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array translatable="false" name="relax_delay">
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>600</item>
+    </string-array>
+    <string-array translatable="false" name="scan_area">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array translatable="false" name="scan_distance">
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+    </string-array>
+    <string-array translatable="false" name="overlay_positions">
+        <item>A dalt a l\'esquerra</item>
+        <item>A dalt a la dreta</item>
+        <item>A baix a l\'esquerra</item>
+        <item>A baix a la dreta</item>
+    </string-array>
+    <string-array translatable="false" name="overlay_size">
+        <item>Molt petita</item>
+        <item>Petita</item>
+        <item>Mitjana</item>
+        <item>Gran</item>
+    </string-array>
+    <string-array name="rarity_filters">
+        <item>Molt comú</item>
+        <item>Comú</item>
+        <item>Poc comú</item>
+        <item>Estrany</item>
+        <item>Molt estrany</item>
+        <item>Especial</item>
+        <item>Èpic</item>
+        <item>Llegendari</item>
+    </string-array>
+</resources>
