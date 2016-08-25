@@ -46,7 +46,7 @@
     <string name="pokemesh_multi_meshed" formatted="false">有 %s nearby %s!</string>
     <string name="pokemesh_big_multi_meshed">你的身邊出現了一些Pokémon!</string>
 
-    <string name="pokemesh_support_us">贊助我們</string>
+    <string name="pokemesh_support_us">贊助PokéMesh</string>
     <string name="pokemesh_support_us_summary">每30次掃描後，會出現一次全屏廣告</string>
     <string name="pokemesh_about">關於我們</string>
     <string name="pokemesh_follow_us">關注我們</string>
@@ -96,7 +96,7 @@
     <string name="pokemesh_disconnect_confirmation">你確定要登出Google帳戶嗎?</string>
     <string name="pokemesh_searching_gps">定位中…</string>
     <string name="pokemesh_start_pokemesh">PokéMesh開啟</string>
-    <string name="pokemesh_support_us_lock">請打開底部的 \"贊助我們\" 選項，以開啟此功能!</string>
+    <string name="pokemesh_support_us_lock">請打開底部的 \"贊助PokéMesh\" 選項，以開啟此功能!</string>
     <string name="pokemesh_map">地圖</string>
     <string name="pokemesh_stock_icons_summary">使用替代圖示. 由於任天堂版權因素，顯示的圖示將會霧化處理.</string>
     <string name="pokemesh_stock_icons">替代圖示</string>
@@ -179,4 +179,15 @@
     <string name="account_could_be_banned">這個Google帳號可能已被官方封鎖. 請試著用他登入遊戲看看!</string>
     <string name="pokemesh_original_names">Pokémon英文名稱</string>
     <string name="pokemesh_original_names_summary">使用英文的Pokémon名稱</string>
+    <string name="hide_current">隱藏這隻 %s</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="hide_all">隱藏所有 %s</string>
+    <string name="rarity_filters">稀有度過濾器</string>
+    <string name="rarity_disclaimer">就算我連一隻Pokémon都找不到，我也不會怪開發者!</string>
+    <string name="rarity_filters_summary">選擇幾☆以上的Pokémon要顯示在地圖上.</string>
+    <string name="bookmarks">書籤</string>
+    <string name="history">歷史</string>
+    <string name="add_bookmark">加入書籤</string>
+    <string name="delete">刪除</string>
+    <string name="ilovepokemesh">我愛PokéMesh</string>
+    <string name="ilovepokemesh_summary">在主地圖上顯示小廣告.</string>
 </resources>
