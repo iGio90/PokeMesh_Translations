@@ -6,7 +6,7 @@
     <string name="pokemesh_search">Cerca</string>
     <string name="pokemesh_search_something">Cerca qualcosa…</string>
     <string name="pokemesh_search_address">Indirizzo</string>
-    <string name="pokemesh_search_address_hint">Cerca tramite indirizo</string>
+    <string name="pokemesh_search_address_hint">Cerca tramite indirizzo</string>
     <string name="pokemesh_pokemon">Pokémon</string>
     <string name="pokemesh_search_pokemons">Cerca un Pokémon</string>
     <string name="pokemesh_stop_scan">Interrompi scansione</string>
@@ -163,5 +163,24 @@
     <string name="days_ago">giorni fa</string>
     <string name="no_message">Nessun messaggio. Entra in questa stanza e lascia un messaggio!</string>
     <string name="master_account">Master account</string>
-    <string name="account_could_be_banned">Questo account potrebbe essere bannato o disattivato. Prova ad effettuare il login con l\'app ufficiale!</string>
+    <string name="account_could_be_banned">Questo account potrebbe essere bannato o momentaneamente disattivato. Prova ad effettuare il login con l\'app ufficiale!</string>
+    <string name="pokemesh_original_names">Nomi originali</string>
+    <string name="pokemesh_original_names_summary">Usa i nomi originali dei Pokémon (Inglese)</string>
+    <string name="hide_current">Nascondi questo %s</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="hide_all">Nascondi tutti i %s</string>
+    <string name="rarity_filters">Filtro rarità</string>
+    <string name="rarity_disclaimer">Non mi arrabbiero con gli sviluppatori se la mappa non mi mostrerà alcun Pokémon!</string>
+    <string name="rarity_filters_summary">Seleziona la rarità minima da mostrare nella mappa.</string>
+    <string name="bookmarks">Preferiti</string>
+    <string name="history">Cronologia</string>
+    <string name="add_bookmark">Aggiungi preferito</string>
+    <string name="delete">Cancella</string>
+    <string name="ilovepokemesh">I love PokéMesh</string>
+    <string name="ilovepokemesh_summary">Mostra un banner non intrusivo nella mappa principale.</string>
+    <string name="check_status">Controlla lo stato</string>
+    <string name="verifying_accounts">Verifico gli accounts…</string>
+    <string name="initializing">Inizializzazione</string>
+    <string name="checking_account">Controllo account: %s</string>
+    <string name="account_not_connected">Account non connesso</string>
+    <string name="account_connected">Account connesso</string>
 </resources>
