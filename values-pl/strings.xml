@@ -176,4 +176,10 @@
     <string name="delete">Usuń</string>
     <string name="ilovepokemesh">I love PokéMesh</string>
     <string name="ilovepokemesh_summary">Wyświetlaj mały nie przeszkadzający banner na głównej mapie.</string>
+    <string name="check_status">Sprawdzanie statusu</string>
+    <string name="verifying_accounts">Weryfikowanie konta…</string>
+    <string name="initializing">Inicjowanie</string>
+    <string name="checking_account">Sprawdzanie konta: %s</string>
+    <string name="account_not_connected">Konto nie połączone</string>
+    <string name="account_connected">Konto połączone</string>
 </resources>
