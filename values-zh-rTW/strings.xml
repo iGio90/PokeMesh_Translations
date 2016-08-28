@@ -8,7 +8,7 @@
     <string name="french_translations_credits" translatable="false">Avenbeard</string>
     <string name="russian_translations_credits" translatable="false">LionisIAm</string>
     <string name="dutch_translations_credits" translatable="false">Tashla</string>
-    <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
+    <string name="portuguese_translations_credits" translatable="false">gabrielfvale and abskelvin</string>
     <string name="traditional_chinese_translations_credits" translatable="false">alandai28</string>
 
     <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
@@ -175,7 +175,7 @@
     <string name="yesterday">昨天</string>
     <string name="days_ago">幾天前\</string>
     <string name="no_message">還沒有留言. 加入聊天室說些什麼吧!</string> <!-- Preceded by the nick of the user that leave the room. I.E: Elvis has left the room -->
-    <string name="master_account">Master account</string>
+    <string name="master_account">主帳號</string>
     <string name="account_could_be_banned">這個Google帳號可能已被官方封鎖. 請試著用他登入遊戲看看!</string>
     <string name="pokemesh_original_names">Pokémon英文名稱</string>
     <string name="pokemesh_original_names_summary">使用英文的Pokémon名稱</string>
@@ -190,4 +190,10 @@
     <string name="delete">刪除</string>
     <string name="ilovepokemesh">我愛PokéMesh</string>
     <string name="ilovepokemesh_summary">在主地圖上顯示小廣告.</string>
+    <string name="check_status">檢查狀態</string>
+    <string name="verifying_accounts">確認帳號中…</string>
+    <string name="initializing">初始中</string>
+    <string name="checking_account">檢查帳號: %s</string>
+    <string name="account_not_connected">帳號未連接</string>
+    <string name="account_connected">帳號已連接</string>
 </resources>
