@@ -37,4 +37,14 @@
         <item>Mediano</item>
         <item>Grande</item>
     </string-array>
+    <string-array name="rarity_filters">
+ +        <item>Muy Común</item>
+ +        <item>Común</item>
+ +        <item>Poco Común</item>
+ +        <item>Raro</item>
+ +        <item>Muy raro</item>
+ +        <item>Especial</item>
+ +        <item>Epico</item>
+ +        <item>Legendario</item>
+ +    </string-array>
 </resources>
