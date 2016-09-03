@@ -196,4 +196,18 @@
     <string name="checking_account">Checando contas: %s</string>
     <string name="account_not_connected">Conta não conectada</string>
     <string name="account_connected">Conta conectada</string>
+    <string name="timers">Cronômetro</string>
+    <string name="timers_summary">Mostrar o cronômetro abaixo do Pokémon. Esconda o cronômetro para melhor performance em aparelhos com pouca memória</string>
+    <string name="overlay_foreground">Toque aqui para iniciar PokéMesh</string>
+    <string name="email">Email</string>
+    <string name="notifications">Notificações</string>
+    <string name="notifications_summary">Ativar ou desativar as notificações a cada vez que o scan terminar. Você tambem pode esconder as notificações de Pokémon específicos pela PokéDex.</string>
+    <string name="notifications_sounds_summary">Ativar ou desativar o som das notificações.</string>
+    <string name="notifications_vibration_summary">Ativar ou desativar a vibração das notificações.</string>
+    <string name="downloading_icons">Baixando os ícones originais…</string>
+    <string name="alternative_icons">Ícones alternativos</string>
+    <string name="alternative_icons_summary">Ativar ou desativar o pacote de ícones alternativos</string>
+    <string name="visited_by">Visitado pela conta: %s</string>
+    <string name="timers_colors">Cor do Cronômetro por Raridade</string>
+    <string name="timers_colors_summary">Ativar ou desativar diferentes cores de cronômetro baseado na raridade do Pokémon.</string>
 </resources>
