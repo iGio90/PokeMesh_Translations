@@ -53,7 +53,7 @@
     <string name="pokemesh_check_update">Update</string>
     <string name="pokemesh_checking_update">Checking updates…</string>
     <string name="pokemesh_update_failed">Failed to communicate with update servers. Try again later!</string>
-    <string name="pokemesh_no_update_available">You are running the last version of PokéMesh</string>
+    <string name="pokemesh_no_update_available">You are running the latest version of PokéMesh</string>
     <string name="pokemesh_update_available">New version of PokéMesh available!</string>
     <string name="pokemesh_downloading">Downloading update…</string>
     <string name="pokemesh_gps_failed">Unable to retrieve GPS location</string>
