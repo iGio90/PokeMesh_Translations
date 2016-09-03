@@ -26,23 +26,24 @@
         <item>150</item>
     </string-array>
     <string-array translatable="false" name="overlay_positions">
-        <item>Superior esquerdo</item>
-        <item>Superior direito</item>
-        <item>Inferior esquerdo</item>
-        <item>Inferior direito</item>
+        <item>Superior Esquerdo</item>
+        <item>Superior Direito</item>
+        <item>Inferior Esquerdo</item>
+        <item>Inferior Direito</item>
     </string-array>
     <string-array translatable="false" name="overlay_size">
-        <item>Minúsculo</item>
+        <item>Muito Pequeno</item>
         <item>Pequeno</item>
         <item>Médio</item>
         <item>Grande</item>
     </string-array>
     <string-array name="rarity_filters">
-        <item>Muito comum</item>
+        <item>Todos</item>
+        <item>Muito Comum</item>
         <item>Comum</item>
         <item>Incomum</item>
         <item>Raro</item>
-        <item>Muito raro</item>
+        <item>Muito Raro</item>
         <item>Especial</item>
         <item>Épico</item>
         <item>Lendário</item>
