@@ -38,6 +38,7 @@
         <item>Large</item>
     </string-array>
     <string-array name="rarity_filters">
+        <item>All</item>
         <item>Very common</item>
         <item>Common</item>
         <item>Uncommon</item>
