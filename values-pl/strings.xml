@@ -176,4 +176,24 @@
     <string name="delete">Usuń</string>
     <string name="ilovepokemesh">I love PokéMesh</string>
     <string name="ilovepokemesh_summary">Wyświetlaj mały nie przeszkadzający banner na głównej mapie.</string>
+    <string name="check_status">Sprawdzanie statusu</string>
+    <string name="verifying_accounts">Weryfikowanie konta…</string>
+    <string name="initializing">Inicjowanie</string>
+    <string name="checking_account">Sprawdzanie konta: %s</string>
+    <string name="account_not_connected">Konto nie połączone</string>
+    <string name="account_connected">Konto połączone</string>
+    <string name="timers">Liczniki</string>
+    <string name="timers_summary">Pokazuj liczniki nad Pokémonem. Ukryj liczniki dla lepszej wydajności na urządzeniach z małą ilością pamięci.</string>
+    <string name="overlay_foreground">Naciśnij tutaj aby uruchomić PokéMesha</string>
+    <string name="email">Email</string>
+    <string name="notifications">Powiadomienia</string>
+    <string name="notifications_summary">Włącz lub wyłącz powiadomienia na końcu każdego skanu. Możesz ukryć niektóre powiadomienia o Pokémonach w PokéDexie</string>
+    <string name="notifications_sounds_summary">Włącz lub wyłącz dźwięk dla powiadomień.</string>
+    <string name="notifications_vibration_summary">Włącz lub wyłącz wibrację dla powiadomień.</string>
+    <string name="downloading_icons">Pobieranie oryginalnych ikon...</string>
+    <string name="alternative_icons">Alternatywne ikony</string>
+    <string name="alternative_icons_summary">Włącz lub wyłącz alternatywną paczkę ikon</string>
+    <string name="visited_by">Odwiedzone przez konto: %s</string>
+    <string name="timers_colors">Licznik kolorowany</string>
+    <string name="timers_colors_summary">Włącz lub wyłącz inne kolory licznika bazowane na występowaniu Pokémona.</string>
 </resources>

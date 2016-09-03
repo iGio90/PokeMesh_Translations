@@ -196,4 +196,18 @@
     <string name="checking_account">Checking account: %s</string>
     <string name="account_not_connected">Account not connected</string>
     <string name="account_connected">Account connected</string>
+    <string name="timers">Timers</string>
+    <string name="timers_summary">Show timers above Pokémon. Hide timers for better performance on low end memory devices</string>
+    <string name="overlay_foreground">Tap here to start PokéMesh</string>
+    <string name="email">Email</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_summary">Enable or disable a notifications report at the end of each scan. You can also hide some Pokémon from notifications from the PokéDex-</string>
+    <string name="notifications_sounds_summary">Enable or disable sound for notifications.</string>
+    <string name="notifications_vibration_summary">Enable or disable vibration for notifications.</string>
+    <string name="downloading_icons">Downloading original icons…</string>
+    <string name="alternative_icons">Alternative icons</string>
+    <string name="alternative_icons_summary">Enable or disable the alternative icons pack</string>
+    <string name="visited_by">Visited by account: %s</string>
+    <string name="timers_colors">Timer rarity colors</string>
+    <string name="timers_colors_summary">Enable or disable different timer colors based on the Pokémon rarity.</string>
 </resources>

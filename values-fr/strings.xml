@@ -21,7 +21,7 @@
     <string name="pokemesh_on_map">Sur la carte !</string>
     <string name="pokemesh_gps_disabled">Le GPS est actuellement désactivé.</string>
     <string name="pokemesh_my_position">Ma position</string>
-    <string name="pokemesh_no_permission">PokéMesh n\'a pas l\'autorisation d\'utilisé votre emplacement!</string>
+    <string name="pokemesh_no_permission">PokéMesh n\'a pas l\'autorisation d\'utiliser votre emplacement!</string>
     <string name="pokemesh_show_on_map">Afficher sur la carte</string>
     <string name="pokemesh_show_on_map_summary">Choisir d\'afficher ou non les Pokémon sur la carte</string>
     <string name="pokemesh_mesh_pokemon">Notifications</string>
@@ -35,7 +35,7 @@
     <string name="pokemesh_big_multi_meshed">Il y a des Pokémon proches de vous !</string>
 
     <string name="pokemesh_support_us">Soutenir PokéMesh</string>
-    <string name="pokemesh_support_us_summary">Afficher une annonce en plein écran toutes les 30 scans</string>
+    <string name="pokemesh_support_us_summary">Afficher une annonce en plein écran tous les 30 scans</string>
     <string name="pokemesh_about">A propos</string>
     <string name="pokemesh_follow_us">Nous suivre</string>
     <string name="pokemesh_check_update">Mise à jour</string>
@@ -85,7 +85,7 @@
     <string name="pokemesh_searching_gps">Détéction de l\'emplacement…</string>
     <string name="pokemesh_start_pokemesh">Démarrer PokéMesh</string>
     <string name="pokemesh_support_us_lock">S\'il vous plaît, veuillez cocher \"Soutenir PokéMesh\" dans les paramètres pour utiliser cette fonctionnalité</string>
-    <string name="pokemesh_map">Carte</string>p
+    <string name="pokemesh_map">Carte</string>
     <string name="pokemesh_stock_icons_summary">Utiliser les icones officielles. Un masque de censure sera appliqué à cause des copyrights de Nintento.</string>
     <string name="pokemesh_stock_icons">Icones officielles</string>
     <string name="pokemesh_additional">Suppléments</string>
@@ -102,7 +102,7 @@
     <string name="pokemesh_scan_distance">Distance de pas</string>
     <string name="pokemesh_scan_distance_summary">Selectionner la distance en mètre entre chaque pas.</string>
     <string name="pokemesh_scan_steps_marker">Marqueurs de pas</string>
-    <string name="pokemesh_scan_steps_marker_summary">Affiche un marquer pour chaque pas sur la carte.</string>
+    <string name="pokemesh_scan_steps_marker_summary">Affiche un marqueur pour chaque pas sur la carte.</string>
     <string name="pokemesh_news">Nouvelles</string>
     <string name="pokemesh_faq">F.A.Q et Tutoriel</string>
     <string name="pokemesh_screenshot_fail">Un problème est survenu lors de la prise de capture d\'écran.</string>

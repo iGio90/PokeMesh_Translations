@@ -38,6 +38,7 @@
         <item>Duży</item>
     </string-array>
     <string-array name="rarity_filters">
+        <item>Wszystkie</item>
         <item>Bardzo pospolite</item>
         <item>Pospolite</item>
         <item>Niepospolite</item>

@@ -179,7 +179,7 @@
     <string name="account_could_be_banned">Aquest compte pot estar banejat o desactivat. Siusplau, prova d\'entrar al joc oficial i comprova si funciona!</string>
     <string name="pokemesh_original_names">Noms originals</string>
     <string name="pokemesh_original_names_summary">Utilitza els noms originals (en anglès) dels Pokémon</string>
-    <string name="hide_current">Amaga aquest %s</string> <!-- %s will be replaced by the localized pokémon name -->
+    <string name="hide_current">Amaga aquest %s</string>
     <string name="hide_all">Amaga tots els %s</string>
     <string name="rarity_filters">Filtres de raresa</string>
     <string name="rarity_disclaimer">No culparé els desenvolupadors si veig un mapa sense ni un Pokémon!</string>
@@ -190,4 +190,10 @@
     <string name="delete">Elimina</string>
     <string name="ilovepokemesh">M\'encanta PokéMesh</string>
     <string name="ilovepokemesh_summary">Mostra un petit banner no intrusiu al mapa principal.</string>
+    <string name="check_status">Comprova l\'estat</string>
+    <string name="verifying_accounts">Verificant comptes…</string>
+    <string name="initializing">Inicialitzant</string>
+    <string name="checking_account">Comprovant compte: %s</string>
+    <string name="account_not_connected">El compte no està connectat</string>
+    <string name="account_connected">El compte està connectat</string>
 </resources>
