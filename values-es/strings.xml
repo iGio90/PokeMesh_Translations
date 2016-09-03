@@ -125,11 +125,11 @@
     <string name="pokemesh_overlay_size">Tamaño de la capa</string>
     <string name="pokemesh_overlay_size_summary">Elija el tamaño de la capa del mapa.</string>
     
-     <string name="accounts">Cuentas</string>
+    <string name="accounts">Cuentas</string>
     <string name="accounts_summary">El sistema de multi-cuentas es una capacteristica adicional que incrementa la velicidad de escaneo. Estas son diferentes de la cuenta que se usa para ingresar y solo son usadas durante el proceso de escaneo.</string>
     <string name="google">Google</string>
     <string name="ptc">PTC</string>
-    <string name="select_account_type">Seleccionar el tipo de cuenta/string>
+    <string name="select_account_type">Seleccionar el tipo de cuenta</string>
     <string name="create_account">Crear una cuenta nueva</string>
     <string name="existing_account">Agregar una cuenta existente</string>
     <string name="account_identifier">Nombre de la cuenta</string>
@@ -186,5 +186,5 @@
     <string name="initializing">Iniciando</string>
     <string name="checking_account">Chequeando cuenta: %s</string>
     <string name="account_not_connected">La cuenta no está conectada</string>
-    <string name="account_connected">La cuenta está conectada/string>
+    <string name="account_connected">La cuenta está conectada</string>
 </resources>
