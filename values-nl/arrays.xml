@@ -38,6 +38,7 @@
         <item>Groot</item>
     </string-array>
     <string-array name="rarity_filters">
+        <item>Alles weergeven</item>
         <item>Zeer gewoon</item>
         <item>Gewoon</item>
         <item>Ongewoon</item>
