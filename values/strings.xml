@@ -201,7 +201,7 @@
     <string name="overlay_foreground">Tap here to start PokéMesh</string>
     <string name="email">Email</string>
     <string name="notifications">Notifications</string>
-    <string name="notifications_summary">Enable or disable a notifications report at the end of each scan. You can also hide some Pokémon from notifications from the PokéDex-</string>
+    <string name="notifications_summary">Enable or disable a notifications report at the end of each scan. You can also hide some Pokémon from notifications from the PokéDex.</string>
     <string name="notifications_sounds_summary">Enable or disable sound for notifications.</string>
     <string name="notifications_vibration_summary">Enable or disable vibration for notifications.</string>
     <string name="downloading_icons">Downloading original icons…</string>
