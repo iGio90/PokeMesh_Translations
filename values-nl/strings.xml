@@ -196,4 +196,18 @@
     <string name="checking_account">Controleren van account: %s</string>
     <string name="account_not_connected">Account niet verbonden</string>
     <string name="account_connected">Account verbonden</string>
+    <string name="timers">Timers</string>
+    <string name="timers_summary">Geef timers weer boven Pokémon. Je kunt timers uitschakelen in de instellingen als je toestel traag wordt.</string>
+    <string name="overlay_foreground">Tik hier om PokéMesh te starten</string>
+    <string name="email">Emailadres</string>
+    <string name="notifications">Notificaties</string>
+    <string name="notifications_summary">Notificaties waarin na iedere scan een rapport wordt weergegeven in- of uitschakelen. Je kunt Pokémon verbergen van deze notificaties door deze in de Pokédex uit te schakelen.</string>
+    <string name="notifications_sounds_summary">Geluiden tijdens notificaties in- of uitschakelen.</string>
+    <string name="notifications_vibration_summary">Vibratie tijdens notificaties in- of uitschakelen.</string>
+    <string name="downloading_icons">Officiële pictogrammenset downloaden…</string>
+    <string name="alternative_icons">Alternatieve pictogrammen</string>
+    <string name="alternative_icons_summary">Alternatieve pictogrammenset in- of uitschakelen.</string>
+    <string name="visited_by">Gescand met account: %s</string>
+    <string name="timers_colors">Timer zeldzaamheidskleur</string>
+    <string name="timers_colors_summary">In- of uitschakelen van kleurweergaven van timers gebaseerd op de zeldzaamheid van de Pokémon.</string>
 </resources>
