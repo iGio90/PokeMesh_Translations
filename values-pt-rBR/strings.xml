@@ -190,4 +190,10 @@
     <string name="delete">Deletar</string>
     <string name="ilovepokemesh">Eu amo PokéMesh</string>
     <string name="ilovepokemesh_summary">Exibir um pequeno anúncio não intrusivo no mapa principal.</string>
+    <string name="check_status">Checar status</string>
+    <string name="verifying_accounts">Verificando contas…</string>
+    <string name="initializing">Inicializando</string>
+    <string name="checking_account">Checando contas: %s</string>
+    <string name="account_not_connected">Conta não conectada</string>
+    <string name="account_connected">Conta conectada</string>
 </resources>
