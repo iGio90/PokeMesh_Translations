@@ -187,4 +187,19 @@
     <string name="checking_account">Chequeando cuenta: %s</string>
     <string name="account_not_connected">La cuenta no está conectada</string>
     <string name="account_connected">La cuenta está conectada</string>
+    <string name="timers">Minutero</string>
+    <string name="timers_summary">Enseña el minutero encima del Pokémon. Esconde el minutero para mejor performancia en dispositivos con poca memoria</string>
+    <string name="overlay_foreground">Presione aqui para empezar PokéMesh</string>
+    <string name="email">Email</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="notifications_summary">Habilitar o Inhabilitar las notificaciones de un informe al final de cada exploración. 
+También puede ocultar algunos Pokémon de notificaciones del PokéDex.</string>
+    <string name="notifications_sounds_summary">Habilitar o Inhabilitar sonidos de notificaciones.</string>
+    <string name="notifications_vibration_summary">Habilitar o Inhabilitar vibracion de notificaciones.</string>
+    <string name="downloading_icons">Descargando iconos originales…</string>
+    <string name="alternative_icons">Iconos alternativos</string>
+    <string name="alternative_icons_summary">Habilitar o Inhabilitar los iconos alternativos</string>
+    <string name="visited_by">Visitado por la cuenta: %s</string>
+    <string name="timers_colors">Color de rareza del minutero</string>
+    <string name="timers_colors_summary">Habilitar o Inhabilitar differente colores basado en la rareza del Pokémon.</string>
 </resources>
