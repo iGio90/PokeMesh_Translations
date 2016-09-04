@@ -203,4 +203,10 @@
     <string name="choose_mirror">Wybierz mirror</string>
     <string name="no_mirrors">Nie ma aktualnie dostępnych mirrorów. Spróbuj później!</string>
     <string name="autotime_error">Data i godzina systemowa musi być ustawiona na tryb automatyczny by widzieć Pokemony na mapie. Proszę, włącz automatyczną datę i czas!</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="visiting_pokestop">Odwiedzony pokestop</string>
+    <string name="not_lured_contestual">Pokéstop nie ma aktywnego lure module.</string>
+    <string name="pokestop_share_title">Odwiedziłem Pokéstop!</string>
+    <string name="pokestop_share_content" formatted="false">Hej! jest %s tutaj: %s</string>
+    <string name="pokestop_share_content_lured">Pokéstop z aktywnym lure module.</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>
