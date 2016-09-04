@@ -211,7 +211,7 @@
     <string name="timers_colors">Timer rarity colors</string>
     <string name="timers_colors_summary">Enable or disable different timer colors based on the Pokémon rarity.</string>
     <string name="share_remaining">You have %s to catch it!</string>
-    <string name="get_it">Get it</string>
+    <string name="get_it">Get it</string> <!-- this is meant for -> New version of PokéMesh available -> Get it! -->
     <string name="whatsnew">What\'s new</string>
     <string name="skip">Skip</string>
     <string name="choose_mirror">Select a mirror</string>
