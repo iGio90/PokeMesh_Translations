@@ -210,4 +210,11 @@
     <string name="visited_by">Visited by account: %s</string>
     <string name="timers_colors">Timer rarity colors</string>
     <string name="timers_colors_summary">Enable or disable different timer colors based on the Pokémon rarity.</string>
+    <string name="share_remaining">You have %s to catch it!</string>
+    <string name="get_it">Get it</string>
+    <string name="whatsnew">What\'s new</string>
+    <string name="skip">Skip</string>
+    <string name="choose_mirror">Select a mirror</string>
+    <string name="no_mirrors">No mirrors available at the moment. Try later!</string>
+    <string name="autotime_error">System date and time needs to be set to automatic in order to see Pokémon on the map. Please, enable automatic date and time!</string>
 </resources>
