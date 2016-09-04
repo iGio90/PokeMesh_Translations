@@ -43,7 +43,7 @@
     <string name="pokemesh_check_update">Actualización</string>
     <string name="pokemesh_checking_update">Verificando actualizaciones…</string>
     <string name="pokemesh_update_failed">Error en la comunicación con actualizaciones del servidor. Inténtelo más tarde!</string>
-    <string name="pokemesh_no_update_available">Tu estas ejecutando la última versión de PokéMesh.</string>
+    <string name="pokemesh_no_update_available">Estas ejecutando la última versión de PokéMesh.</string>
     <string name="pokemesh_update_available">Una nueva versión de PokéMesh está disponible!</string>
     <string name="pokemesh_downloading">Descargando actualización…</string>
     <string name="pokemesh_gps_failed">No se puede recuperar la ubicación GPS.</string>
@@ -100,7 +100,7 @@
     <string name="pokemesh_advanced">Avanzado</string>
     <string name="pokemesh_scan_area">Rango de exploración</string>
     <string name="pokemesh_advanced_summary">Atención: ajustar estos valores afectará el tiempo que necesita cada búsqueda para completarse.</string>
-    <string name="pokemesh_scan_area_summary">Seleccione el radio del areá de búsqueda para incrementar o disminuir los pasos de la ubicación seleccionada o de la actual.</string>
+    <string name="pokemesh_scan_area_summary">Seleccione el radio del área de búsqueda para incrementar o disminuir los pasos de la ubicación seleccionada o de la actual.</string>
     <string name="pokemesh_scan_distance">Distancia de pasos</string>
     <string name="pokemesh_scan_distance_summary">Seleccione la distancia en metros entre los pasos.</string>
     <string name="pokemesh_scan_steps_marker">Marque las etapas</string>
@@ -126,7 +126,7 @@
     <string name="pokemesh_overlay_size_summary">Elija el tamaño de la capa del mapa.</string>
     
     <string name="accounts">Cuentas</string>
-    <string name="accounts_summary">El sistema de multi-cuentas es una capacteristica adicional que incrementa la velicidad de escaneo. Estas son diferentes de la cuenta que se usa para ingresar y solo son usadas durante el proceso de escaneo.</string>
+    <string name="accounts_summary">El sistema de multi-cuentas es una capacteristica adicional que incrementa la velocidad de escaneo. Estas son diferentes de la cuenta que se usa para ingresar y solo son usadas durante el proceso de escaneo.</string>
     <string name="google">Google</string>
     <string name="ptc">PTC</string>
     <string name="select_account_type">Seleccionar el tipo de cuenta</string>
@@ -156,8 +156,8 @@
     <string name="join_room_title">Crear o unirte a una sala creada.</string>
     <string name="join_room_hint">Nombre de la sala…</string>
     <string name="leave_room_confirmation">Estas seguro que quieres dejar esta sala?</string>
-    <string name="on_enter_room">a entrado en la sala.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
-    <string name="on_leave_room">a dejado la sala.</string>
+    <string name="on_enter_room">ha entrado en la sala.</string> <!-- Preceded by the nick of the user that enter the room. I.E: Elvis entered the room -->
+    <string name="on_leave_room">ha dejado la sala.</string>
     <string name="just_now">Ahora</string>
     <string name="a_minute_ago">Hace un minuto</string>
     <string name="minutes_ago">Minutos atrás</string>
@@ -165,15 +165,15 @@
     <string name="hours_ago">Horas atrás</string>
     <string name="yesterday">Ayer</string>
     <string name="days_ago">Días Atrás</string>
-    <string name="no_message">Sin mensajes aún. Ingresa a la sala y escribe algo!</string>
+    <string name="no_message">Sin mensajes aún. Entra a la sala y escribe algo!</string>
     <string name="master_account">Cuenta principal</string>
-    <string name="account_could_be_banned">Esta cuenta a sido baneada o deshabilitada. Por favor trata de ingresarla directo en el juego oficial para mas información!</string>
+    <string name="account_could_be_banned">Esta cuenta a sido baneada o deshabilitada. Por favor trata de ingresarla en el juego oficial para mas información!</string>
     <string name="pokemesh_original_names">Nombres Originales</string>
-    <string name="pokemesh_original_names_summary">Usar los nombres originales en ingles para los Pokémons</string>
+    <string name="pokemesh_original_names_summary">Usar los nombres originales en inglés para los Pokémons</string>
     <string name="hide_current">Ocultar este %s</string> <!-- %s will be replaced by the localized pokémon name -->
     <string name="hide_all">Ocultar todos %s</string>
     <string name="rarity_filters">Filtros de rareza</string>
-    <string name="rarity_disclaimer">Yo no culpare a los desarrolladores si Yo veo un mapa sin nimgún Pokémon!</string>
+    <string name="rarity_disclaimer">Yo no culpare a los desarrolladores si veo un mapa sin ningún Pokémon!</string>
     <string name="rarity_filters_summary">Seleciona el mínimo de rareza con la cual deseas filtrar los Pokémon que aparezcan en el mapa.</string>
     <string name="bookmarks">Marcadores</string>
     <string name="history">Historial</string>
@@ -184,7 +184,7 @@
     <string name="check_status">Comprobar estado</string>
     <string name="verifying_accounts">Verificando cuentas…</string>
     <string name="initializing">Iniciando</string>
-    <string name="checking_account">Chequeando cuenta: %s</string>
+    <string name="checking_account">Veerificando cuenta: %s</string>
     <string name="account_not_connected">La cuenta no está conectada</string>
     <string name="account_connected">La cuenta está conectada</string>
     <string name="timers">Minutero</string>
@@ -193,7 +193,7 @@
     <string name="email">Email</string>
     <string name="notifications">Notificaciones</string>
     <string name="notifications_summary">Habilitar o Inhabilitar las notificaciones de un informe al final de cada exploración. 
-También puede ocultar algunos Pokémon de notificaciones del PokéDex.</string>
+También puedes ocultar algunas notificaciones de Pokémon desde la PokéDex.</string>
     <string name="notifications_sounds_summary">Habilitar o Inhabilitar sonidos de notificaciones.</string>
     <string name="notifications_vibration_summary">Habilitar o Inhabilitar vibracion de notificaciones.</string>
     <string name="downloading_icons">Descargando iconos originales…</string>
@@ -202,4 +202,11 @@ También puede ocultar algunos Pokémon de notificaciones del PokéDex.</string>
     <string name="visited_by">Visitado por la cuenta: %s</string>
     <string name="timers_colors">Color de rareza del minutero</string>
     <string name="timers_colors_summary">Habilitar o Inhabilitar differente colores basado en la rareza del Pokémon.</string>
+    <string name="share_remaining">Tienes %s para atraparlo!</string>
+    <string name="get_it">Atrapalo!</string>
+    <string name="whatsnew">Que hay nuevo</string>
+    <string name="skip">Saltar</string>
+    <string name="choose_mirror">Seleciona un espejo</string>
+    <string name="no_mirrors">No hay espejos disponibles en este momento. Intentalo mas tarde!</string>
+    <string name="autotime_error">La fecha y la hora del sistema tienen que estar en automatico para ver los Pokemons en el mapa. Por favor, activa el ajuste automatico de fecha y hora!</string>
 </resources>
