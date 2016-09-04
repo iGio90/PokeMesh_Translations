@@ -206,7 +206,7 @@
     <string name="notifications_vibration_summary">Activa o desactiva la vibració per a les notificacions.</string>
     <string name="downloading_icons">Descarregant icones originals…</string>
     <string name="alternative_icons">Icones alternatives</string>
-    <string name="alternative_icons_summary">Activa o desactiva el paquet d'icones alternatives</string>
+    <string name="alternative_icons_summary">Activa o desactiva el paquet d\'icones alternatives</string>
     <string name="visited_by">Visitat pel compte: %s</string>
     <string name="timers_colors">Color de raresa en els temporitzadors</string>
     <string name="timers_colors_summary">Activa o desactiva colors diferents en els temportizadors segons la raresa dels Pokémon.</string>
