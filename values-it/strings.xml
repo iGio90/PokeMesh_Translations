@@ -183,4 +183,18 @@
     <string name="checking_account">Controllo account: %s</string>
     <string name="account_not_connected">Account non connesso</string>
     <string name="account_connected">Account connesso</string>
+    <string name="timers">Timers</string>
+    <string name="timers_summary">Mostra i timers sopra i Pokémon. Nascondili per ottenere maggiori performance su dispositivi vecchi e con poca memoria.</string>
+    <string name="overlay_foreground">Fai tap per lanciare PokéMesh</string>
+    <string name="email">Email</string>
+    <string name="notifications">Notifiche</string>
+    <string name="notifications_summary">Abilita o disabilita le notifiche per le scansioni. Puoi nascondere i Pokémon dalle notifiche attraverso il PokéDex.</string>
+    <string name="notifications_sounds_summary">Abilita o disabilita i suoni per le notifiche.</string>
+    <string name="notifications_vibration_summary">Abilita o disabilita la vibrazione per le notifiche.</string>
+    <string name="downloading_icons">Scarico le icone originali…</string>
+    <string name="alternative_icons">Icone alternative</string>
+    <string name="alternative_icons_summary">Abilita o disabilita le icone alternative.</string>
+    <string name="visited_by">Visitato dall\'account: %s</string>
+    <string name="timers_colors">Timer colorato per rarità</string>
+    <string name="timers_colors_summary">Abilita o disabilita colori differenti per il timer in base alla rarità dei Pokémon.</string>
 </resources>

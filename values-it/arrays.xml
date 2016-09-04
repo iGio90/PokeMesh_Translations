@@ -37,4 +37,15 @@
         <item>Media</item>
         <item>Grande</item>
     </string-array>
+    <string-array name="rarity_filters">
+        <item>Tutti</item>
+        <item>Molto comuni</item>
+        <item>Comuni</item>
+        <item>Non comuni</item>
+        <item>Rari</item>
+        <item>Molto rari</item>
+        <item>Speciali</item>
+        <item>Epici</item>
+        <item>Leggendari</item>
+    </string-array>
 </resources>

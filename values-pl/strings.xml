@@ -39,14 +39,14 @@
     <string name="pokemesh_check_update">Aktualizacja</string>
     <string name="pokemesh_checking_update">Sprawdzanie aktualizacji…</string>
     <string name="pokemesh_update_failed">Błąd komunikacji z serwerami aktualizacji. Spróbuj ponownie później!</string>
-    <string name="pokemesh_no_update_available">Korzystasz z ostatniej wersji PokéMesha</string>
+    <string name="pokemesh_no_update_available">Korzystasz z najnowszej wersji PokéMesha</string>
     <string name="pokemesh_update_available">Nowa wersja PokéMesha dostępna!</string>
     <string name="pokemesh_downloading">Pobieranie aktualizacji…</string>
     <string name="pokemesh_gps_failed">Błąd pobierania lokalizacji GPS</string>
-    <string name="pokemesh_init_pokemesh">Łączenie z PokéMeshem....</string>
+    <string name="pokemesh_init_pokemesh">Łączenie z PokéMeshem…</string>
     <string name="pokemesh_logging_in">Logowanie…</string>
     <string name="pokemesh_connected">Połączono! Mesh… Mesh… !</string>
-    <string name="pokemesh_generating_credentials">Generuje nowe poświadczenia</string>
+    <string name="pokemesh_generating_credentials">Generuję nowe poświadczenia</string>
     <string name="pokemesh_pokemesh_down">Aktualnie PokéMesh się aktualizuje. Spróbuj później</string>
     <string name="pokemesh_got_pokemesh_credentials">Posiadam poświadczenia PokéMesha!</string>
     <string name="pokemesh_club_down">Serwery Pokémon GO aktualnie nie działają. Spróbuj później</string>
@@ -117,7 +117,7 @@
     <string name="pokemesh_club_public">Publiczny</string>
     <string name="pokemesh_club_groups">Grupy</string>
     <string name="pokemesh_overlay_position">Pozycja nakładki</string>
-    <string name="pokemesh_overlay_position_summary">Wybierz pozcyję nakładki mapy</string>
+    <string name="pokemesh_overlay_position_summary">Wybierz pozycję nakładki mapy</string>
     <string name="pokemesh_overlay_size">Rozmiar nakładki</string>
     <string name="pokemesh_overlay_size_summary">Wybierz rozmiar nakładki mapy</string>
     <string name="accounts">Konta</string>
@@ -161,7 +161,7 @@
     <string name="yesterday">Wczoraj</string>
     <string name="days_ago">dni temu</string>
     <string name="no_message">Narazie żadnych wiadomości. Dołącz do pokoju i napisz coś!</string>
-    <string name="master_account">Konto Master</string>
+    <string name="master_account">Konto główne</string>
     <string name="account_could_be_banned">To konto prawdopodobnie zostało zbanowane lub wyłączone. Spróbuj je sprawdzić logując się do gry!</string>
     <string name="pokemesh_original_names">Oryginalne nazwy</string>
     <string name="pokemesh_original_names_summary">Używaj oryginalnych (angielskich) nazw Pokémonów</string>
@@ -190,10 +190,23 @@
     <string name="notifications_summary">Włącz lub wyłącz powiadomienia na końcu każdego skanu. Możesz ukryć niektóre powiadomienia o Pokémonach w PokéDexie</string>
     <string name="notifications_sounds_summary">Włącz lub wyłącz dźwięk dla powiadomień.</string>
     <string name="notifications_vibration_summary">Włącz lub wyłącz wibrację dla powiadomień.</string>
-    <string name="downloading_icons">Pobieranie oryginalnych ikon...</string>
+    <string name="downloading_icons">Pobieranie oryginalnych ikon…</string>
     <string name="alternative_icons">Alternatywne ikony</string>
     <string name="alternative_icons_summary">Włącz lub wyłącz alternatywną paczkę ikon</string>
     <string name="visited_by">Odwiedzone przez konto: %s</string>
-    <string name="timers_colors">Licznik kolorowany</string>
+    <string name="timers_colors">Kolorowy licznik</string>
     <string name="timers_colors_summary">Włącz lub wyłącz inne kolory licznika bazowane na występowaniu Pokémona.</string>
+    <string name="share_remaining">Masz %s do złapania!</string>
+    <string name="get_it">Złapałeś go</string>
+    <string name="whatsnew">Co nowego</string>
+    <string name="skip">Pomiń</string>
+    <string name="choose_mirror">Wybierz mirror</string>
+    <string name="no_mirrors">Nie ma aktualnie dostępnych mirrorów. Spróbuj później!</string>
+    <string name="autotime_error">Data i godzina systemowa musi być ustawiona na tryb automatyczny by widzieć Pokemony na mapie. Proszę, włącz automatyczną datę i czas!</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="visiting_pokestop">Odwiedzony pokestop</string>
+    <string name="not_lured_contestual">Pokéstop nie ma aktywnego lure module.</string>
+    <string name="pokestop_share_title">Odwiedziłem Pokéstop!</string>
+    <string name="pokestop_share_content" formatted="false">Hej! jest %s tutaj: %s</string>
+    <string name="pokestop_share_content_lured">Pokéstop z aktywnym lure module.</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>

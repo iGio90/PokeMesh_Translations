@@ -53,7 +53,7 @@
     <string name="pokemesh_check_update">Update</string>
     <string name="pokemesh_checking_update">Checking updates…</string>
     <string name="pokemesh_update_failed">Failed to communicate with update servers. Try again later!</string>
-    <string name="pokemesh_no_update_available">You are running the last version of PokéMesh</string>
+    <string name="pokemesh_no_update_available">You are running the latest version of PokéMesh</string>
     <string name="pokemesh_update_available">New version of PokéMesh available!</string>
     <string name="pokemesh_downloading">Downloading update…</string>
     <string name="pokemesh_gps_failed">Unable to retrieve GPS location</string>
@@ -201,7 +201,7 @@
     <string name="overlay_foreground">Tap here to start PokéMesh</string>
     <string name="email">Email</string>
     <string name="notifications">Notifications</string>
-    <string name="notifications_summary">Enable or disable a notifications report at the end of each scan. You can also hide some Pokémon from notifications from the PokéDex-</string>
+    <string name="notifications_summary">Enable or disable a notifications report at the end of each scan. You can also hide some Pokémon from notifications from the PokéDex.</string>
     <string name="notifications_sounds_summary">Enable or disable sound for notifications.</string>
     <string name="notifications_vibration_summary">Enable or disable vibration for notifications.</string>
     <string name="downloading_icons">Downloading original icons…</string>
@@ -210,4 +210,17 @@
     <string name="visited_by">Visited by account: %s</string>
     <string name="timers_colors">Timer rarity colors</string>
     <string name="timers_colors_summary">Enable or disable different timer colors based on the Pokémon rarity.</string>
+    <string name="share_remaining">You have %s to catch it!</string>
+    <string name="get_it">Get it</string>
+    <string name="whatsnew">What\'s new</string>
+    <string name="skip">Skip</string>
+    <string name="choose_mirror">Select a mirror</string>
+    <string name="no_mirrors">No mirrors available at the moment. Try later!</string>
+    <string name="autotime_error">System date and time needs to be set to automatic in order to see Pokémon on the map. Please, enable automatic date and time!</string>
+    <string name="loading">Loading…</string>
+    <string name="visiting_pokestop">Visiting pokestop</string>
+    <string name="not_lured_contestual">Pokéstop has no active lure module.</string>
+    <string name="pokestop_share_title">I just visited a Pokéstop!</string>
+    <string name="pokestop_share_content" formatted="false">Hey! there is a %s here: %s</string>
+    <string name="pokestop_share_content_lured">Pokéstop with lure module active</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>

@@ -44,7 +44,7 @@
  +        <item>Raro</item>
  +        <item>Muy raro</item>
  +        <item>Especial</item>
- +        <item>Epico</item>
+ +        <item>Épico</item>
  +        <item>Legendario</item>
  +    </string-array>
 </resources>

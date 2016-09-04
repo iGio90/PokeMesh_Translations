@@ -38,6 +38,7 @@
         <item>Gran</item>
     </string-array>
     <string-array name="rarity_filters">
+        <item>Tots</item>
         <item>Molt comú</item>
         <item>Comú</item>
         <item>Poc comú</item>
