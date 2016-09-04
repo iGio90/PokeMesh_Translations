@@ -210,4 +210,17 @@
     <string name="visited_by">Visitado pela conta: %s</string>
     <string name="timers_colors">Cor do Cronômetro por Raridade</string>
     <string name="timers_colors_summary">Ativar ou desativar diferentes cores de cronômetro baseado na raridade do Pokémon.</string>
+    <string name="share_remaining">Você tem %s para capturá-lo!</string>
+    <string name="get_it">Pegá-lo</string>
+    <string name="whatsnew">O que há de novo</string>
+    <string name="skip">Pular</string>
+    <string name="choose_mirror">Selecione um mirror</string>
+    <string name="no_mirrors">Nenhum mirror disponivel no momento. Tente mais tarde!</string>
+    <string name="autotime_error">A data e hora precisam ser definidos para o modo Automático para conseguir ver os Pokémon no mapa. Por favor, ative opção "data e hora automáticas"!</string>
+    <string name="loading">Carregando…</string>
+    <string name="visiting_pokestop">Visitando pokestop</string>
+    <string name="not_lured_contestual">O Pokéstop não possui nenhum lure ativo.</string>
+    <string name="pokestop_share_title">Eu acabei de visitar um Pokéstop!</string>
+    <string name="pokestop_share_content" formatted="false">Ei! Há um %s aqui: %s</string>
+    <string name="pokestop_share_content_lured">O Pokéstop está com lure ativo</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>
