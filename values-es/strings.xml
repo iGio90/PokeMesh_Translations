@@ -202,4 +202,10 @@ También puede ocultar algunos Pokémon de notificaciones del PokéDex.</string>
     <string name="visited_by">Visitado por la cuenta: %s</string>
     <string name="timers_colors">Color de rareza del minutero</string>
     <string name="timers_colors_summary">Habilitar o Inhabilitar differente colores basado en la rareza del Pokémon.</string>
+    <string name="loading">Cargando…</string>
+    <string name="visiting_pokestop">Visitando PokéParada</string>
+    <string name="not_lured_contestual">La PokéParada no tiene ningún modulo cebo activo.</string>
+    <string name="pokestop_share_title">He visitado una PokéParada!</string>
+    <string name="pokestop_share_content" formatted="false">Hey! hay un %s aquí: %s</string>
+    <string name="pokestop_share_content_lured">PokéParada con módulo cebo activo</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>
