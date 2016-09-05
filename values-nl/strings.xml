@@ -212,15 +212,15 @@
     <string name="timers_colors_summary">In- of uitschakelen van kleurweergaven van timers gebaseerd op de zeldzaamheid van de Pokémon.</string>
     <string name="share_remaining">Je hebt nog %s om het te vangen!</string>
     <string name="get_it">Nu downloaden</string>
-    <string name="whatsnew">Wat is nieuw</string>
+    <string name="whatsnew">Wat is er nieuw?</string>
     <string name="skip">Overslaan</string>
     <string name="choose_mirror">Selecteer een mirror</string>
     <string name="no_mirrors">Er zijn momenteel geen mirrors beschikbaar. Probeer het later opnieuw!</string>
     <string name="autotime_error">Systeem datum en tijd dienen op automatisch ingesteld te zijn, anders verschijnen er geen Pokémon op de kaart. Gelieve automatische tijdupdates in te schakelen!</string>
     <string name="loading">Laden…</string>
     <string name="visiting_pokestop">Pokéstop bezoeken</string>
-    <string name="not_lured_contestual">Pokéstop heeft geen actieve lure module.</string>
+    <string name="not_lured_contestual">Pokéstop zonder actieve lure module</string>
     <string name="pokestop_share_title">Ik heb zojuist een Pokéstop bezocht!</string>
-    <string name="pokestop_share_content" formatted="false">Hey! er is een %s hier: %s</string>
+    <string name="pokestop_share_content" formatted="false">Hey! Er is hier een %s! %s</string>
     <string name="pokestop_share_content_lured">Pokéstop met actieve lure module</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>
