@@ -48,4 +48,24 @@
         <item>Episch</item>
         <item>Legendarisch</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Ja</item>
+        <item>Ik denk het…</item>
+        <item>Nee</item>
+        <item>Een enkeling</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Omdat de ontwikkelaars mij haten</item>
+        <item>Omdat er een 10 seconde \'time-out\' is om te voorkomen dat mijn account geblokkeerd wordt</item>
+        <item>Omdat mijn verbinding traag is</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Een nieuwe soort Gym/Pokéstop</item>
+        <item>Een markering die aan geeft waar gescand is binnen je scan-omgeving</item>
+        <item>Ik weet het niet</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Ja, dat beloof ik!</item>
+        <item>Nee, sorry!</item>
+    </string-array>
 </resources>
