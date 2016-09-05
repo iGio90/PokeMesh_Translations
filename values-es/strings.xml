@@ -214,4 +214,5 @@ También puede ocultar algunos Pokémon de notificaciones del PokéDex.</string>
     <string name="iq_two">¿Por qué mi búsqueda tarda mucho en completar?</string>
     <string name="iq_three">¿Para que sirven los marcadores de pasos?</string>
     <string name="iq_four">¿Vas a prometer que vas a leer con cuidado la descripción de lo que vas a activar/deshabilitar?</string>
+    <string name="iq_fail">Quizá deberías considerar utilizar PokéMesh sin ningún ajuste avanzado y disfrutar de la aplicación sin ellos.</string>
 </resources>
