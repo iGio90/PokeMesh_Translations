@@ -1,7 +1,4 @@
 <resources>
-    <string translatable="false" name="app_name">PokéMesh</string>
-    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
-
     <string name="pokemesh_title_activity_maps">Mapa</string>
     <string name="pokemesh_scan">Explorar</string>
     <string name="pokemesh_login">Iniciar sesión</string>

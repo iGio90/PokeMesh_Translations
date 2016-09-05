@@ -1,13 +1,10 @@
 <resources>
-    <string translatable="false" name="app_name">PokéMesh</string>
-    <string translatable="false" name="banner_ad_unit_id">ca-app-pub-3187897317987192/7514856660</string>
-
     <string name="pokemesh_title_activity_maps">Karte</string>
     <string name="pokemesh_scan">Scan</string>
     <string name="pokemesh_login">Anmelden</string>
     <string name="pokemesh_settings">Einstellungen</string>
     <string name="pokemesh_search">Suche</string>
-    <string name="pokemesh_search_something">Suche irgendwas...</string>
+    <string name="pokemesh_search_something">Suche irgendwas…</string>
     <string name="pokemesh_search_address">Addresse</string>
     <string name="pokemesh_search_address_hint">Suche nach einer Addresse</string>
     <string name="pokemesh_pokemon">Pokémon</string>
@@ -150,7 +147,7 @@
     <string name="pokemesh_relax_sound">Sound</string>
     <string name="pokemesh_relax_sound_summary">Aktiviere Sound für Benachrichtigungen</string>
     <string name="pokemesh_club_short">Club</string>
-    <string name="pokemesh_club_write">Schreibe etwas...</string>
+    <string name="pokemesh_club_write">Schreibe etwas…</string>
     <string name="pokemesh_club_chat_down">PokéMesh Chat Server sind zurzeit nicht erreichbar. Versuche es spaeter</string>
     <string name="join_room_title">Erstelle oder betrete einen bestehenden Raum.</string>
     <string name="join_room_hint">Raum Name…</string>
