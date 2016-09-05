@@ -48,4 +48,25 @@
         <item>Épico</item>
         <item>Lendário</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Sim</item>
+        <item>Eu acho que sim…</item>
+        <item>Não, você ainda precisa achar os Pokémon no jogo e capturar por você mesmo.</item>
+        <item>Apenas alguns deles.</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Porque há um limite de 10 segundos para evitar que a conta seja banida.</item>
+        <item>Porque os desenvolvedores me odeiam</item>
+        <item>Porque minha conexão é bem lenta</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Um novo tipo de ginásios e Pokéstops</item>
+        <item>Um pequeno marcador indicando a posição da área do scan atual</item>
+        <item>Um pequeno marcador que irá diminuir a duração do scan</item>
+        <item>Eu não sei</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Sim, eu juro!</item>
+        <item>Não, me desculpe!</item>
+    </string-array>
 </resources>
