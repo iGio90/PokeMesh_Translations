@@ -229,4 +229,5 @@
     <string name="iq_two">Why my scanner take so long to complete?</string>
     <string name="iq_three">What is intended for step markers?</string>
     <string name="iq_four">Will you promise that you will carefully read the description of what you are enabling/disabling?</string>
+    <string name="iq_fail">Maybe you should consider to use PokéMesh without any advanced preferences and enjoy the app without them.</string>
 </resources>
