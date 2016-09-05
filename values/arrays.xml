@@ -48,4 +48,24 @@
         <item>Epic</item>
         <item>Legendary</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Yes</item>
+        <item>I think so…</item>
+        <item>No</item>
+        <item>Just some of them</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Because the developers hate me</item>
+        <item>Because there is a limit of 10 seconds in order to prevent my account to get banned</item>
+        <item>Because my connection is quite slow</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>A new sort of Gyms and Pokéstops</item>
+        <item>A little marker indicating the position of the current scan sub-area</item>
+        <item>I don\'t know</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Yes. I swear!</item>
+        <item>No, sorry!</item>
+    </string-array>
 </resources>
