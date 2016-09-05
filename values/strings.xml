@@ -226,8 +226,8 @@
     <string name="pokemesh_enable_advanced">Enable advanced settings</string>
     <string name="iq_test_summary">So, you need advanced settings? Let me check if you can use them.</string>
     <string name="iq_one">Can PokéMesh catch Pokémon for me?</string>
-    <string name="iq_two">Why my scanner take so long to complete?</string>
-    <string name="iq_three">What is intended for step markers?</string>
-    <string name="iq_four">Will you promise that you will carefully read the description of what you are enabling/disabling?</string>
-    <string name="iq_fail">Maybe you should consider to use PokéMesh without any advanced preferences and enjoy the app without them.</string>
+    <string name="iq_two">Why does the scanner take so long to complete?</string>
+    <string name="iq_three">What is the purpose of the blue Step Markers on the map?</string>
+    <string name="iq_four">These settings are for advanced users and may interfere with the functioning of the scanner. Do you promise that you will read the descriptions carefully?</string>
+    <string name="iq_fail">Perhaps you should consider using PokéMesh without any advanced features and instead enjoy the app without them.</string>
 </resources>

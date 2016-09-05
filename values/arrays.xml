@@ -51,7 +51,7 @@
     <string-array name="iq_one_replies">
         <item>Yes</item>
         <item>I think so…</item>
-        <item>No</item>
+        <item>No, you still need to find the Pokémon in-game and catch it yourself</item>
         <item>Just some of them</item>
     </string-array>
     <string-array name="iq_two_replies">
