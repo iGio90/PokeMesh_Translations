@@ -225,7 +225,7 @@
     <string name="pokestop_share_content_lured">Pokéstop met actieve lure module</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
     <string name="pokemesh_enable_advanced">Geavanceerde instellingen weergeven</string>
     <string name="iq_test_summary">Dus, jij wilt geavanceerde instellingen? Even testen of je dat wel aan kan.</string>
-    <string name="iq_one">Is het mogelijk om Pokémon te vangen met PokéMesh?</string>
+    <string name="iq_one">Is het mogelijk om Pokémon te vangen in PokéMesh?</string>
     <string name="iq_two">Waaorm duurt het zo lang voordat mijn scan klaar is?</string>
     <string name="iq_three">Waarvoor dient \'stappen weergeven\'?</string>
     <string name="iq_four">Beloof je dat je alle disclaimers en beschrijvingen aandachtig zult lezen voordat je gaat experimenteren met instellingen?</string>
