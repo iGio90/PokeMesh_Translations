@@ -229,4 +229,5 @@
     <string name="iq_two">Waaorm duurt het zo lang voordat mijn scan klaar is?</string>
     <string name="iq_three">Waarvoor dient \'stappen weergeven\'?</string>
     <string name="iq_four">Beloof je dat je alle disclaimers en beschrijvingen aandachtig zult lezen voordat je gaat experimenteren met instellingen?</string>
+    <string name="iq_fail">Wellicht beter dat je geen geavanceerde instellingen gebruikt, dit om te voorkomen dat er iets mis gaat</string>
 </resources>
