@@ -225,7 +225,7 @@
     <string name="pokestop_share_content_lured">Pokéstop with lure module active</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
     <string name="pokemesh_enable_advanced">Enable advanced settings</string>
     <string name="iq_test_summary">So, you need advanced settings? Let me check if you can use them.</string>
-    <string name="iq_one">Can you catch Pokémon with PokéMesh?</string>
+    <string name="iq_one">Can PokéMesh catch Pokémon for me?</string>
     <string name="iq_two">Why my scanner take so long to complete?</string>
     <string name="iq_three">What is intended for step markers?</string>
     <string name="iq_four">Will you promise that you will carefully read the description of what you are enabling/disabling?</string>
