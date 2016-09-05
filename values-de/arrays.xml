@@ -47,4 +47,25 @@
         <item>Episch</item>
         <item>Legendaer</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Ja</item>
+        <item>Ich denke schon…</item>
+        <item>Nein, du musst immer noch Pokémon selbst in-Game finden und fangen.</item>
+        <item>Nur ein paar von ihnen</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Weil es eine Begrenzung von 10 Sekunden gibt, die verhindert, dass mein Account gebannt wird</item>
+        <item>Weil die Entwickler mich hassen</item>
+        <item>Weil meine Verbindung ziemlich langsam ist</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Eine neue Art von Arenen und Pokéstops</item>
+        <item>A little marker indicating the position of the current scan sub-area</item>
+        <item>Eine kleine Markierung die die Scandauer verringern wird</item>
+        <item>Ich weiß es nicht</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Ja. Ich schwöre!</item>
+        <item>Nein, Entschuldigung!</item>
+    </string-array>
     </resources>
