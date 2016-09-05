@@ -210,4 +210,17 @@
     <string name="visited_by">Visitat pel compte: %s</string>
     <string name="timers_colors">Color de raresa en els temporitzadors</string>
     <string name="timers_colors_summary">Activa o desactiva colors diferents en els temportizadors segons la raresa dels Pokémon.</string>
+    <string name="share_remaining">Tens %s per a atrapar-lo!</string>
+    <string name="get_it">Baixa\'l</string>
+    <string name="whatsnew">Novetats</string>
+    <string name="skip">Salta</string>
+    <string name="choose_mirror">Selecciona una rèplica</string>
+    <string name="no_mirrors">No hi ha rèpliques disponibles. Prova-ho més tard!</string>
+    <string name="autotime_error">La data i l\'hora del sistema han d\'estar configurades en mode automàtic per a poder veure Pokémon al mapa. Si us plau, activa el mode automàtic per a la data i l\'hora!</string>
+    <string name="loading">Carregant…</string>
+    <string name="visiting_pokestop">Visitant Poképarada</string>
+    <string name="not_lured_contestual">La Poképarada no té cap módul d\'esquer activat.</string>
+    <string name="pokestop_share_title">Acavo de visitar una Poképarada!</string>
+    <string name="pokestop_share_content" formatted="false">Ep! Hi ha un %s aquí: %s</string>
+    <string name="pokestop_share_content_lured">La Poképarada té un módul d\'esquer actiu</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
 </resources>
