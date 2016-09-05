@@ -202,4 +202,11 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="visited_by">Visitado por la cuenta: %s</string>
     <string name="timers_colors">Color de rareza del temporizador.</string>
     <string name="timers_colors_summary">Habilitar o Inhabilitar diferentes colores basado en la rareza del Pokémon.</string>
+    <string name="pokemesh_enable_advanced">Activar ajustes avanzados</string>
+    <string name="iq_test_summary">Asi que, necesitas los ajustes avanzados? Dejame verificar si puedes utilizarlos.</string>
+    <string name="iq_one">¿Puede PokéMesh cazar Pokémons para mi?</string>
+    <string name="iq_two">¿Por qué mi búsqueda tarda mucho en completar?</string>
+    <string name="iq_three">¿Cuál es el propósito de los marcadores azules en el mapa?</string>
+    <string name="iq_four">Estos ajustes son para usuarios avanzados y puede interferir con la funcionalidad del buscador. ¿Prometes Que vas a leer las descripciónes con cuidado?</string>
+    <string name="iq_fail">Quizá deberias considerar utilizar PokéMesh sin ningún ajuste avanzado y disfrutar de la aplicación sin ellos.</string>
 </resources>
