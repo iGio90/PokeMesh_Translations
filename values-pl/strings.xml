@@ -216,4 +216,25 @@
     <string name="iq_three">Jaki jest cel niebieskich znaczników na mapie?</string>
     <string name="iq_four">Ustawienia te są dla zaawansowanych użytkowników i mogą zakłócać działanie skanera. Czy obiecujesz, że będziesz uważnie czytać opisy?</string>
     <string name="iq_fail">Być może musisz rozważyć użycie PokéMesha bez zaawansowanych funkcji i zamiast tego cieszyć się aplikacją bez nich.</string>
+    <string name="share_this">Udostępnij ten %s</string>
+    <string name="mark_area">Zaznacz teren</string>
+    <string name="mark_area_summary">Wyświetlaj okrąg z każdym przeskanowanym krokiem na mapie.</string>
+    <string name="go">Idź tam!</string>
+    <string name="lured_module">Lure module</string>
+    <string name="pokestop_gym_parse_failed">Błąd pobierania danych z serwerów PokémonGO. Gwarantujemy to że skanowanie terenu jest bliskie tego znacznika. Spróbuj przeskanować jeszcze raz blisko wybranego znacznika lub później jeśli problem nie ustąpi!</string>
+    <string name="gym_level">Poziom gymu:</string>
+    <string name="gym_points">Punkty gymu:</string>
+    <string name="guards">Najmocniejszy Pokémon</string>
+    <string name="share_this_gym">Udostępnij ten gym</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Hej! jest tutaj %s gym poziomu %s na: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Wyświetlaj Pokéstopy tylko z lure module</string>
+    <string name="colors">Kolory</string>
+    <string name="ring_color">Okrąg skanu</string>
+    <string name="ring_color_summary">Wybierz kolor dla okręgu skanowanego terenu</string>
+    <string name="ring_border_color">Obramowanie okręgu skanu</string>
+    <string name="ring_border_color_summary">Wybierz kolor obramowania okręgu skanowanego terenu</string>
+    <string name="choose_color">Wybierz kolor</string>
+    <string name="main_marker">Główny znacznik</string>
+    <string name="main_marker_summary">Wyświetlaj główny znacznik w środku skanowanego terenu</string>
 </resources>
