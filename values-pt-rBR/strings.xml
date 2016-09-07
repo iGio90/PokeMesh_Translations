@@ -215,4 +215,25 @@
     <string name="iq_three">Qual o propósito dos marcadores de passos azuis no mapa?</string>
     <string name="iq_four">Essas configurações são para usuários avançados e pode interferir no funcionamento do scanner. Você promete que lerá as descrições cuidadosamente?</string>
     <string name="iq_fail">Talvez você deva considerar usar PokéMesh sem alterar as configurações avançadas e curtir app sem elas.</string>
+    <string name="share_this">Compartilhar isto %s</string>
+    <string name="mark_area">Marcador</string>
+    <string name="mark_area_summary">Exibir um círculo com o alcance de cada passo no mapa em tempo real.</string>
+    <string name="go">Vá ali!</string>
+    <string name="lured_module">Lure ativado</string>
+    <string name="pokestop_gym_parse_failed">Falhamos em receber as informações dos servidores de PokémonGO. Assegure que a área do scan está próxima deste marcador. Tente escanear novamente próximo ao marcador selecionado ou tente mais tarde se o problema persistir!</string>
+    <string name="gym_level">Nível do Ginásio:</string>
+    <string name="gym_points">Pontos do Ginásio:</string>
+    <string name="guards">Pokémon defensores</string>
+    <string name="share_this_gym">Compartilhar este ginásio</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Ei! Há um %s ginásio nível %s here: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Exibir apenas Pokéstops com lure ativo</string>
+    <string name="colors">Cores</string>
+    <string name="ring_color">Círculo de Scan</string>
+    <string name="ring_color_summary">Selecione uma cor para o círculo de scan</string>
+    <string name="ring_border_color">Margem do Círculo de Scan</string>
+    <string name="ring_border_color_summary">Selecione a cor para a margem do círculo de scan</string>
+    <string name="choose_color">Escolher uma cor</string>
+    <string name="main_marker">Marcador principal</string>
+    <string name="main_marker_summary">Exibir um marcador principal no centro da área escaneada</string>
 </resources>
