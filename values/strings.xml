@@ -218,7 +218,7 @@
     <string name="no_mirrors">No mirrors available at the moment. Try later!</string>
     <string name="autotime_error">System date and time needs to be set to automatic in order to see Pokémon on the map. Please, enable automatic date and time!</string>
     <string name="loading">Loading…</string>
-    <string name="visiting_pokestop">Visiting pokestop</string>
+    <string name="visiting_pokestop">Visiting Pokéstop</string>
     <string name="not_lured_contestual">Pokéstop has no active lure module.</string>
     <string name="pokestop_share_title">I just visited a Pokéstop!</string>
     <string name="pokestop_share_content" formatted="false">Hey! there is a %s here: %s</string>
