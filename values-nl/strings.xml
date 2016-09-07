@@ -230,4 +230,23 @@
     <string name="iq_three">Waarvoor dient \'stappen weergeven\'?</string>
     <string name="iq_four">Beloof je dat je alle disclaimers en beschrijvingen aandachtig zult lezen voordat je gaat experimenteren met instellingen?</string>
     <string name="iq_fail">Wellicht beter dat je geen geavanceerde instellingen gebruikt, dit om te voorkomen dat er iets mis gaat</string>
+    <string name="share_this">Deel deze %s</string>
+    <string name="mark_area">Omgeving markeren</string>
+    <string name="mark_area_summary">Geef een markeringscirkel weer op de kaart ter indicatie van de omgeving van een scan stap.</string>
+    <string name="go">Hierheen gaan!</string>
+    <string name="lured_module">Lure module</string>
+    <string name="pokestop_gym_parse_failed">Gegevens ophalen van PokémonGO servers mislukt. Controleer of je scan omgeving in de buurt is van je markering. Probeer nogmaals dichterbij te scannen of probeer het later opnieuw!</string>
+    <string name="gym_level">Gym niveau:</string>
+    <string name="gym_points">Gym prestige:</string>
+    <string name="guards">Beschermers/Pokémon</string>
+    <string name="share_this_gym">Deel deze gym</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Hey! Er is een %s gym niveau %s hier: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Enkel Pokéstops met lure module weergeven</string>
+    <string name="colors">Kleuren</string>
+    <string name="ring_color">Scan markeringscirkel</string>
+    <string name="ring_color_summary">Selecteer de kleur van de scan markeringscirkel</string>
+    <string name="ring_border_color">Scan markeringscirkel rand</string>
+    <string name="ring_border_color_summary">Selecteer de kleur van de rand van de scan markeringscirkel</string>
+    <string name="choose_color">Kies een kleur</string>
 </resources>
