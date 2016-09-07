@@ -214,12 +214,12 @@
     <string name="iq_test_summary">Quindi ti servono le impostazioni avanzate? Fammi verificare se le puoi utilizzare.</string>
     <string name="iq_one">PokéMesh può catturare i Pokémon al posto mio?</string>
     <string name="iq_two">Perché la scansione ci mette così tanto a terminare?</string>
-    <string name="iq_three">Qual'é lo scopo dei marker blu piccolini sulla mappa?</string>
+    <string name="iq_three">Qual\'é lo scopo dei marker blu piccolini sulla mappa?</string>
     <string name="iq_four">Queste impostazioni sono considerate avanzate perché possono interagire e compromettere lo scanner. Prometti di leggere con cautela le descrizioni dei settaggi?</string>
     <string name="iq_fail">Dovresti considerare di utilizzare PokéMesh con le impostazioni che ti sono messe a disposizione onde evitare problemi di vario genere.</string>
     <string name="share_this">Condividi questo %s</string>
     <string name="mark_area">Mark area</string>
-    <string name="mark_area_summary">Mostra un cerchio attorno agli step marker indicando l'area di scansione di ogni step.</string>
+    <string name="mark_area_summary">Mostra un cerchio attorno agli step marker indicando l\'area di scansione di ogni step.</string>
     <string name="go">Vai!</string>
     <string name="lured_module">Modulo esca</string>
     <string name="pokestop_gym_parse_failed">Impossibile ricevere i dati dai server di Pokémon GO. Assicurati che l\'area di scansione sia vicino al punto selezionato. Prova a scansionare ancora attorno al punto selezionato o riprova in seguito se il problema persiste!</string>
