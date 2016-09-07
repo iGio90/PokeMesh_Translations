@@ -197,7 +197,7 @@
     <string name="timers_colors">Kolorowy licznik</string>
     <string name="timers_colors_summary">Włącz lub wyłącz inne kolory licznika bazowane na występowaniu Pokémona.</string>
     <string name="share_remaining">Masz %s do złapania!</string>
-    <string name="get_it">Złapałeś go</string>
+    <string name="get_it">Pobierz</string>
     <string name="whatsnew">Co nowego</string>
     <string name="skip">Pomiń</string>
     <string name="choose_mirror">Wybierz mirror</string>
@@ -209,4 +209,11 @@
     <string name="pokestop_share_title">Odwiedziłem Pokéstop!</string>
     <string name="pokestop_share_content" formatted="false">Hej! jest %s tutaj: %s</string>
     <string name="pokestop_share_content_lured">Pokéstop z aktywnym lure module.</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
+    <string name="pokemesh_enable_advanced">Włącz ustawienia zaawansowane</string>
+    <string name="iq_test_summary">Więc, potrzebujesz zaawansowanych ustawień? Pozwól mi sprawdzić, czy możesz z nich korzystać.</string>
+    <string name="iq_one">Czy PokéMesh łapie Pokémony za Ciebie?</string>
+    <string name="iq_two">Dlaczego zakończenie skanowania trwa tak długo?</string>
+    <string name="iq_three">Jaki jest cel niebieskich znaczników na mapie?</string>
+    <string name="iq_four">Ustawienia te są dla zaawansowanych użytkowników i mogą zakłócać działanie skanera. Czy obiecujesz, że będziesz uważnie czytać opisy?</string>
+    <string name="iq_fail">Być może musisz rozważyć użycie PokéMesha bez zaawansowanych funkcji i zamiast tego cieszyć się aplikacją bez nich.</string>
 </resources>
