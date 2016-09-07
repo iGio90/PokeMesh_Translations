@@ -249,4 +249,6 @@
     <string name="ring_border_color">Scan circle border</string>
     <string name="ring_border_color_summary">Select the color for the borders of the scan circle</string>
     <string name="choose_color">Choose a color</string>
+    <string name="main_marker">Main marker</string>
+    <string name="main_marker_summary">Display the main marker in the center of the scan area</string>
 </resources>
