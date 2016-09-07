@@ -208,4 +208,11 @@
     <string name="pokestop_share_title">Eu acabei de visitar um Pokéstop!</string>
     <string name="pokestop_share_content" formatted="false">Ei! Há um %s aqui: %s</string>
     <string name="pokestop_share_content_lured">O Pokéstop está com lure ativo</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
+    <string name="pokemesh_enable_advanced">Ativar as configurações avançadas</string>
+    <string name="iq_test_summary">Então você precisa das configurações avançadas? Deixe-me checar se você pode usá-las.</string>
+    <string name="iq_one">O PokéMesh consegue capturar Pokémon para mim?</string>
+    <string name="iq_two">Por que o scan demora tanto para ser realizado?</string>
+    <string name="iq_three">Qual o propósito dos marcadores de passos azuis no mapa?</string>
+    <string name="iq_four">Essas configurações são para usuários avançados e pode interferir no funcionamento do scanner. Você promete que lerá as descrições cuidadosamente?</string>
+    <string name="iq_fail">Talvez você deva considerar usar PokéMesh sem alterar as configurações avançadas e curtir app sem elas.</string>
 </resources>
