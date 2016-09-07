@@ -230,4 +230,23 @@
     <string name="iq_three">What is the purpose of the blue Step Markers on the map?</string>
     <string name="iq_four">These settings are for advanced users and may interfere with the functioning of the scanner. Do you promise that you will read the descriptions carefully?</string>
     <string name="iq_fail">Perhaps you should consider using PokéMesh without any advanced features and instead enjoy the app without them.</string>
+    <string name="share_this">Share this %s</string>
+    <string name="mark_area">Mark area</string>
+    <string name="mark_area_summary">Display a circle with the range for each step on the live map.</string>
+    <string name="go">Go there!</string>
+    <string name="lured_module">Lure module</string>
+    <string name="pokestop_gym_parse_failed">Failed to receive data from PokémonGO servers. Ensure that your scan area is close to this marker. Try to scan again close to the selected marker or later if the problem persists!</string>
+    <string name="gym_level">Gym level:</string>
+    <string name="gym_points">Gym points:</string>
+    <string name="guards">Guard Pokémon</string>
+    <string name="share_this_gym">Share this gym</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Hey! there is a %s gym level %s here: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Display only lured Pokéstops</string>
+    <string name="colors">Colors</string>
+    <string name="ring_color">Scan circle</string>
+    <string name="ring_color_summary">Select the color for the scan circle</string>
+    <string name="ring_border_color">Scan circle border</string>
+    <string name="ring_border_color_summary">Select the color for the borders of the scan circle</string>
+    <string name="choose_color">Choose a color</string>
 </resources>
