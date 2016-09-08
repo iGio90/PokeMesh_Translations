@@ -13,7 +13,7 @@
     <string name="pokemesh_search_pokemons">Cerca un Pokémon</string>
     <string name="pokemesh_stop_scan">Para la cerca</string>
     <string name="pokemesh_finding_pokemons">Buscant Pokémon als voltants…</string>
-    <string name="pokemesh_login_error">La connexió ha fallat! És possible que els servidors de Pokémon Go hagin caigut!</string>
+    <string name="pokemesh_login_error">La connexió ha fallat! És possible que els servidors de Pokémon GO hagin caigut!</string>
     <string name="pokemesh_pokemesh_summary">Localitzador automàtic de Pokémon propers. Habilitant Pokémesh se\'t notificarà si un Pokémon és prop de la teva ubicació actual.</string>
     <string name="pokemesh_last_seen">Vist per última vegada: %s</string>
     <string name="pokemesh_never">Mai</string>
@@ -60,7 +60,7 @@
     <string name="pokemesh_login_ptc_disabled">L\'inici de sessió amb PTC està actualment desactivat!</string>
     <string name="pokemesh_login_google">Inicia la sessió amb Google</string>
     <string name="pokemesh_important">Important</string>
-    <string name="pokemesh_login_google_summary">Per a evitar temps d\'inactivitat, a partir d\'ara l\'aplicació es conectará a través dels servidors de Google.\nSi el teu compte de Pokémon GO es connecta a través de Gmail, et recomanem fer ús d\'un compte alternatiu per a evitar que t\'expulsin temporal o permanentment.\nSi no tens un compte alternatiu de Gmail, pots registrar-ne un ara.\n\nUn cop hagis registrat el compte, hi hauràs d\'entrar utilitzant el Pokémon Go i acceptar els seus Termes i condicions d\'ús!</string>
+    <string name="pokemesh_login_google_summary">Per a evitar temps d\'inactivitat, a partir d\'ara l\'aplicació es conectará a través dels servidors de Google.\nSi el teu compte de Pokémon GO es connecta a través de Gmail, et recomanem fer ús d\'un compte alternatiu per a evitar que t\'expulsin temporal o permanentment.\nSi no tens un compte alternatiu de Gmail, pots registrar-ne un ara.\n\nUn cop hagis registrat el compte, hi hauràs d\'entrar utilitzant el Pokémon GO i acceptar els seus Termes i condicions d\'ús!</string>
     <string name="pokemesh_register">Registrar-se a Gmail</string>
     <string name="pokemesh_already_have_account">Ja tinc un compte alternatiu de Gmail</string>
 
@@ -99,8 +99,8 @@
     <string name="pokemesh_advanced_summary">Atenció: Ajustar aquests valors afectarà el temps que tardarà cada escaneig a finalitzar.</string>
     <string name="pokemesh_scan_area_summary">Selecciona el radi de l\'àrea d\'escaneig per a incrementar o disminuir els passos de la ubicació seleccionada/actual.</string>
     <string name="pokemesh_scan_distance">Distància dels passos</string>
-    <string name="pokemesh_scan_distance_summary">Selecciona la distància en metres entre les passes.</string>
-    <string name="pokemesh_scan_steps_marker">Marcar passes</string>
+    <string name="pokemesh_scan_distance_summary">Selecciona la distància en metres entre els passos.</string>
+    <string name="pokemesh_scan_steps_marker">Marcar els passos</string>
     <string name="pokemesh_scan_steps_marker_summary">Mostra una marcador per cada pas d\'escaneig en el mapa.</string>
     <string name="pokemesh_news">Notícies</string>
     <string name="pokemesh_faq">Preguntes freqüents</string>
@@ -137,7 +137,7 @@
     <string name="password">Contrasenya</string>
     <string name="username_empty">Insereix un nom d\'usuari vàlid!</string>
     <string name="password_empty">Insereix una contrasenya vàlida!</string>
-    <string name="pokemesh_login_error_multiacct">L\'inici de sessió ha fallat amb el compte: %s. El compte pot haver estat desactivat o els servidors de PokémonGO han caigut.</string>
+    <string name="pokemesh_login_error_multiacct">L\'inici de sessió ha fallat amb el compte: %s. El compte pot haver estat desactivat o els servidors de Pokémon GO han caigut.</string>
     <string name="take_me_there">Porta\'m fins allà!</string>
     <string name="pokemon_share_title">Acabo de trobar un %s utilitzant PokéMesh!</string>
     <string name="pokemon_share_content" formatted="false">Ep! Hi ha un %s aquí: %s</string>
@@ -210,4 +210,32 @@
     <string name="pokestop_share_title">Acavo de visitar una Poképarada!</string>
     <string name="pokestop_share_content" formatted="false">Ep! Hi ha un %s aquí: %s</string>
     <string name="pokestop_share_content_lured">La Poképarada té un módul d\'esquer actiu</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
+    <string name="pokemesh_enable_advanced">Activar opcions avançades</string>
+    <string name="iq_test_summary">De debò necessites les opcions avançades? Comprovarem si les hauries de canviar.</string>
+    <string name="iq_one">Pot PokéMesh caçar els Pokémon per a mi?</string>
+    <string name="iq_two">Perquè l\'escaneig tarda tanta estona a completar-se?</string>
+    <string name="iq_three">Quin és el propòsit dels marcadors de passos blaus que apareixen al mapa?</string>
+    <string name="iq_four">Aquestes opcions són per a usuaris avançats i poden interferir amb el funcionament de l\'escaner. Promets que llegiràs les descripcions amb molta cura?</string>
+    <string name="iq_fail">Potser hauríes de considerar el fer servir PokéMesh sense les opcions avançades i gaudir de l\'aplicació sense elles.</string>
+    <string name="share_this">Comparteix aquest %s</string>
+    <string name="mark_area">Mostrar àrea</string>
+    <string name="mark_area_summary">Mostra un cercle amb el rang per cada pas del mapa.</string>
+    <string name="go">Ves-hi!</string>
+    <string name="lured_module">Mòdul d\'esquer</string>
+    <string name="pokestop_gym_parse_failed">No s\'ha pogut rebre dades dels servidors de Pokémon GO. Assegura\'t que la teva àrea d\'escaneig és a prop d\'aquest marcador. Prova d\'escanejar un altre cop a prop del marcador seleccionat o més tard si el problema persisteix!</string>
+    <string name="gym_level">Nivell de gimnàs:</string>
+    <string name="gym_points">Punts de gimnàs:</string>
+    <string name="guards">Pokémon guarda</string>
+    <string name="share_this_gym">Comparteix aquest gimnàs</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Ep! Hi ha un gimnàs %s de nivell %s aquí: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Mostra només Poképarades amb esquer</string>
+    <string name="colors">Colors</string>
+    <string name="ring_color">Cercle d\'escaneig</string>
+    <string name="ring_color_summary">Selecciona el color del cercle d\'escaneig</string>
+    <string name="ring_border_color">Contorn del cercle</string>
+    <string name="ring_border_color_summary">Selecciona el color del contorn del cercle d\'escaneig</string>
+    <string name="choose_color">Selecciona un color</string>
+    <string name="main_marker">Marcador principal</string>
+    <string name="main_marker_summary">Mostra el marcador principal al centre de l\'àrea d\'escaneig</string>
 </resources>
