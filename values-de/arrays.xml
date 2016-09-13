@@ -60,12 +60,12 @@
     </string-array>
     <string-array name="iq_three_replies">
         <item>Eine neue Art von Arenen und Pokéstops</item>
-        <item>A little marker indicating the position of the current scan sub-area</item>
+        <item>Eine kleine Markierung die die Position des aktuellen Zwischen-Scan Bereich anzeigt</item>
         <item>Eine kleine Markierung die die Scandauer verringern wird</item>
         <item>Ich weiß es nicht</item>
     </string-array>
     <string-array name="iq_four_replies">
-        <item>Ja. Ich schwöre!</item>
+        <item>Ja. Ich verspreche es!</item>
         <item>Nein, Entschuldigung!</item>
     </string-array>
     </resources>
