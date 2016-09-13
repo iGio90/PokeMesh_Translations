@@ -206,4 +206,24 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="iq_three">¿Cuál es el propósito de los marcadores azules en el mapa?</string>
     <string name="iq_four">Estos ajustes son para usuarios avanzados y puede interferir con la funcionalidad del buscador. ¿Prometes Que vas a leer las descripciónes con cuidado?</string>
     <string name="iq_fail">Quizá deberias considerar utilizar PokéMesh sin ningún ajuste avanzado y disfrutar de la aplicación sin ellos.</string>
+    <string name="mark_area">Marcar área</string>
+    <string name="mark_area_summary">Mostrar un circulo con el rango de cada etapa en el mapa.</string>
+    <string name="go">Ir ahí!</string>
+    <string name="lured_module">Módulo Cebo</string>
+    <string name="pokestop_gym_parse_failed">Error al recibir la información de los servidores de PokémonGO. Asegúra que el área escaneado está cerca del marcador. Intenta escanear cerca del marcador selecionado o sino inténtalo mas tarde si el problema persiste!</string>
+    <string name="gym_level">Nivel de Gimnasio:</string>
+    <string name="gym_points">Puntos de Gimnasio:</string>
+    <string name="guards">Pokémons guardianes</string>
+    <string name="share_this_gym">Compartir este gimnasio</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">PC: %s</string>
+    <string name="gym_share" formatted="false">Hey! hay un gimnasio %s nivel %s aquí: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Mostrar solo PokeParadas con módulo cebo.</string>
+    <string name="colors">Colores</string>
+    <string name="ring_color">Círculo de barrido</string>
+    <string name="ring_color_summary">Selecciona el color del circulo barrido</string>
+    <string name="ring_border_color">Borde del circulo barrido</string>
+    <string name="ring_border_color_summary">Seleciona el color de los bordes del circulo barrido</string>
+    <string name="choose_color">Elegir un color</string>
+    <string name="main_marker">Marcador principal</string>
+    <string name="main_marker_summary">Mostrar el marcador principal en el centro del circulo barrido</string>
 </resources>
