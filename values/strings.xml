@@ -251,4 +251,27 @@
     <string name="choose_color">Choose a color</string>
     <string name="main_marker">Main marker</string>
     <string name="main_marker_summary">Display the main marker in the center of the scan area</string>
+    <string name="pokemesh_meshed_new" formatted="false">There is a %s here: %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">There are some Pokémon around %s!</string>
+    <string name="rarity">Rarity</string>
+    <string name="rarity_summary">Edit the rarity for this Pokémon</string>
+    <string name="select_rarity">Select rarity</string>
+    <string name="force_notification">Force vibration and sounds when this pokémon is detected. (Note: this require sounds and vibrations enabled through preferences)</string>
+    <string name="pokemesh_open">PokéMesh is running</string>
+    <string name="advanced_scan">Advanced scan</string>
+    <string name="advanced_scan_summary">Enable or disable advanced scan mode</string>
+    <string name="last_visit">Last scanned position: %s</string>
+    <string name="none">None</string>
+    <string name="encounter">Encounter</string>
+    <string name="pokemon_fetch_failed">There was an error while trying to retrive Pokémon data. Try later!</string>
+    <string name="account_group_summary">Account group: %s</string>
+    <string name="remove_account_short">Remove account</string>
+    <string name="new_group">New group</string>
+    <string name="choose_group">Select a group</string>
+    <string name="remove_group">Remove from current group</string>
+    <string name="group_name">Group name</string>
+    <string name="all">All</string>
+    <string name="pokemesh_logging_in_acct">Connecting accounts…</string>
+    <string name="pokemesh_connected_acct">PokéMesh accounts ready to scan</string>
+    <string name="select_group">Select a group</string>
 </resources>
