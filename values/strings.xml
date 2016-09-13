@@ -274,4 +274,6 @@
     <string name="pokemesh_logging_in_acct">Connecting accounts…</string>
     <string name="pokemesh_connected_acct">PokéMesh accounts ready to scan</string>
     <string name="select_group">Select a group</string>
+    <string name="def">Default</string>
+    <string name="select_steps">Select range</string>
 </resources>
