@@ -217,4 +217,25 @@
     <string name="iq_three">Was ist der Sinn der blauen Schritt Markierungen auf der Karte?</string>
     <string name="iq_four">Diese Einstellungen sind für erfahrende Nutzer und koennen in die Funktionen des Scanners eingreifen. Versprichst du, dass du dir die Beschreibung sorgsam durchliest?</string>
     <string name="iq_fail">Vielleicht solltest du ueberlegen PokéMesh ohne irgendwelchen ertweiterten Einstellungen zu nutzen und lieber die App ohne sie nutzen.</string>
+    <string name="share_this">Teile dieses %s</string>
+    <string name="mark_area">Markierungsbereich</string>
+    <string name="mark_area_summary">Zeige einen Kreis mit dem Radius fuer jedem Schritt auf der Live Karte.</string>
+    <string name="go">Geh dorthin!</string>
+    <string name="lured_module">Lock Modul</string>
+    <string name="pokestop_gym_parse_failed">Keine Daten von den PokémonGO Servern erhalten. Stelle sicher, dass dein Scan Bereich in der naehe dieser Markierung ist. Versuche neu in der naehe des ausgewaehlten Markierung zu scannen oder spaeter falls das Problem weiterhin besteht!</string>
+    <string name="gym_level">Arena Level:</string>
+    <string name="gym_points">Arena Punkte:</string>
+    <string name="guards">Bewachende Pokémon</string>
+    <string name="share_this_gym">Teile diese Arena</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Hey! hier ist eine %s Arena Level %s : %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Zeige nur gelockte Pokéstops</string>
+    <string name="colors">Farben</string>
+    <string name="ring_color">Scan Kreis</string>
+    <string name="ring_color_summary">Waehle die Farbe fuer den Scan Kreis</string>
+    <string name="ring_border_color">Scan Kreis Rand</string>
+    <string name="ring_border_color_summary">Waehle die Farbe fuer den Scan Kreis Rand</string>
+    <string name="choose_color">Waehle eine Farbe</string>
+    <string name="main_marker">Hauptmarkierung</string>
+    <string name="main_marker_summary">Zeige die Haupt-Markierung in der Mitte von den Scan Bereich</string>
 </resources>
