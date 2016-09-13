@@ -48,4 +48,25 @@
         <item>Èpic</item>
         <item>Llegendari</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Sí</item>
+        <item>Això crec…</item>
+        <item>No, encara hauràs de trobar el Pokémon dins el joc i caçar-lo.</item>
+        <item>Només alguns</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Perquè hi ha un límit de 10 segons per a prevenir que em bloquegin</item>
+        <item>Perquè els desenvolupadors m\'odien</item>
+        <item>Perquè la meva conexió és una mica lenta</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Un nou tipus de gimnasos i Poképarades</item>
+        <item>Un petit marcador que incida la posició de la sub-area de l\'escaneig actual</item>
+        <item>Un petit marcador que disminuirà el temps d\'escaneig</item>
+        <item>No ho sé</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Sí. Ho prometo!</item>
+        <item>No, ho sento!</item>
+    </string-array>
 </resources>
