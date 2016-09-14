@@ -236,4 +236,29 @@
     <string name="choose_color">Escolher uma cor</string>
     <string name="main_marker">Marcador principal</string>
     <string name="main_marker_summary">Exibir um marcador principal no centro da área escaneada</string>
+    <string name="pokemesh_meshed_new" formatted="false">Há um %s aqui: %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">Há alguns Pokémon em torno %s!</string>
+    <string name="rarity">Raridade</string>
+    <string name="rarity_summary">Editar a raridade para este Pokémon</string>
+    <string name="select_rarity">Selecione a raridade</string>
+    <string name="force_notification">Forçar vibração e sons quando este pokémon for detectado. (Nota: essa opção exige que sons e vibrações estejam ativados)</string>
+    <string name="pokemesh_open">PokéMesh está em execução</string>
+    <string name="advanced_scan">Scan avançado</string>
+    <string name="advanced_scan_summary">Ativar ou desativar o modo de scan avançado</string>
+    <string name="last_visit">Última posição escaneada: %s</string>
+    <string name="none">Nenhum</string>
+    <string name="encounter">Encontro</string>
+    <string name="pokemon_fetch_failed">Aconteceu um erro ao tentar receber dados do Pokémon data. Tente mais tarde!</string>
+    <string name="account_group_summary">Grupo de conta: %s</string>
+    <string name="remove_account_short">Remover conta</string>
+    <string name="new_group">Novo grupo</string>
+    <string name="choose_group">Selecione um grupo</string>
+    <string name="remove_group">Remover do grupo atual</string>
+    <string name="group_name">Nome do Grupo</string>
+    <string name="all">Todos</string>
+    <string name="pokemesh_logging_in_acct">Conectando contas…</string>
+    <string name="pokemesh_connected_acct">As contas do PokéMesh estão prontas para realizar o scan</string>
+    <string name="select_group">Selecione um grupo</string>
+    <string name="def">Padrão</string>
+    <string name="select_steps">Selecione o alcance</string>
 </resources>
