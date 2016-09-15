@@ -225,7 +225,7 @@
     <string name="pokestop_gym_parse_failed">No s\'ha pogut rebre dades dels servidors de Pokémon GO. Assegura\'t que la teva àrea d\'escaneig és a prop d\'aquest marcador. Prova d\'escanejar un altre cop a prop del marcador seleccionat o més tard si el problema persisteix!</string>
     <string name="gym_level">Nivell de gimnàs:</string>
     <string name="gym_points">Punts de gimnàs:</string>
-    <string name="guards">Pokémon guarda</string>
+    <string name="guards">Pokémon guardians</string>
     <string name="share_this_gym">Comparteix aquest gimnàs</string>
     <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
     <string name="gym_share" formatted="false">Ep! Hi ha un gimnàs %s de nivell %s aquí: %s</string>
@@ -238,4 +238,29 @@
     <string name="choose_color">Selecciona un color</string>
     <string name="main_marker">Marcador principal</string>
     <string name="main_marker_summary">Mostra el marcador principal al centre de l\'àrea d\'escaneig</string>
+    <string name="pokemesh_meshed_new" formatted="false">Hi ha un %s aquí: %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">Hi ha alguns Pokémon al voltant %s!</string>
+    <string name="rarity">Raresa</string>
+    <string name="rarity_summary">Edita la raresa d\'aquest Pokémon</string>
+    <string name="select_rarity">Selecciona la raresa</string>
+    <string name="force_notification">Força la vibració i sons quan es detecta un Pokémon. (Nota: aquesta opció requereix els sons i les vibracions activades a través de les preferències)</string>
+    <string name="pokemesh_open">PokéMesh s\'està executant</string>
+    <string name="advanced_scan">Escaneig avançat</string>
+    <string name="advanced_scan_summary">Activa o desactiva l\'escaneig avançat</string>
+    <string name="last_visit">Última posició escanejada: %s</string>
+    <string name="none">Cap</string>
+    <string name="encounter">Trobada</string>
+    <string name="pokemon_fetch_failed">Hi ha hagut un error quan s\'ha intentat recuperar les dades de Pokémon. Prova-ho més tard!</string>
+    <string name="account_group_summary">Grup de comptes: %s</string>
+    <string name="remove_account_short">Elimina compte</string>
+    <string name="new_group">Nou grup</string>
+    <string name="choose_group">Selecciona un grup</string>
+    <string name="remove_group">Elimina del grup actual</string>
+    <string name="group_name">Nom del grup</string>
+    <string name="all">Tots</string>
+    <string name="pokemesh_logging_in_acct">Connectant els comptes…</string>
+    <string name="pokemesh_connected_acct">Comptes de PokéMesh llestos per a escanejar</string>
+    <string name="select_group">Selecciona un grup</string>
+    <string name="def">Defecte</string>
+    <string name="select_steps">Selecciona el rang</string>
 </resources>
