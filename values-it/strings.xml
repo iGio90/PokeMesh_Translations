@@ -197,4 +197,45 @@
     <string name="visited_by">Visitato dall\'account: %s</string>
     <string name="timers_colors">Timer colorato per rarità</string>
     <string name="timers_colors_summary">Abilita o disabilita colori differenti per il timer in base alla rarità dei Pokémon.</string>
+    <string name="share_remaining">Hai ancora %s per catturarlo!</string>
+    <string name="get_it">Scaricalo!</string> <!-- this is meant for -> New version of PokéMesh available -> Get it! -->
+    <string name="whatsnew">Novità</string>
+    <string name="skip">Salta</string>
+    <string name="choose_mirror">Seleziona una fonte</string>
+    <string name="no_mirrors">Non ci sono fonti disponibili al momento. Riprova in seguito!</string>
+    <string name="autotime_error">La data e l\'ora di sistema devono essere impostate su automatico per poter visualizzare i Pokémon sulla mappa. Perfavore, abilita la data e l\'ora automatiche!</string>
+    <string name="loading">Caricamentio…</string>
+    <string name="visiting_pokestop">Visito il Pokéstop</string>
+    <string name="not_lured_contestual">Questo Pokéstop non ha moduli esca attivi.</string>
+    <string name="pokestop_share_title">Ho appena visitato un Pokéstop!</string>
+    <string name="pokestop_share_content" formatted="false">Hey! c\'è un %s qui: %s</string>
+    <string name="pokestop_share_content_lured">Pokéstop con modulo esca attivo</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
+    <string name="pokemesh_enable_advanced">Enable advanced settings</string>
+    <string name="iq_test_summary">Quindi ti servono le impostazioni avanzate? Fammi verificare se le puoi utilizzare.</string>
+    <string name="iq_one">PokéMesh può catturare i Pokémon al posto mio?</string>
+    <string name="iq_two">Perché la scansione ci mette così tanto a terminare?</string>
+    <string name="iq_three">Qual\'é lo scopo dei marker blu piccolini sulla mappa?</string>
+    <string name="iq_four">Queste impostazioni sono considerate avanzate perché possono interagire e compromettere lo scanner. Prometti di leggere con cautela le descrizioni dei settaggi?</string>
+    <string name="iq_fail">Dovresti considerare di utilizzare PokéMesh con le impostazioni che ti sono messe a disposizione onde evitare problemi di vario genere.</string>
+    <string name="share_this">Condividi questo %s</string>
+    <string name="mark_area">Mark area</string>
+    <string name="mark_area_summary">Mostra un cerchio attorno agli step marker indicando l\'area di scansione di ogni step.</string>
+    <string name="go">Vai!</string>
+    <string name="lured_module">Modulo esca</string>
+    <string name="pokestop_gym_parse_failed">Impossibile ricevere i dati dai server di Pokémon GO. Assicurati che l\'area di scansione sia vicino al punto selezionato. Prova a scansionare ancora attorno al punto selezionato o riprova in seguito se il problema persiste!</string>
+    <string name="gym_level">Livello palestra:</string>
+    <string name="gym_points">Punti palestra:</string>
+    <string name="guards">Pokémon di guardia</string>
+    <string name="share_this_gym">Condividi palestra</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">PL: %s</string>
+    <string name="gym_share" formatted="false">Hey! c\'è una palestra %s di livello %s qui: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Mostra solo i Pokéstops con modulo esca</string>
+    <string name="colors">Colori</string>
+    <string name="ring_color">Scan circle</string>
+    <string name="ring_color_summary">Seleziona il colore del ring di scansione</string>
+    <string name="ring_border_color">Bordi scan circle</string>
+    <string name="ring_border_color_summary">Seleziona il colore dei bordi del ring di scansione</string>
+    <string name="choose_color">Scegli un colore</string>
+    <string name="main_marker">Marker principale</string>
+    <string name="main_marker_summary">Mostra o nascondi il marker principale dal centro dell\'area di scansione</string>
 </resources>

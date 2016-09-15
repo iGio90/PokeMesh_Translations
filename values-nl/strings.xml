@@ -1,19 +1,4 @@
 <resources>
-    <string name="app_name" translatable="false">PokéMesh</string>
-
-    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3187897317987192/7514856660</string>
-    <string name="facebook_app_id" translatable="false">1679594909028603</string>
-    <string name="spanish_translations_credits" translatable="false">masterojitos</string>
-    <string name="german_translations_credits" translatable="false">yv35p00l</string>
-    <string name="french_translations_credits" translatable="false">Avenbeard</string>
-    <string name="russian_translations_credits" translatable="false">LionisIAm</string>
-    <string name="dutch_translations_credits" translatable="false">Tashla, TheNumber4</string>
-    <string name="portuguese_translations_credits" translatable="false">gabrielfvale</string>
-    <string name="treaditional_chinese_translations_credits" translatable="false">alandai28</string>
-
-    <string name="pokemesh_follow_facebook" translatable="false">/PokeMesh</string>
-    <string name="pokemesh_follow_twitter" translatable="false">\@PokeMeshApp</string>
-
     <string name="pokemesh_title_activity_maps">Kaart</string>
     <string name="pokemesh_scan">Scannen</string>
     <string name="pokemesh_login">Aanmelden</string>
@@ -210,4 +195,43 @@
     <string name="visited_by">Gescand met account: %s</string>
     <string name="timers_colors">Timer zeldzaamheidskleur</string>
     <string name="timers_colors_summary">In- of uitschakelen van kleurweergaven van timers gebaseerd op de zeldzaamheid van de Pokémon.</string>
+    <string name="share_remaining">Je hebt nog %s om het te vangen!</string>
+    <string name="get_it">Nu downloaden</string>
+    <string name="whatsnew">Wat is er nieuw?</string>
+    <string name="skip">Overslaan</string>
+    <string name="choose_mirror">Selecteer een mirror</string>
+    <string name="no_mirrors">Er zijn momenteel geen mirrors beschikbaar. Probeer het later opnieuw!</string>
+    <string name="autotime_error">Systeem datum en tijd dienen op automatisch ingesteld te zijn, anders verschijnen er geen Pokémon op de kaart. Gelieve automatische tijdupdates in te schakelen!</string>
+    <string name="loading">Laden…</string>
+    <string name="visiting_pokestop">Pokéstop bezoeken</string>
+    <string name="not_lured_contestual">Pokéstop zonder actieve lure module</string>
+    <string name="pokestop_share_title">Ik heb zojuist een Pokéstop bezocht!</string>
+    <string name="pokestop_share_content" formatted="false">Hey! Er is hier een %s! %s</string>
+    <string name="pokestop_share_content_lured">Pokéstop met actieve lure module</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
+    <string name="pokemesh_enable_advanced">Geavanceerde instellingen weergeven</string>
+    <string name="iq_test_summary">Dus, jij wilt geavanceerde instellingen? Even testen of je dat wel aan kan.</string>
+    <string name="iq_one">Is het mogelijk om Pokémon te vangen in PokéMesh?</string>
+    <string name="iq_two">Waaorm duurt het zo lang voordat mijn scan klaar is?</string>
+    <string name="iq_three">Waarvoor dient \'stappen weergeven\'?</string>
+    <string name="iq_four">Beloof je dat je alle disclaimers en beschrijvingen aandachtig zult lezen voordat je gaat experimenteren met instellingen?</string>
+    <string name="iq_fail">Wellicht beter dat je geen geavanceerde instellingen gebruikt, dit om te voorkomen dat er iets mis gaat</string>
+    <string name="share_this">Deel deze %s</string>
+    <string name="mark_area">Omgeving markeren</string>
+    <string name="mark_area_summary">Geef een markeringscirkel weer op de kaart ter indicatie van de omgeving van een scan stap.</string>
+    <string name="go">Hierheen gaan!</string>
+    <string name="lured_module">Lure module</string>
+    <string name="pokestop_gym_parse_failed">Gegevens ophalen van PokémonGO servers mislukt. Controleer of je scan omgeving in de buurt is van je markering. Probeer nogmaals dichterbij te scannen of probeer het later opnieuw!</string>
+    <string name="gym_level">Gym niveau:</string>
+    <string name="gym_points">Gym prestige:</string>
+    <string name="guards">Beschermers/Pokémon</string>
+    <string name="share_this_gym">Deel deze gym</string>
+    <string name="gym_pokemon_guard_cp" formatted="false">CP: %s</string>
+    <string name="gym_share" formatted="false">Hey! Er is een %s gym niveau %s hier: %s</string>
+    <string name="pokemesh_pokestops_lured_summary">Enkel Pokéstops met lure module weergeven</string>
+    <string name="colors">Kleuren</string>
+    <string name="ring_color">Scan markeringscirkel</string>
+    <string name="ring_color_summary">Selecteer de kleur van de scan markeringscirkel</string>
+    <string name="ring_border_color">Scan markeringscirkel rand</string>
+    <string name="ring_border_color_summary">Selecteer de kleur van de rand van de scan markeringscirkel</string>
+    <string name="choose_color">Kies een kleur</string>
 </resources>

@@ -48,4 +48,25 @@
         <item>Epici</item>
         <item>Leggendari</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Si</item>
+        <item>Penso di si…</item>
+        <item>No, devo comunque catturarli attraverso il gioco ufficiale</item>
+        <item>Solo alcuni di essi</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Perché c\'è un limite di 10 secondi imposto per prevenire il ban del mio account</item>
+        <item>Perché gli sviluppatori mi odiano</item>
+        <item>Perché la mia connessione è un po lenta</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Un nuovo tipo di Palestre e Pokéstops</item>
+        <item>Un piccolo marker che mostra la zona di scansione di ogni step di scansione</item>
+        <item>Un piccolo marker che riduce i tempi di scansione</item>
+        <item>Non lo so</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Si, prometto!</item>
+        <item>No, mi dispiace!</item>
+    </string-array>
 </resources>

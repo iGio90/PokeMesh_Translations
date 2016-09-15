@@ -47,4 +47,25 @@
  +        <item>Épico</item>
  +        <item>Legendario</item>
  +    </string-array>
+    <string-array name="iq_one_replies">
+        <item>Sí</item>
+        <item>Eso creo…</item>
+        <item>No</item>
+        <item>Algunos</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Porque hay un limite de 10 segundos para prevenir el baneo de mi cuenta</item>
+        <item>Porque los desarrolladores me odian</item>
+        <item>Porque mi conexión es lenta</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Un nuevo tipo de Gimnasios y PokeParadas</item>
+        <item>Un pequeño marcador que indica la posición del área de sub-exploración</item>
+        <item>Un pequeño marcador que disminuira el tiempo de búsqueda</item>
+        <item>No lo sé</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Sí. Lo juro!</item>
+        <item>No, lo siento!</item>
+    </string-array>
 </resources>

@@ -48,4 +48,25 @@
         <item>Epickie</item>
         <item>Legendarne</item>
     </string-array>
+    <string-array name="iq_one_replies">
+        <item>Tak</item>
+        <item>Tak myślę…</item>
+        <item>Nie, ciągle muszę znaleźć Pokémona w grze i złapać go samodzielnie</item>
+        <item>Tylko niektóre z nich</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>Ponieważ istnieje limit 10 sekund by zapobiegać zbanowania konta</item>
+        <item>Ponieważ programiści nienawidzą mnie</item>
+        <item>Ponieważ moje połączenie jest dosyć powolne</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>Nowy rodzaj Gymów i Pokéstopów</item>
+        <item>Mały znacznik pokazujący pozycję aktualnego skanowania podobszaru</item>
+        <item>Mały znacznik który będzie zmniejszał czas skanowania</item>
+        <item>Nie wiem</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>Tak. Obiecuję!</item>
+        <item>Nie, przepraszam!</item>
+    </string-array>
 </resources>
