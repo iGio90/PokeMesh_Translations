@@ -226,29 +226,4 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="choose_color">Elegir un color</string>
     <string name="main_marker">Marcador principal</string>
     <string name="main_marker_summary">Mostrar el marcador principal en el centro del circulo barrido</string>
-    <string name="pokemesh_meshed_new" formatted="false">Hay un %s aquí: %s!</string>
-    <string name="pokemesh_big_multi_meshed_new">Hay algunos Pokémon cerca %s!</string>
-    <string name="rarity">Rareza</string>
-    <string name="rarity_summary">Cambia la rareza de este Pokémon</string>
-    <string name="select_rarity">Seleccionar rareza</string>
-    <string name="force_notification">Forzar vibracion y sonido cuando este pokémon es detectado.(Nota: esto requiere vibración y sonido habilitado en preferencias)</string>
-    <string name="pokemesh_open">PokéMesh se está ejecutando</string>
-    <string name="advanced_scan">Escaneo avanzado</string>
-    <string name="advanced_scan_summary">Habilitar o deshabilitar escaneo avanzado</string>
-    <string name="last_visit">Última posición escaneada: %s</string>
-    <string name="none">Nada</string>
-    <string name="encounter">Encotrado</string>
-    <string name="pokemon_fetch_failed">Se ha producido un error mientras se recibia los datos de Pokémon. Inténtalo mas tarde!</string>
-    <string name="account_group_summary">Grupos de cuentas: %s</string>
-    <string name="remove_account_short">Quitar cuenta</string>
-    <string name="new_group">Nuevo grupo</string>
-    <string name="choose_group">Seleccionar grupo</string>
-    <string name="remove_group">Quitar del grupo presente</string>
-    <string name="group_name">Nombre del grupo</string>
-    <string name="all">Todo</string>
-    <string name="pokemesh_logging_in_acct">Conectando cuentas…</string>
-    <string name="pokemesh_connected_acct">Cuentas de PokéMesh listas para escanear</string>
-    <string name="select_group">Selecciona un grupo</string>
-    <string name="def">Defecto</string>
-    <string name="select_steps">Selecciona rango</string>
 </resources>
