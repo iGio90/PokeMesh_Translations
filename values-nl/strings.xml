@@ -234,4 +234,31 @@
     <string name="ring_border_color">Scan markeringscirkel rand</string>
     <string name="ring_border_color_summary">Selecteer de kleur van de rand van de scan markeringscirkel</string>
     <string name="choose_color">Kies een kleur</string>
+    <string name="main_marker">Hoofdmarkering</string>
+    <string name="main_marker_summary">Geef de hoofdmarkering weer in het midden van de scanomgeving</string>
+    <string name="pokemesh_meshed_new" formatted="false">Er is hier een %s: %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">Er zijn meerdere Pokémon in de buurt van %s!</string>
+    <string name="rarity">Zeldzaamheid</string>
+    <string name="rarity_summary">Bewerk de zeldzaamheidsindeling voor deze Pokémon</string>
+    <string name="select_rarity">Selecteer zeldzaamheid</string>
+    <string name="force_notification">Forceer vibratie en geluid zodra deze Pokémon gevonden wordt. (let wel: hiervoor dienen vibratie- en geluidnotificaties ingeschakeld te zijn)</string>
+    <string name="pokemesh_open">PokéMesh is actief</string>
+    <string name="advanced_scan">Geavanceerd scannen</string>
+    <string name="advanced_scan_summary">In- of uitschakelen van geavanceerde scanmodus</string>
+    <string name="last_visit">Laatst gescande locatie: %s</string>
+    <string name="none">Geen</string>
+    <string name="encounter">Ontmoeting</string>
+    <string name="pokemon_fetch_failed">Er is een probleem opgetreden tijdens het ophalen van Pokémon data. Probeer het later opnieuw!</string>
+    <string name="account_group_summary">Account groep: %s</string>
+    <string name="remove_account_short">Account verwijderen</string>
+    <string name="new_group">Nieuwe groep</string>
+    <string name="choose_group">Selecteer een groep</string>
+    <string name="remove_group">Ontkoppelen van huidige groep</string>
+    <string name="group_name">Groepnaam</string>
+    <string name="all">Alle</string>
+    <string name="pokemesh_logging_in_acct">Accounts verbinden…</string>
+    <string name="pokemesh_connected_acct">PokéMesh accounts klaar voor gebruik</string>
+    <string name="select_group">Selecteer een groep</string>
+    <string name="def">Standaard</string>
+    <string name="select_steps">Selecteer scanbereik</string>
 </resources>
