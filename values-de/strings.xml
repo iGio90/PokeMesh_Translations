@@ -238,4 +238,29 @@
     <string name="choose_color">Waehle eine Farbe</string>
     <string name="main_marker">Hauptmarkierung</string>
     <string name="main_marker_summary">Zeige die Haupt-Markierung in der Mitte von den Scan Bereich</string>
+    <string name="pokemesh_meshed_new" formatted="false">Hier ist ein %s Hier: %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">Hier sind ein paar Pokémon in der Naehe %s!</string>
+    <string name="rarity">Seltenheit</string>
+    <string name="rarity_summary">Bearbeite die Seltenheit fuer dieses Pokémon</string>
+    <string name="select_rarity">Waehle Seltenheit</string>
+    <string name="force_notification">Erzwinge Vibrationen und Sounds wenn dieses Pokémon gefunden wurde. (Hinweis: Du musst Vibrationen und Sounds in den Einstellungen aktiviert haben)</string>
+    <string name="pokemesh_open">PokéMesh laeuft gerade</string>
+    <string name="advanced_scan">Fortgeschrittener Scan</string>
+    <string name="advanced_scan_summary">Aktiviere oder deaktiviere den fortgeschrittenen Scan Modus</string>
+    <string name="last_visit">Letzte gescannte Position: %s</string>
+    <string name="none">Keiner</string>
+    <string name="encounter">Begegnung</string>
+    <string name="pokemon_fetch_failed">Ein Fehler ist beim abrufen von den Pokémon Daten aufgetreten. Versuche es spaeter wieder!</string>
+    <string name="account_group_summary">Account Gruppe: %s</string>
+    <string name="remove_account_short">Entferne Account</string>
+    <string name="new_group">Neue Gruppe</string>
+    <string name="choose_group">Waehle Gruppe</string>
+    <string name="remove_group">Entferne von der aktuellen Gruppe</string>
+    <string name="group_name">Gruppenname</string>
+    <string name="all">Alle</string>
+    <string name="pokemesh_logging_in_acct">Verbinde Accounts…</string>
+    <string name="pokemesh_connected_acct">PokéMesh Accounts sind fertig zum scannen</string>
+    <string name="select_group">Waehle eine Gruppe</string>
+    <string name="def">Standard</string>
+    <string name="select_steps"Waehle Radius</string>
 </resources>
