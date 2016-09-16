@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pokemesh_faq_long_tap">كيف أبحث في موقع معين؟</string>
+    <string name="pokemesh_faq_long_tap_summary">يمكنك البحث في موقع مخصص بالضغط ضغطة طويلة على الخريطة. إذا بدأت بحث جديد، سوف يتوقف البحث السابق اذا كان لم يكتمل بعد</string>
+    <string name="pokemesh_faq_icons_blur">أيقوناتي البديلة غير واضحة </string>
+    <string name="pokemesh_faq_icons_blur_summary">نظرا لحقوق نينتيدو ، لا يمكننا أن نستخدم أيقونات بوكيمون على التطبيق لدينا. الأيقونات الأصلية مع الأشكال الأصلية ستكون غير واضحة وتم تصفيتها لتجنب المشاكل القانونية.</string>
+    <string name="pokemesh_faq_report">يوجد عندي مشكلة في استخدام بوكيماش</string>
+    <string name="pokemesh_faq_report_summary">نحن دائما على رأس الصفحات الاجتماعية للاستماع لأية مشاكل ومحاولة حلها في أسرع وقت ممكن!</string>
+</resources>

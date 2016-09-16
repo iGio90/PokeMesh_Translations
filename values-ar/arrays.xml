@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array translatable="false" name="relax_delay">
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>300</item>
+        <item>600</item>
+    </string-array>
+    <string-array translatable="false" name="scan_area">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array translatable="false" name="scan_distance">
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>125</item>
+        <item>150</item>
+    </string-array>
+    <string-array translatable="false" name="overlay_positions">
+        <item>Top left</item>
+        <item>Top right</item>
+        <item>Bottom left</item>
+        <item>Bottom right</item>
+    </string-array>
+    <string-array translatable="false" name="overlay_size">
+        <item>صغير جدا</item>
+        <item>صغير</item>
+        <item>وسط</item>
+        <item>كبير</item>
+    </string-array>
+    <string-array name="rarity_filters">
+        <item>الجميع</item>
+        <item>شائع جدا</item>
+        <item>شائع</item>
+        <item>غير شائع</item>
+        <item>نادر</item>
+        <item>نادر جدا</item>
+        <item>خاص</item>
+        <item>ملحمي</item>
+        <item>أسطوري</item>
+    </string-array>
+    <string-array name="iq_one_replies">
+        <item>نعم</item>
+        <item>أعتقد...</item>
+        <item>لا، أنت لا تزال بحاجة إلى العثور على بوكيمون في لعبة وقبض عليه بنفسك</item>
+        <item>فقط بعضهم</item>
+    </string-array>
+    <string-array name="iq_two_replies">
+        <item>لأن هناك حدود 10 ثانية من أجل منع حسابي للحصول على حظر</item>
+        <item>لأن المطورين يكرهونني</item>
+        <item>لأن اتصالي بالإنترنت بطيء جدا</item>
+    </string-array>
+    <string-array name="iq_three_replies">
+        <item>نوع جديد نوعا ما من الجيمز وبوكيستوبز</item>
+        <item>محدد يشيرالى منطقة البحث الحالية</item>
+        <item>محدد للتقليل من مدة  البحث</item>
+        <item>لا أعلم</item>
+    </string-array>
+    <string-array name="iq_four_replies">
+        <item>نعم .. أقسم بذلك!</item>
+        <item>لا .. عذرا!</item>
+    </string-array>
+</resources>
