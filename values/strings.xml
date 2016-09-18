@@ -307,4 +307,7 @@
     <string name="iv_percentage">IV percentage</string>
     <string name="proxy_user">Proxy username</string>
     <string name="proxy_pass">Proxy password</string>
+    <string name="wallpapers">Wallpapers</string>
+    <string name="set_wallpaper">Set wallpaper</string>
+    <string name="error_wallpaper">There was an error while setting the new wallpaper. Try again later!</string>
 </resources>
