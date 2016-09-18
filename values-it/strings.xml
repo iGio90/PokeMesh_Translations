@@ -204,7 +204,7 @@
     <string name="choose_mirror">Seleziona una fonte</string>
     <string name="no_mirrors">Non ci sono fonti disponibili al momento. Riprova in seguito!</string>
     <string name="autotime_error">La data e l\'ora di sistema devono essere impostate su automatico per poter visualizzare i Pokémon sulla mappa. Perfavore, abilita la data e l\'ora automatiche!</string>
-    <string name="loading">Caricamentio…</string>
+    <string name="loading">Caricamento…</string>
     <string name="visiting_pokestop">Visito il Pokéstop</string>
     <string name="not_lured_contestual">Questo Pokéstop non ha moduli esca attivi.</string>
     <string name="pokestop_share_title">Ho appena visitato un Pokéstop!</string>

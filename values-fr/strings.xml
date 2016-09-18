@@ -36,7 +36,7 @@
     <string name="pokemesh_about">A propos</string>
     <string name="pokemesh_follow_us">Nous suivre</string>
     <string name="pokemesh_check_update">Mise à jour</string>
-    <string name="pokemesh_checking_update">Recherche de mise à jour...</string>
+    <string name="pokemesh_checking_update">Recherche de mise à jour…</string>
     <string name="pokemesh_update_failed">Impossible de communiquer avec les serveurs de mise à jour. Essayez plus tard !</string>
     <string name="pokemesh_no_update_available">Vous êtes sur la dernière version de PokéMesh</string>
     <string name="pokemesh_update_available">Une nouvelle version de PokéMesh est disponible !</string>
@@ -210,25 +210,25 @@
     <string name="pokestop_share_content_lured">Pokéstop avec module de leurre actif</string> <!-- this string will be append to the string above if the pokestop got an active lure !-->
     
     <string name="pokemesh_enable_advanced">Activer les fonctions avancées</string>
-    <string name="iq_test_summary">Vous voulez activer les fonctions avancées ? Voyons si vous répondez correctement aux questions suivantes...</string>
+    <string name="iq_test_summary">Vous voulez activer les fonctions avancées ? Voyons si vous répondez correctement aux questions suivantes…</string>
     <string name="iq_one">PokéMesh peut-il attraper des Pokémons pour moi ?</string>
     <string name="iq_two">Pourquoi le scan prend-il autant de temps ?</string>
     <string name="iq_three">Que représentent les marqueurs bleus sur la carte ?</string>
     <string name="iq_four">Ces fonctionnalités sont destinées à des utilisateurs avancés et peuvent interférer avec le fonctionnement du scanner. Promettez-vous de lire les descriptions avec attention ?</string>
-    <string name="iq_fail">Peut-être vaut-il mieux que vous utilisiez PokéMesh sans les fonctionnalités avancées et que vous profitiez de l'application sans elles.</string>
+    <string name="iq_fail">Peut-être vaut-il mieux que vous utilisiez PokéMesh sans les fonctionnalités avancées et que vous profitiez de l\'application sans elles.</string>
     <string name="share_this">Partagez ce %s</string>
     <string name="mark_area">Marqueur sur la carte</string>
     <string name="mark_area_summary">Affiche un cercle avec la distance de chaque pas sur la carte.</string>
     <string name="go">Go !</string>
     <string name="lured_module">Module de leurre</string>
     <string name="pokestop_gym_parse_failed">Impossible de recevoir des données des serveurs PokémonGO. Assurez-vous que votre zone de scan est proche du marqueur. Essayez de scanner plus près du marqueur ou réessayez plus tard !</string>
-    <string name="gym_level">Niveau de l'arène :</string>
-    <string name="gym_points">Points de l'arène:</string>
+    <string name="gym_level">Niveau de l\'arène :</string>
+    <string name="gym_points">Points de l\'arène:</string>
     <string name="guards">Gardes Pokémons</string>
     <string name="share_this_gym">Partagez cette arène</string>
     <string name="gym_pokemon_guard_cp" formatted="false">PC: %s</string>
     <string name="gym_share" formatted="false">Hey! il y a une arène %s niveau %s ici : %s</string>
-    <string name="pokemesh_pokestops_lured_summary">N'affichez que les Pokéstops avec leurre</string>
+    <string name="pokemesh_pokestops_lured_summary">N\'affichez que les Pokéstops avec leurre</string>
     <string name="colors">Couleurs</string>
     <string name="ring_color">Cercle de scan</string>
     <string name="ring_color_summary">Selectionnez une couleur pour le cercle de scan</string>
