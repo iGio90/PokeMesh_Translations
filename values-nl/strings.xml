@@ -261,4 +261,36 @@
     <string name="select_group">Selecteer een groep</string>
     <string name="def">Standaard</string>
     <string name="select_steps">Selecteer scanbereik</string>
+    
+    <string name="adblock_message">Overweeg PokéMesh toe te staan om advertenties te tonen om ons werk te steunen!</string>
+    <string name="adblock_message_forced">\'PokéMesh steunen\' is uitgeschakeld omdat je mogelijk een Adblocker gebruikt :(.</string>
+    <string name="more">Meer…</string>
+    <string name="send_to">Versturen naar…</string>
+    <string name="moves">Aanvallen</string>
+    <string name="individual_values">IV\'s</string>
+    <string name="stamina">Uithoudingsvermogen</string>
+    <string name="attack">Aanval</string>
+    <string name="defense">Verdediging</string>
+    <string name="capture_prob">Vangkans</string>
+    <string name="pokeball">Pokéball</string>
+    <string name="greatball">Greatball</string>
+    <string name="ultraball">Ultraball</string>
+    <string name="informations">Informatie</string>
+    <string name="height">Hoogte</string>
+    <string name="weight">Gewicht</string>
+    <string name="import_export">Importeren / Exporteren</string>
+    <string name="no_files_to_import">Er is niets om te importeren…</string>
+    <string name="export_accounts">Gebruikersaccounts exporteren</string>
+    <string name="something_went_wrong">Er ging iets fout. Probeer het later opnieuw!</string>
+    <string name="importit">Importeren</string>
+    <string name="account_imported">Gebruikersaccounts succesvol geïmporteerd!</string>
+    <string name="proxy">Proxy</string>
+    <string name="proxy_settings">Proxy instellingen</string>
+    <string name="proxy_summary">Proxy verbinding in- of uitschakelen</string>
+    <string name="proxy_prefs">Proxy beheren</string>
+    <string name="proxy_address">Proxy adres</string>
+    <string name="proxy_port">Proxy poort</string>
+    <string name="iv_percentage">IV percentage</string>
+    <string name="proxy_user">Proxy gebruikersnaam</string>
+    <string name="proxy_pass">Proxy wachtwoord</string>
 </resources>
