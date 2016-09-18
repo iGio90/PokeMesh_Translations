@@ -293,4 +293,7 @@
     <string name="iv_percentage">IV percentage</string>
     <string name="proxy_user">Proxy gebruikersnaam</string>
     <string name="proxy_pass">Proxy wachtwoord</string>
+    <string name="wallpapers">Achtergronden</string>
+    <string name="set_wallpaper">Achtergrond instellen</string>
+    <string name="error_wallpaper">Er ging iets fout bij het instellen van de achtergrond. Probeer het later opnieuw!</string>
 </resources>
