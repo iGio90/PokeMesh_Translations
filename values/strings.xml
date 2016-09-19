@@ -289,7 +289,7 @@
     <string name="pokeball">Pokeball</string>
     <string name="greatball">Greatball</string>
     <string name="ultraball">Ultraball</string>
-    <string name="informations">Informations</string>
+    <string name="informations">Information</string>
     <string name="height">Height</string>
     <string name="weight">Weight</string>
     <string name="import_export">Import / Export</string>
@@ -309,5 +309,7 @@
     <string name="proxy_pass">Proxy password</string>
     <string name="wallpapers">Wallpapers</string>
     <string name="set_wallpaper">Set wallpaper</string>
+    <string name="error_loading_wallpaper">There was an error while loading wallpapers. Try again later!</string>
     <string name="error_wallpaper">There was an error while setting the new wallpaper. Try again later!</string>
+    <string name="wallpaper_applied">Wallpaper has been set correctly</string>
 </resources>
