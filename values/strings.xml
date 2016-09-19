@@ -312,4 +312,7 @@
     <string name="error_loading_wallpaper">There was an error while loading wallpapers. Try again later!</string>
     <string name="error_wallpaper">There was an error while setting the new wallpaper. Try again later!</string>
     <string name="wallpaper_applied">Wallpaper has been set correctly</string>
+    <string name="choose_login">How would you like to login?</string>
+    <string name="pokemesh_register_pogo">Register on PTC</string>
+    <string name="pokemesh_login_footer">To avoid permanent or temporary ban, do not use your main Pokémon GO account.</string>
 </resources>
