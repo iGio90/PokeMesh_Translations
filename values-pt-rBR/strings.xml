@@ -297,4 +297,7 @@
     <string name="error_loading_wallpaper">Ocorreu um erro durante o carregamento do papel de parede. Tente novamente mais tarde!</string>
     <string name="error_wallpaper">Ocorreu um erro ao configurar o novo papel de parede. Tente novamente mais tarde!</string>
     <string name="wallpaper_applied">O papel de parede foi adicionado com sucesso</string>
+    <string name="choose_login">Como você gostaria de se conectar??</string>
+    <string name="pokemesh_register_pogo">Registrar uma PTC</string>
+    <string name="pokemesh_login_footer">Para evitar ban temporário ou permanente, não utilize sua conta principal do Pokémon GO.</string>
 </resources>
