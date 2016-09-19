@@ -274,7 +274,7 @@
     <string name="pokeball">Pokeball</string>
     <string name="greatball">Greatball</string>
     <string name="ultraball">Ultraball</string>
-    <string name="informations">Informações</string>
+    <string name="informations">Informação</string>
     <string name="height">Altura</string>
     <string name="weight">Peso</string>
     <string name="import_export">Importar / Exportar</string>
@@ -294,5 +294,7 @@
     <string name="proxy_pass">Senha do Proxy</string>
     <string name="wallpapers">Papéis de Parede</string>
     <string name="set_wallpaper">Escolher papel de parede</string>
+    <string name="error_loading_wallpaper">Ocorreu um erro durante o carregamento do papel de parede. Tente novamente mais tarde!</string>
     <string name="error_wallpaper">Ocorreu um erro ao configurar o novo papel de parede. Tente novamente mais tarde!</string>
+    <string name="wallpaper_applied">O papel de parede foi adicionado com sucesso</string>
 </resources>
