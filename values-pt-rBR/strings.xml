@@ -236,4 +236,29 @@
     <string name="choose_color">Escolher uma cor</string>
     <string name="main_marker">Marcador principal</string>
     <string name="main_marker_summary">Exibir um marcador principal no centro da área escaneada</string>
+    <string name="pokemesh_meshed_new" formatted="false">Tem um %s aqui: %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">Existem alguns Pokémon por aqui %s!</string>
+    <string name="rarity">Raridade</string>
+    <string name="rarity_summary">Editar a raridade deste Pokémon</string>
+    <string name="select_rarity">Selecionar raridade</string>
+    <string name="force_notification">Forçar vibração e alerta sonoro quando este Pokémon for encontrato. (Observação: Isso exige que vibração e alertas sonoros estejam ativos em suas preferências)</string>
+    <string name="pokemesh_open">PokéMesh está ativo</string>
+    <string name="advanced_scan">Scan avançado</string>
+    <string name="advanced_scan_summary">Ativar ou desativar modo de scan avançado</string>
+    <string name="last_visit">Última posição escaneada: %s</string>
+    <string name="none">Nenhum</string>
+    <string name="encounter">Encontro</string>
+    <string name="pokemon_fetch_failed">Ocorreu um erro tentando atualizar os dados do Pokémon. Tente novamente mais tarde!</string>
+    <string name="account_group_summary">Grupo da conta: %s</string>
+    <string name="remove_account_short">Remover conta</string>
+    <string name="new_group">Novo grupo</string>
+    <string name="choose_group">Selecionar um grupo</string>
+    <string name="remove_group">Remover do grupo atual</string>
+    <string name="group_name">Nome do grupo</string>
+    <string name="all">Todos</string>
+    <string name="pokemesh_logging_in_acct">Conectando contas…</string>
+    <string name="pokemesh_connected_acct">Contas PokéMesh prontas para escanear</string>
+    <string name="select_group">Selecione um grupo</string>
+    <string name="def">Padrão</string>
+    <string name="select_steps">Selecione o raio</string>
 </resources>
