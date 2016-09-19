@@ -295,5 +295,10 @@
     <string name="proxy_pass">Proxy wachtwoord</string>
     <string name="wallpapers">Achtergronden</string>
     <string name="set_wallpaper">Achtergrond instellen</string>
+    <string name="error_loading_wallpaper">Er ging iets fout bij het laden van de achtergrond. Probeer het later opnieuw!</string>
     <string name="error_wallpaper">Er ging iets fout bij het instellen van de achtergrond. Probeer het later opnieuw!</string>
+    <string name="wallpaper_applied">Achtergrond ingesteld!</string>
+    <string name="choose_login">Hoe wil je inloggen?</string>
+    <string name="pokemesh_register_pogo">Registreren op PTC</string>
+    <string name="pokemesh_login_footer">Gebruik NOOIT je Pokémon GO Account in PokéMesh om een permanente ban te voorkomen!</string>
 </resources>
