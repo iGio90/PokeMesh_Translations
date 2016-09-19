@@ -294,5 +294,5 @@
     <string name="proxy_pass">Senha do Proxy</string>
     <string name="wallpapers">Papéis de Parede</string>
     <string name="set_wallpaper">Escolher papel de parede</string>
-    <string name="error_wallpaper">Ocorreu um erro ao configurar o novo papel de parede. Tente novamento mais tarde!</string>
+    <string name="error_wallpaper">Ocorreu um erro ao configurar o novo papel de parede. Tente novamente mais tarde!</string>
 </resources>
