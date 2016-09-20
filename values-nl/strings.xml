@@ -301,4 +301,6 @@
     <string name="choose_login">Hoe wil je inloggen?</string>
     <string name="pokemesh_register_pogo">Registreren op PTC</string>
     <string name="pokemesh_login_footer">Gebruik NOOIT je Pokémon GO Account in PokéMesh om een permanente ban te voorkomen!</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="close_pokemesh">PokéMesh sluiten</string>
 </resources>
