@@ -315,4 +315,6 @@
     <string name="choose_login">How would you like to login?</string>
     <string name="pokemesh_register_pogo">Register on PTC</string>
     <string name="pokemesh_login_footer">To avoid permanent or temporary ban, do not use your main Pokémon GO account.</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="close_pokemesh">Close PokéMesh</string>
 </resources>
