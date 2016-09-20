@@ -262,5 +262,5 @@
     <string name="pokemesh_connected_acct">PokéMesh Accounts sind fertig zum scannen</string>
     <string name="select_group">Waehle eine Gruppe</string>
     <string name="def">Standard</string>
-    <string name="select_steps"Waehle Radius</string>
+    <string name="select_steps">Waehle Radius</string>
 </resources>
