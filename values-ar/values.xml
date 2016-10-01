@@ -150,7 +150,7 @@
     <string name="password">كلمة السر</string>
     <string name="username_empty">ادخل اسم مستخدم صالح!</string>
     <string name="password_empty">ادخل كلمة سر صالحة!</string>
-    <string name="pokemesh_login_error_multiacct">فشل تسجيل الدخول باستخدام حساب: ٪s. من الممكن ان يكون السبب هو ان الحساب مغلق او خوادم بوكيمون قو معطلة حاليا.</string>
+    <!-- <string name="pokemesh_login_error_multiacct">فشل تسجيل الدخول باستخدام حساب: ٪s. من الممكن ان يكون السبب هو ان الحساب مغلق او خوادم بوكيمون قو معطلة حاليا.</string> require %s after account name!-->
     <string name="take_me_there">خذني الى هناك!</string>
     <string name="pokemon_share_title">لقد وجدت %s  مع بوكيماش!</string>
     <string name="pokemon_share_content" formatted="false">مرحبا! يوجد %s هنا : %s</string>

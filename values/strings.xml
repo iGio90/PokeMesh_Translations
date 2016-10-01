@@ -317,4 +317,7 @@
     <string name="pokemesh_login_footer">To avoid permanent or temporary ban, do not use your main Pokémon GO account.</string>
     <string name="pokedex">Pokédex</string>
     <string name="close_pokemesh">Close PokéMesh</string>
+    <string name="modified_version">You are using a modified version of PokéMesh. Please, download the official app from our website at www.pokemesh.com</string>
+    <string name="icons">Icons</string>
+    <string name="icons_summary">Choose the Pokémon icon set to use</string>
 </resources>
