@@ -300,4 +300,9 @@
     <string name="choose_login">Como você gostaria de se conectar??</string>
     <string name="pokemesh_register_pogo">Registrar uma PTC</string>
     <string name="pokemesh_login_footer">Para evitar ban temporário ou permanente, não utilize sua conta principal do Pokémon GO.</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="close_pokemesh">Fechar PokéMesh</string>
+    <string name="modified_version">Você está usando uma versão modificada do PokéMesh. Por favor, faça o download da versão oficial no nosso site www.pokemesh.com</string>
+    <string name="icons">Ícones</string>
+    <string name="icons_summary">Escolha o conjunto de ícones Pokémon que deseja usar</string>
 </resources>
