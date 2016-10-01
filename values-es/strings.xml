@@ -62,7 +62,7 @@
     <string name="pokemesh_important">Importante</string>
     <string name="pokemesh_login_google_summary">Para evitar el tiempo de inactividad, a partir de ahora la aplicación se conectará a través de los servidores de Google.\nSi su cuenta de Pokémon GO está conectada a Gmail, nosotros recomendamos utilizar una cuenta alternativa, para evitar la prohibición temporal o permanente de su cuenta (Baneos).\nSi no tienes una cuenta alterna de Gmail, puedes crear una ahora mismo.\n\nUna vez que la cuenta esté lista y registrada, se requiere que inicie sesión en Pokémon GO y acepte los términos de servicio.</string>
     <string name="pokemesh_register">Registrar en Gmail</string>
-    <string name="pokemesh_already_have_account">Ya tengo una cuenta alterna de Gmail.</string>
+    <string name="pokemesh_already_have_account">Ya tengo una cuenta alternativa de Gmail.</string>
 
     <string name="pokemesh_tour_welcome">Bienvenido a PokéMesh</string>
     <string name="pokemesh_your_location">Tu ubicación</string>
@@ -97,7 +97,7 @@
     <string name="pokemesh_advanced">Avanzado</string>
     <string name="pokemesh_scan_area">Rango de exploración</string>
     <string name="pokemesh_advanced_summary">Atención: ajustar estos valores afectará el tiempo que necesita cada búsqueda para completarse.</string>
-    <string name="pokemesh_scan_area_summary">Seleccione el radio del areá de búsqueda para incrementar o disminuir los pasos de la ubicación seleccionada o de la actual.</string>
+    <string name="pokemesh_scan_area_summary">Seleccione el radio del área de búsqueda para incrementar o disminuir los pasos de la ubicación seleccionada o de la actual.</string>
     <string name="pokemesh_scan_distance">Distancia de pasos</string>
     <string name="pokemesh_scan_distance_summary">Seleccione la distancia en metros entre los pasos.</string>
     <string name="pokemesh_scan_steps_marker">Marque las etapas</string>
@@ -178,7 +178,7 @@
     <string name="delete">Borrar</string>
     <string name="ilovepokemesh">Me encanta PokéMesh</string>
     <string name="ilovepokemesh_summary">Mostrar un pequeño y no intrusivo banner en el mapa principal.</string>
-    <string name="check_status">Comprobando estado</string>
+    <string name="check_status">Verificar estado</string>
     <string name="verifying_accounts">Verificando cuentas…</string>
     <string name="initializing">Iniciando</string>
     <string name="checking_account">Comprobando la cuenta: %s</string>
@@ -189,13 +189,13 @@
     <string name="overlay_foreground">Presione aquí para empezar PokéMesh</string>
     <string name="email">Email</string>
     <string name="notifications">Notificaciones</string>
-    <string name="notifications_summary">Habilitar o Inhabilitar las notificaciones después de cada exploración. 
+    <string name="notifications_summary">Habilitar o deshabilitar las notificaciones después de cada exploración. 
 También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</string>
-    <string name="notifications_sounds_summary">Habilitar o Inhabilitar sonidos de notificaciones.</string>
-    <string name="notifications_vibration_summary">Habilitar o Inhabilitar vibración de notificaciones.</string>
+    <string name="notifications_sounds_summary">Habilitar o deshabilitar sonidos de notificaciones.</string>
+    <string name="notifications_vibration_summary">Habilitar o deshabilitar vibración de notificaciones.</string>
     <string name="downloading_icons">Descargando iconos originales…</string>
     <string name="alternative_icons">Iconos alternativos.</string>
-    <string name="alternative_icons_summary">Habilitar o Inhabilitar los iconos alternativos.</string>
+    <string name="alternative_icons_summary">Habilitar o deshabilitar los iconos alternativos.</string>
     <string name="visited_by">Visitado por la cuenta: %s</string>
     <string name="timers_colors">Color de rareza del temporizador.</string>
     <string name="timers_colors_summary">Habilitar o Inhabilitar diferentes colores basado en la rareza del Pokémon.</string>
@@ -217,7 +217,7 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="share_this_gym">Compartir este gimnasio</string>
     <string name="gym_pokemon_guard_cp" formatted="false">PC: %s</string>
     <string name="gym_share" formatted="false">Hey! hay un gimnasio %s nivel %s aquí: %s</string>
-    <string name="pokemesh_pokestops_lured_summary">Mostrar solo PokeParadas con módulo cebo.</string>
+    <string name="pokemesh_pokestops_lured_summary">Mostrar solo Poképaradas con módulo cebo.</string>
     <string name="colors">Colores</string>
     <string name="ring_color">Círculo de barrido</string>
     <string name="ring_color_summary">Selecciona el color del circulo barrido</string>
@@ -227,7 +227,7 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="main_marker">Marcador principal</string>
     <string name="main_marker_summary">Mostrar el marcador principal en el centro del circulo barrido</string>
     <string name="pokemesh_meshed_new" formatted="false">Hay un %s aquí: %s!</string>
-    <string name="pokemesh_big_multi_meshed_new">Hay algunos Pokémon cerca %s!</string>
+    <string name="pokemesh_big_multi_meshed_new">Hay algunos Pokémons cerca %s!</string>
     <string name="rarity">Rareza</string>
     <string name="rarity_summary">Cambia la rareza de este Pokémon</string>
     <string name="select_rarity">Seleccionar rareza</string>
@@ -251,4 +251,45 @@ También se puede ocultar Pokémon desde las notificaciones de la PokéDex.</str
     <string name="select_group">Selecciona un grupo</string>
     <string name="def">Defecto</string>
     <string name="select_steps">Selecciona rango</string>
+    <string name="adblock_message">¡Por favor considera deshabilitar cualquier tipo de AdBlocker para to apoyar nuestro trabajo. Gracias!</string>
+    <string name="adblock_message_forced">Las características de apoyarnos han sido dehabilitadas por una deteción de AdBlocker.</string>
+    <string name="more">Más…</string>
+    <string name="send_to">Enviar a…</string>
+    <string name="moves">Movimientos</string>
+    <string name="individual_values">Valores Individuales</string>
+    <string name="stamina">Aguante</string>
+    <string name="attack">Ataque</string>
+    <string name="defense">Defensa</string>
+    <string name="capture_prob">Probabilidades de captura</string>
+    <string name="pokeball">Pokeball</string>
+    <string name="greatball">Superball</string>
+    <string name="ultraball">Ultraball</string>
+    <string name="informations">Información</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="import_export">Importar / Exportar</string>
+    <string name="no_files_to_import">Nada para importar…</string>
+    <string name="export_accounts">Exportar cuentas</string>
+    <string name="something_went_wrong">Algo ha ido mal. ¡Inténtalo más tarder!</string>
+    <string name="importit">Importar</string>
+    <string name="account_imported">Cuentas importadas con éxito!</string>
+    <string name="proxy">Proxy</string>
+    <string name="proxy_settings">Ajustes de Proxy</string>
+    <string name="proxy_summary">Habilita o deshabilita las conexiones proxy</string>
+    <string name="proxy_prefs">Gestionar servidores Proxy</string>
+    <string name="proxy_address">Dirección Proxy</string>
+    <string name="proxy_port">Puerto Proxy</string>
+    <string name="iv_percentage">Porcentaje IV</string>
+    <string name="proxy_user">Nombre de usuario Proxy</string>
+    <string name="proxy_pass">Contraseña Proxy</string>
+    <string name="wallpapers">Fondos de pantalla</string>
+    <string name="set_wallpaper">Establecer fondo de pantalla</string>
+    <string name="error_loading_wallpaper">Hubo un error al cargar los fondos de pantalla. ¡Inténtalo mas tarde!</string>
+    <string name="error_wallpaper">Hubo un error al establecer el fondo de pantalla. ¡Inténtalo mas tarde!</string>
+    <string name="wallpaper_applied">El wallpaper ha sido establecido correctamente</string>
+    <string name="choose_login">¿Como prefieres loguearte?</string>
+    <string name="pokemesh_register_pogo">Registrar en PTC</string>
+    <string name="pokemesh_login_footer">Para evitar baneos permanentes o temporales, evita usar tu cuenta principal de PokémonGO.</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="close_pokemesh">Cerrar PokéMesh</string>
 </resources>
