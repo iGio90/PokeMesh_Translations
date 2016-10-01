@@ -248,7 +248,7 @@
     <string name="advanced_scan_summary">Włącz lub wyłącz tryb zaawansowanego skanu</string>
     <string name="last_visit">Ostatnia skanowana pozycja: %s</string>
     <string name="none">Żadna</string>
-    <string name="encounter">Odwiedzona</string>
+    <string name="encounter">Sprawdź</string>
     <string name="pokemon_fetch_failed">Jest problem z pobraniem danych Pokémona. Spróbuj później!</string>
     <string name="account_group_summary">Grupa konta: %s</string>
     <string name="remove_account_short">Usuń konto</string>
@@ -296,4 +296,11 @@
     <string name="wallpapers">Tapety</string>
     <string name="set_wallpaper">Ustaw tapetę</string>
     <string name="error_wallpaper">Wystąpił błąd podczas ustawiania nowej tapety. Spróbuj ponownie później!</string>
+    <string name="error_loading_wallpaper">Wystąpił błąd podczas ładowania tapety. Spróbuj ponownie później!</string>
+    <string name="wallpaper_applied">Tapeta ustawiona poprawnie</string>
+    <string name="choose_login">Jak chcesz się logować?</string>
+    <string name="pokemesh_register_pogo">Zarejestruj się w PTC</string>
+    <string name="pokemesh_login_footer">By ominąć permanentnego lub czasowego bana, nie używaj swojego głównego konta Pokémon GO.</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="close_pokemesh">Zamknij PokéMesh</string>
 </resources>
