@@ -320,4 +320,19 @@
     <string name="modified_version">You are using a modified version of PokéMesh. Please, download the official app from our website at www.pokemesh.com</string>
     <string name="icons">Icons</string>
     <string name="icons_summary">Choose the Pokémon icon set to use</string>
+    <string name="release">Release</string>
+    <string name="current_version">Current version:</string>
+    <string name="update">Update</string>
+    <string name="version">Version:</string>
+    <string name="channel">Channel:</string>
+    <string name="beta">Beta</string>
+    <string name="updates">Updates</string>
+    <string name="beta_channel">Get notified for beta releases</string>
+    <string name="captcha">Captcha</string>
+    <string name="captcha_required">Captcha is required for account: %s</string>
+    <string name="whatisit">What is it?</string>
+    <string name="captcha_explain">Captcha is a new security measure from Niantic to prevent scans and bot to works.</string>
+    <string name="failed_connect_accounts">Can\'t connect to scan service. Try later!</string>
+    <string name="more_then_default_tth_left">More then 1 minute</string>
+    <string name="timers_1mn_summary"><![CDATA[Show timers for Pokémon with >1min.]]></string>
 </resources>
