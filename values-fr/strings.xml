@@ -264,7 +264,7 @@
     <string name="def">Par défaut</string>
     <string name="select_steps">Selectionner la portée</string>
     <string name="adblock_message">Veuillez s\'il vous plaît désactiver votre bloqueur publicitaire pour soutenir notre travail. Merci!</string>
-    <string name="adblock_message_forced">La détection d'un bloqueur publicitaire vous empêche de nous supporter.</string>
+    <string name="adblock_message_forced">La détection d\'un bloqueur publicitaire vous empêche de nous supporter.</string>
     <string name="more">Plus…</string>
     <string name="send_to">Envoyer à…</string>
     <string name="moves">Attaques</string>
@@ -294,14 +294,14 @@
     <string name="iv_percentage">Pourcentage d\'IV</string>
     <string name="proxy_user">Nom du proxy</string>
     <string name="proxy_pass">Mot de passe du proxy</string>
-    <string name="wallpapers">Fond d'écran</string>
+    <string name="wallpapers">Fond d\'écran</string>
     <string name="set_wallpaper">Définir comme fond d\'écran</string>
     <string name="error_loading_wallpaper">Erreur dans le chargement du fond d\écran. Essayez plus tard!</string>
     <string name="error_wallpaper">Erreur dans la configuration du nouveau fond d\'écran. Essayez plus tard!</string>
-    <string name="wallpaper_applied">Fond d'écran installé</string>
+    <string name="wallpaper_applied">Fond d\'écran installé</string>
     <string name="choose_login">Comment souhaitez-vous vous identifier ?</string>
-    <string name="pokemesh_register_pogo">S'enregistrer sur le Club des Dresseurs Pokémon</string>
-    <string name="pokemesh_login_footer">Afin d'éviter d'être banni temporairement ou définitivement, n'utilisez pas le même compte que pour Pokemon Go.</string>
+    <string name="pokemesh_register_pogo">S\'enregistrer sur le Club des Dresseurs Pokémon</string>
+    <string name="pokemesh_login_footer">Afin d\'éviter d\'être banni temporairement ou définitivement, n\'utilisez pas le même compte que pour Pokemon Go.</string>
     <string name="pokedex">Pokédex</string>
     <string name="close_pokemesh">Fermer PokéMesh</string>
     
