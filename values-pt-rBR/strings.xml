@@ -300,4 +300,24 @@
     <string name="choose_login">Como você gostaria de se conectar??</string>
     <string name="pokemesh_register_pogo">Registrar uma PTC</string>
     <string name="pokemesh_login_footer">Para evitar ban temporário ou permanente, não utilize sua conta principal do Pokémon GO.</string>
+    <string name="pokedex">Pokédex</string>
+    <string name="close_pokemesh">Fechar PokéMesh</string>
+    <string name="modified_version">Você está usando uma versão modificada do PokéMesh. Por favor, faça o download da versão oficial no nosso site www.pokemesh.com</string>
+    <string name="icons">Ícones</string>
+    <string name="icons_summary">Escolha o conjunto de ícones Pokémon que deseja usar</string>
+    <string name="release">Nova versão</string>
+    <string name="current_version">Versão atual:</string>
+    <string name="update">Atualizar</string>
+    <string name="version">Versão:</string>
+    <string name="channel">Canal:</string>
+    <string name="beta">Beta</string>
+    <string name="updates">Atualizações</string>
+    <string name="beta_channel">Receba notificações para versões beta</string>
+    <string name="captcha">Captcha</string>
+    <string name="captcha_required">O captcha é exigido para a conta: %s</string>
+    <string name="whatisit">O que é isso?</string>
+    <string name="captcha_explain">O Captcha é um novo método de segurança utilizado pela Niantic para evitar que scans (radares) e bots funcionem.</string>
+    <string name="failed_connect_accounts">Não é possivel conectar ao serviço de scan. Tente novamente mais tarde!</string>
+    <string name="more_then_default_tth_left">Mais que 1 minuto</string>
+    <string name="timers_1mn_summary"><![CDATA[Exibir cronômetros para Pokémon com mais de 1 min.]]></string>
 </resources>
